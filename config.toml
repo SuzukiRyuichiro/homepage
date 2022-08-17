@@ -2,3 +2,34 @@ baseURL = 'https://ryuichirosuzuki.com'
 languageCode = 'en-us'
 title = 'Ryuichiro Suzuki | Fullstack Developer'
 theme = "hello-friend-ng"
+homeSubtitle = 'Fullstack Developer'
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Blogs"
+    url        = "/posts"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About me"
+    url        = "/about"
+
+[[params.social]]
+  name = "twitter"
+  url = "https://www.twitter.com/RyuichiroSuzuki"
+
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/ryuichiro-suzuki-scooter/"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/SuzukiRyuichiro"
+
+[[params.social]]
+  name = "fitbit"
+  url = "https://www.fitbit.com/user/944WLQ"
+
+[[params.social]]
+  name = "spotify"
+  url = "https://open.spotify.com/user/22ndwarmwin74uwyftti4zvla"

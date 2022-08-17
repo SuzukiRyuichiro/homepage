@@ -5,7 +5,9 @@ draft: false
 toc: false
 images:
 tags:
-  - untagged
+  - graph
+  - python
+  - ruby
 ---
 
 ```goat
