@@ -4,7 +4,7 @@ title = 'Ryuichiro Suzuki'
 theme = "hello-friend-ng"
 
 [params]
-  homeSubtitle = "Bilingual Fullstack Developer"
+  homeSubtitle = "Fullstack Developer in Barcelona"
 
 [menu]
   [[menu.main]]
