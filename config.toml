@@ -1,4 +1,4 @@
-baseURL = 'https://ryuichirosuzuki.com'
+baseURL = ''
 languageCode = 'en-us'
 title = 'Ryuichiro Suzuki'
 theme = "hello-friend-ng"
