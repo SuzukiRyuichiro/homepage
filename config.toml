@@ -1,8 +1,10 @@
 baseURL = 'https://ryuichirosuzuki.com'
 languageCode = 'en-us'
-title = 'Ryuichiro Suzuki | Fullstack Developer'
+title = 'Ryuichiro Suzuki'
 theme = "hello-friend-ng"
-homeSubtitle = 'Fullstack Developer'
+
+[params]
+  homeSubtitle = "Bilingual Fullstack Developer"
 
 [menu]
   [[menu.main]]
