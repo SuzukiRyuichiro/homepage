@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://ryuichirosuzuki.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Ryuichiro Suzuki | Fullstack Developer'
 theme = "hello-friend-ng"
