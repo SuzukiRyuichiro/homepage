@@ -15,6 +15,10 @@ theme = "hello-friend-ng"
     identifier = "about"
     name       = "About me"
     url        = "/about"
+  [[menu.main]]
+    identifier = "resume"
+    name       = "Resume"
+    url        = "/resume"
 
 [[params.social]]
   name = "twitter"
