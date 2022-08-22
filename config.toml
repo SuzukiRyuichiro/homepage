@@ -7,6 +7,7 @@ theme = ["mdi", "hello-friend-ng"]
 [params]
   homeSubtitle = "Fullstack Developer in Barcelona"
   enableThemeToggle = true
+  customCSS = ["/css/home.css"]
 
 [menu]
   [[menu.main]]
@@ -46,3 +47,6 @@ theme = ["mdi", "hello-friend-ng"]
     path = "/coding-me.jpg"
     alt = "coding-me"
     maxWidth = "350px"
+
+[params.logo]
+  logoText = "scooter"
