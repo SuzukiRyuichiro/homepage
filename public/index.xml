@@ -28,7 +28,7 @@ Hello Platea rutrum orci risus lorem eu sagittis dapibus parturient pulvinar Pla
     </item>
     
     <item>
-      <title>Hi👋 I&#39;m Scooter 🛵</title>
+      <title>Hi. I&#39;m Scooter {{&lt; mdi moped &gt;}}</title>
       <link>/about/</link>
       <pubDate>Wed, 17 Aug 2022 15:04:21 +0900</pubDate>
       
