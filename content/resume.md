@@ -4,7 +4,6 @@ date: 2022-08-17T15:23:24+09:00
 draft: false
 ---
 ## Work Experience
-
 ### [OpenSalary](https://opensalary.jp/)
 ##### June 2022 - Present
 
@@ -29,7 +28,7 @@ Lacus non nullam cursus feugiat ut habitant porta rhoncus, amet senectus aliquet
 
 ---
 
-## Education
+## Education {{< mdi school >}}
 
 ### Akita International University
 Augue tellus finibus nibh dignissim diam accumsan est risus vestibulum
