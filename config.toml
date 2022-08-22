@@ -1,7 +1,7 @@
 baseURL = ''
 languageCode = 'en-us'
 title = 'Ryuichiro Suzuki'
-theme = ["mdi", "hello-friend-ng"]
+theme = ["hello-friend-ng"]
 
 
 [params]
