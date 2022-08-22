@@ -1,5 +1,5 @@
 ---
-title: "Hi. I'm Scooter {{< mdi moped >}}"
+title: "Hi. I'm Scooter"
 date: 2022-08-17T15:04:21+09:00
 draft: false
 ---
