@@ -7,10 +7,6 @@ images:
 tags:
   - lorem
   - ipsum
-  - hehe
-  - python
-  - hi
-  - ruby
 ---
 
 Lacus sagittis massa morbi nascetur curabitur ante at lacinia ultricies, urna et libero sollicitudin dolor vivamus hendrerit mauris, dictum taciti natoque arcu mollis sodales enim erat. Sodales primis gravida leo parturient aliquam sed placerat diam, nec vulputate per mi mauris suscipit porttitor torquent, sapien habitasse ante tristique erat maecenas dignissim. Sollicitudin enim at vehicula ac magnis ipsum, tellus eget egestas a fusce, curabitur est nisi hac elit.
