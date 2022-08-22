@@ -28,7 +28,7 @@ Lacus non nullam cursus feugiat ut habitant porta rhoncus, amet senectus aliquet
 
 ---
 
-## Education {{< mdi school >}}
+## Education
 
 ### Akita International University
 Augue tellus finibus nibh dignissim diam accumsan est risus vestibulum
