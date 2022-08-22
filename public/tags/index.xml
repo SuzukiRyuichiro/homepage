@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ryuichiro Suzuki</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Ryuichiro Suzuki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Aug 2022 15:10:37 +0900</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hehe</title>
+      <link>/tags/hehe/</link>
+      <pubDate>Wed, 17 Aug 2022 15:10:37 +0900</pubDate>
+      
+      <guid>/tags/hehe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hi</title>
+      <link>/tags/hi/</link>
+      <pubDate>Wed, 17 Aug 2022 15:10:37 +0900</pubDate>
+      
+      <guid>/tags/hi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ipsum</title>
+      <link>/tags/ipsum/</link>
+      <pubDate>Wed, 17 Aug 2022 15:10:37 +0900</pubDate>
+      
+      <guid>/tags/ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lorem</title>
+      <link>/tags/lorem/</link>
+      <pubDate>Wed, 17 Aug 2022 15:10:37 +0900</pubDate>
+      
+      <guid>/tags/lorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>/tags/python/</link>
+      <pubDate>Wed, 17 Aug 2022 15:10:37 +0900</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby</title>
+      <link>/tags/ruby/</link>
+      <pubDate>Wed, 17 Aug 2022 15:10:37 +0900</pubDate>
+      
+      <guid>/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph</title>
+      <link>/tags/graph/</link>
+      <pubDate>Sat, 13 Aug 2022 10:40:49 +0900</pubDate>
+      
+      <guid>/tags/graph/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
