@@ -15,5 +15,14 @@ I was born in Tokyo Japan, and grew up there until 10. In 2010, my family moved 
 
 {{< image src="/newyork-me.jpg" alt="me in new york" position="center" style="border-radius: 8px; width: 50%; height: 400px; object-fit: cover;" >}}
 
+#### What do I like?
 
-{{< figure src="/newyork-me.jpg" >}}
+I like...
+- Traveling
+- Watching Formula 1
+- Go out and drink craft beers
+- Cooking
+
+{{< youtube 42QuXLucH3Q >}}
+
+
