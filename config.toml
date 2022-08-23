@@ -2,12 +2,27 @@ baseURL = ''
 languageCode = 'en-us'
 title = 'Ryuichiro Suzuki'
 theme = ["hello-friend-ng"]
+defaultContentLanguage = 'en'
+
+[languages]
+  [languages.en]
+    title = 'My blog'
+    weight = 1
+  [languages.ja]
+    title = 'ブログ'
+    weight = 2
+  [languages.fr]
+    title = 'ブログ'
+    weight = 2
 
 
 [params]
   homeSubtitle = "Fullstack Developer in Barcelona"
   enableThemeToggle = true
   customCSS = ["/css/home.css"]
+  enableSharingButtons = true
+  EnableGlobalLanguageMenu = true
+
 
 [menu]
   [[menu.main]]
