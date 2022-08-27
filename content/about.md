@@ -18,11 +18,10 @@ I was born in Tokyo Japan, and grew up there until 10. In 2010, my family moved 
 #### What do I like?
 
 I like...
-- Traveling
-- Watching Formula 1
-- Go out and drink craft beers
-- Cooking
-
-{{< youtube 42QuXLucH3Q >}}
-
+- Traveling :backpack:
+- Watching Formula 1 :race_car:
+- Go out and drink craft beers :beer:
+- Cooking :cooking: My signature dish is Gyoza :dumpling:
+- Film photography :camera:
+- Sichuan peppers :hot_pepper:
 
