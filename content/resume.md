@@ -3,7 +3,7 @@ title: "Resume"
 date: 2022-08-17T15:23:24+09:00
 draft: false
 ---
-## Work Experience
+## Work Experience :office:
 ### [OpenSalary](https://opensalary.jp/)
 ##### June 2022 - Present
 
