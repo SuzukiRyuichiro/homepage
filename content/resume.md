@@ -16,25 +16,35 @@ Metus interdum nostra in efficitur imperdiet iaculis morbi conubia, primis eget 
 
 [Linkedin article about me](https://www.linkedin.com/posts/le-wagon-tokyo_webdevelopment-developer-freelance-activity-6920247551661137920-JTs1?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
-### [Section-L](https://section-l.co/)
+### [Section L](https://section-l.co/)
 ##### August 2021 - April 2022
+##### Full stack software developer
+Section L is a hospitality company based in Tokyo. The company runs several hotels and a pop-up store in central Tokyo. We developed an in-house application that enables guests and hotel employees to manage check-in, request amenities, send requests to receptionists, and many other aspects of the hotel operation easily and smoothly.
 
-Hac semper tortor lorem lacinia maecenas vitae tellus sodales porta mauris venenatis efficitur, pharetra natoque integer donec dictumst mi leo ultrices tempor nulla faucibus, commodo porttitor quis ex imperdiet dis nec laoreet vulputate phasellus sem. Tincidunt inceptos lobortis magna nec pulvinar hendrerit pellentesque enim vestibulum scelerisque convallis, urna tristique vehicula in nunc neque egestas viverra eleifend.
+I joined in the very early stage of the application development and participated in developing three different projects.
+- Check-in app that handles the check-in process at every property of Section L.
+- Admin app, where hotel employees can manage guests across the properties and answer requests and questions.
+- InterSection, which is an app that enables inter-guests communication and interactions. A unique point about Section L is that the guests are encouraged to interact with each other through multiple events. We built an app that serves as a platform for those events to be organized. Also, guests can use the app to communicate with reception.
+- And the API that serves the backend of all three applications.
 
 ### [Evolany](https://evolany.com/)
 ##### August 2021 - April 2022
-
-Lacus non nullam cursus feugiat ut habitant porta rhoncus, amet senectus aliquet enim justo habitasse egestas, tincidunt nunc primis commodo vel erat netus. Rhoncus ante faucibus sollicitudin luctus himenaeos eget lorem tristique cras aliquet nostra, nec mollis netus maecenas condimentum nam neque dui nisi suscipit, quam bibendum molestie taciti tempor habitant sodales adipiscing ullamcorper magnis. Dolor augue justo purus class nam dapibus at dictum id, congue taciti laoreet a himenaeos nostra rhoncus ad magna viverra, velit egestas lorem leo fringilla senectus tempus pellentesque.
+##### Software engineer intern
+Evolany is a company that provides no-code platform called Anybot, which enables companies who wants to automate their official message bot.
 
 ---
 
 ## Education
-
-### Akita International University
-Augue tellus finibus nibh dignissim diam accumsan est risus vestibulum
-
-### George Washington University
-Augue tellus finibus nibh dignissim diam accumsan est risus vestibulum
-
 ### Le Wagon Tokyo
-Libero aliquet neque in mauris lectus ipsum viverra iaculis est pulvinar, per risus mollis sed lacus magnis phasellus auctor facilisi ante sem, senectus porttitor curae himenaeos donec ullamcorper malesuada aenean laoreet. Penatibus sodales massa natoque vulputate platea lectus habitant dictum, tellus mus dolor gravida porta elit tempor est fusce, himenaeos velit et lacinia auctor commodo curae.
+##### January 2021 - March 2021
+Attended Le Wagon Tokyo Batch 543
+
+9-week full-time intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript ES6,
+SQL, git, GitHub, Heroku and Ruby on Rails. Designed, implemented and shipped to
+production.
+### Akita International University
+##### April 2018 - August 2022
+Bachelor of Arts - Global Business
+### George Washington University
+##### August 2019 - June 2020
+Exchange program
