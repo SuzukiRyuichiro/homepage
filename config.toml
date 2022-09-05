@@ -1,7 +1,7 @@
 baseURL = 'https://effulgent-belekoy-b37d9e.netlify.app/'
 languageCode = 'en-us'
 title = 'Ryuichiro Suzuki'
-theme = ["hello-friend-ng"]
+theme = ["mdi", "hello-friend-ng"]
 enableEmoji = true
 
 [params]

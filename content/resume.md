@@ -3,14 +3,17 @@ title: "Resume"
 date: 2022-08-17T15:23:24+09:00
 draft: false
 ---
-## Work Experience :office:
+## Work Experience {{< mdi briefcase >}}
 ### [OpenSalary](https://opensalary.jp/)
 ##### June 2022 - Present
+
+##### Full stack software engineer {{< mdi docker >}} {{< mdi vuejs >}} {{< mdi language-ruby-on-rails >}}
 
 Eu ipsum eleifend montes nam integer penatibus massa ad placerat suspendisse, tristique leo gravida dui mi aptent urna varius dapibus potenti imperdiet, maecenas bibendum adipiscing pellentesque ac justo neque rutrum aliquam. Lacinia luctus convallis iaculis pellentesque curabitur ridiculus mi tortor hendrerit euismod, torquent proin lacus potenti dolor nibh eleifend lorem.
 
 ### [Le Wagon Tokyo](https://www.lewagon.com/tokyo)
 ##### April 2021 - Present
+##### Teacher
 
 Metus interdum nostra in efficitur imperdiet iaculis morbi conubia, primis eget facilisi consectetur ut fermentum feugiat semper, sapien blandit dictum mus dis elit potenti. Dictum mollis nullam cras nibh libero nisi lobortis molestie per, luctus fringilla congue elementum sed netus eu posuere fusce litora, gravida pharetra pulvinar fames auctor suscipit nam varius.
 
@@ -18,7 +21,8 @@ Metus interdum nostra in efficitur imperdiet iaculis morbi conubia, primis eget 
 
 ### [Section L](https://section-l.co/)
 ##### August 2021 - April 2022
-##### Full stack software developer
+##### Full stack software engineer {{< mdi vuejs >}} {{< mdi language-ruby-on-rails >}}
+
 Section L is a hospitality company based in Tokyo. The company runs several hotels and a pop-up store in central Tokyo. We developed an in-house application that enables guests and hotel employees to manage check-in, request amenities, send requests to receptionists, and many other aspects of the hotel operation easily and smoothly.
 
 I joined in the very early stage of the application development and participated in developing three different projects.
@@ -29,8 +33,8 @@ I joined in the very early stage of the application development and participated
 
 ### [Evolany](https://evolany.com/)
 ##### August 2021 - April 2022
-##### Software engineer intern
-Evolany is a company that provides no-code platform called Anybot, which enables companies who wants to automate their official message bot.
+##### Fullstack software engineer intern {{< mdi react >}} {{< mdi language-javascript >}} {{< mdi language-php >}}
+Evolany is a company that provides no-code platform called Anybot, which enables companies who wants to automate their official message bot. Although I
 
 ---
 
