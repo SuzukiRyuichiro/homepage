@@ -3,11 +3,11 @@ title: "Resume"
 date: 2022-08-17T15:23:24+09:00
 draft: false
 ---
-## Work Experience {{< mdi briefcase >}}
+## {{< mdi alias="briefcase" class="h2" >}} Work Experience
 ### [OpenSalary](https://opensalary.jp/)
 ##### June 2022 - Present
 
-##### Full stack software engineer {{< mdi docker >}} {{< mdi vuejs >}} {{< mdi language-ruby-on-rails >}}
+##### Full stack software engineer {{< mdi alias="docker" style="margin-left: 10px;" >}} {{< mdi alias="vuejs" >}} {{< mdi alias="language-ruby-on-rails" >}}
 
 Eu ipsum eleifend montes nam integer penatibus massa ad placerat suspendisse, tristique leo gravida dui mi aptent urna varius dapibus potenti imperdiet, maecenas bibendum adipiscing pellentesque ac justo neque rutrum aliquam. Lacinia luctus convallis iaculis pellentesque curabitur ridiculus mi tortor hendrerit euismod, torquent proin lacus potenti dolor nibh eleifend lorem.
 
@@ -21,7 +21,7 @@ Metus interdum nostra in efficitur imperdiet iaculis morbi conubia, primis eget 
 
 ### [Section L](https://section-l.co/)
 ##### August 2021 - April 2022
-##### Full stack software engineer {{< mdi vuejs >}} {{< mdi language-ruby-on-rails >}}
+##### Full stack software engineer {{< mdi alias="vuejs" >}} {{< mdi alias="language-ruby-on-rails" >}}
 
 Section L is a hospitality company based in Tokyo. The company runs several hotels and a pop-up store in central Tokyo. We developed an in-house application that enables guests and hotel employees to manage check-in, request amenities, send requests to receptionists, and many other aspects of the hotel operation easily and smoothly.
 
@@ -33,7 +33,7 @@ I joined in the very early stage of the application development and participated
 
 ### [Evolany](https://evolany.com/)
 ##### August 2021 - April 2022
-##### Fullstack software engineer intern {{< mdi react >}} {{< mdi language-javascript >}} {{< mdi language-php >}}
+##### Fullstack software engineer intern {{< mdi alias="react" >}} {{< mdi alias="language-javascript" >}} {{< mdi alias="language-php" >}}
 Evolany is a company that provides no-code platform called Anybot, which enables companies who wants to automate their official message bot. Although I
 
 ---
