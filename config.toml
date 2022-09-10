@@ -1,14 +1,14 @@
 baseURL = 'https://effulgent-belekoy-b37d9e.netlify.app/'
 languageCode = 'en-us'
 title = 'Ryuichiro Suzuki'
-theme = ["hello-friend-ng"]
+theme = ["mdi", "hello-friend-ng"]
 enableEmoji = true
 
 [params]
   images = ["/coding-me.jpg"]
   homeSubtitle = "Fullstack Developer in Barcelona"
   enableThemeToggle = true
-  customCSS = ["/css/home.css"]
+  customCSS = ["/css/home.css", "/css/mdi.css"]
   enableSharingButtons = true
 
 

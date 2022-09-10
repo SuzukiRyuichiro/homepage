@@ -3,4 +3,4 @@
 	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
 [submodule "themes/mdi"]
 	path = themes/mdi
-	url = https://github.com/mochaaP/hugo-shortcode-mdi
+	url = https://github.com/SuzukiRyuichiro/hugo-shortcode-mdi.git
