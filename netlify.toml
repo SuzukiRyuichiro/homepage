@@ -1,5 +1,5 @@
 [build]
-  command = "yarn --cwd "themes/mdi" && hugo"
+  command = "yarn --cwd \"themes/mdi\" && hugo"
   publish = "public"
 
 [build.environment]
