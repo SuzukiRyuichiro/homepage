@@ -14,3 +14,7 @@ h5 > span:first-child.inline-svg.mdi {
 h5:nth-child(2) {
   color: red;
 }
+
+h5 > span.link {
+  margin-right: 0.2em;
+}

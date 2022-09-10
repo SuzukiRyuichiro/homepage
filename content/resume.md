@@ -23,7 +23,7 @@ Le Wagon is an industry leading coding bootcamp founded in France and now has mo
 
 After a year of assisting the main teachers, I had opportunities to stand in front of the class to give lectures as a main teacher as well.
 
-[Linkedin article about me](https://www.linkedin.com/posts/le-wagon-tokyo_webdevelopment-developer-freelance-activity-6920247551661137920-JTs1?utm_source=linkedin_share&utm_medium=member_desktop_web)
+##### {{< mdi alias="link" class="link" >}} [Linkedin article about me](https://www.linkedin.com/posts/le-wagon-tokyo_webdevelopment-developer-freelance-activity-6920247551661137920-JTs1?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 ---
 ### [Section L](https://section-l.co/)
@@ -38,6 +38,7 @@ I joined in the very early stage of the application development and participated
 - InterSection, which is an app that enables inter-guests communication and interactions. A unique point about Section L is that the guests are encouraged to interact with each other through multiple events. We built an app that serves as a platform for those events to be organized. Also, guests can use the app to communicate with reception.
 - And the API that serves the backend of all three applications.
 
+##### {{< mdi alias="link" class="link" >}} [Linkedin article about the app I participated in](https://www.linkedin.com/posts/section-l_community-team-tokyo-activity-6874648735641694208-UanI?utm_source=share)
 ---
 
 ### [Evolany](https://evolany.com/)
