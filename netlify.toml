@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --theme=mdi --theme=hello-friend-ng"
+  command = "hugo"
   publish = "public"
 
 [build.environment]
