@@ -2,3 +2,15 @@ span.inline-svg.mdi {
   display: grid;
   place-items: center;
 }
+
+h2 > span.inline-svg.mdi {
+  margin-left: 0.2em;
+}
+
+h5 > span:first-child.inline-svg.mdi {
+  margin-left: 0.4em;
+}
+
+h5:nth-child(2) {
+  color: red;
+}
