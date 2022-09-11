@@ -4,3 +4,6 @@
 [submodule "themes/mdi"]
 	path = themes/mdi
 	url = https://github.com/SuzukiRyuichiro/hugo-shortcode-mdi.git
+[submodule "themes/cl-image"]
+	path = themes/cl-image
+	url = https://github.com/SuzukiRyuichiro/hugo-cl-image.git
