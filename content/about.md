@@ -33,3 +33,6 @@ I can't stand with...
 - Dirty bathrooms 😒
 - Unorganized bedroom :bed:
 - Food waste. You should eat everything! 🍲
+
+
+{{< cl-image src="coding-me.jpg" >}}

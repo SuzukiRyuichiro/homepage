@@ -1,7 +1,7 @@
 baseURL = 'https://effulgent-belekoy-b37d9e.netlify.app/'
 languageCode = 'en-us'
 title = 'Ryuichiro Suzuki'
-theme = ["mdi", "hello-friend-ng"]
+theme = ["mdi", "hello-friend-ng", "cl-image"]
 enableEmoji = true
 
 [params]
@@ -10,6 +10,9 @@ enableEmoji = true
   enableThemeToggle = true
   customCSS = ["/css/home.css", "/css/mdi.css", "/css/image.css"]
   enableSharingButtons = true
+  baseURL = "https://res.cloudinary.com/"
+  cloudName = "scooter-scooter"
+  folderName = "Portfolio"
 
 
 [menu]
