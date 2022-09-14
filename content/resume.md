@@ -25,7 +25,7 @@ After a year of assisting the main teachers, I had opportunities to stand in fro
 
 ##### {{< mdi alias="link" class="link" >}} [Linkedin article about me](https://www.linkedin.com/posts/le-wagon-tokyo_webdevelopment-developer-freelance-activity-6920247551661137920-JTs1?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
-{{< image src="/teaching-me.jpeg" alt="me teaching" class="rounded" position="center" >}}
+{{< cl-image src="me-teaching.jpeg" alt="me teaching" class="rounded center" style="min-width: 50%; height: 400px; object-fit: cover;" >}}
 
 ---
 ### [Section L](https://section-l.co/)
@@ -48,7 +48,7 @@ I joined in the very early stage of the application development and participated
 ##### Fullstack software engineer intern {{< mdi alias="react" >}} {{< mdi alias="language-javascript" >}} {{< mdi alias="language-php" >}}
 Evolany is a company that provides no-code platform called Anybot, which enables companies who wants to automate their message bot to make customer support more efficient. Although I joined as an intern, I worked as like any other full-time engineers. From minor debugging to introducing new features, I've worked on multiple projects during the time I was at the company. Also, since I joined a few month before where the engineering team grew rapidly, I helped to re-write the setup documentations for the new comers to be more descriptive. On top of that, I helped many new full time developers to get familiar with our in house framework and guide their way through the on boarding process.
 
-{{< image src="/me-working-evolany.jpeg" alt="me working evolany" class="rounded" position="center" >}}
+{{< cl-image src="me-working-evolany.jpeg" alt="me working evolany" class="rounded center" style="min-width: 50%; height: 400px; object-fit: cover;" >}}
 
 ---
 
