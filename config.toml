@@ -50,7 +50,7 @@ enableEmoji = true
   url = "https://open.spotify.com/user/22ndwarmwin74uwyftti4zvla"
 
 [params.portrait]
-    path = "/coding-me.jpg"
+    path = "https://res.cloudinary.com/scooter-scooter/image/upload/v1662897240/Portfolio/coding-me.jpg"
     alt = "coding-me"
     maxWidth = "350px"
 
