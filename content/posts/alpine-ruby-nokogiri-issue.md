@@ -19,7 +19,7 @@ I was using
 
 Initially, everything was going smoothly but once I shut down the computer one day and came to work on it again, I started getting error from Nokogiri every time I try to `bundle install` in the container.
 
-```
+```shell
 Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
 ```
 
@@ -37,7 +37,7 @@ I came to this idea in through the following steps
 
 I started the container and in the shell, I simply ran
 
-```ash
+```shell
 gem install nokogiri
 ```
 
@@ -46,7 +46,7 @@ which worked
 Then, in `irb`, I tried to require `nokogiri`.
 Which threw an error like
 
-```irb
+```ruby
 Error loading shared library ld-linux-x86-64.so.2: No such file or directory
 ```
 
