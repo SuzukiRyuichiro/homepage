@@ -6,47 +6,38 @@
     <description>Recent content in Tags on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Aug 2022 15:10:37 +0900</lastBuildDate><atom:link href="https://effulgent-belekoy-b37d9e.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 15:41:36 +0900</lastBuildDate><atom:link href="https://effulgent-belekoy-b37d9e.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ipsum</title>
-      <link>https://effulgent-belekoy-b37d9e.netlify.app/tags/ipsum/</link>
-      <pubDate>Wed, 17 Aug 2022 15:10:37 +0900</pubDate>
+      <title>docker</title>
+      <link>https://effulgent-belekoy-b37d9e.netlify.app/tags/docker/</link>
+      <pubDate>Sun, 18 Sep 2022 15:41:36 +0900</pubDate>
       
-      <guid>https://effulgent-belekoy-b37d9e.netlify.app/tags/ipsum/</guid>
+      <guid>https://effulgent-belekoy-b37d9e.netlify.app/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>lorem</title>
-      <link>https://effulgent-belekoy-b37d9e.netlify.app/tags/lorem/</link>
-      <pubDate>Wed, 17 Aug 2022 15:10:37 +0900</pubDate>
+      <title>nokogiri</title>
+      <link>https://effulgent-belekoy-b37d9e.netlify.app/tags/nokogiri/</link>
+      <pubDate>Sun, 18 Sep 2022 15:41:36 +0900</pubDate>
       
-      <guid>https://effulgent-belekoy-b37d9e.netlify.app/tags/lorem/</guid>
+      <guid>https://effulgent-belekoy-b37d9e.netlify.app/tags/nokogiri/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>graph</title>
-      <link>https://effulgent-belekoy-b37d9e.netlify.app/tags/graph/</link>
-      <pubDate>Sat, 13 Aug 2022 10:40:49 +0900</pubDate>
+      <title>rails</title>
+      <link>https://effulgent-belekoy-b37d9e.netlify.app/tags/rails/</link>
+      <pubDate>Sun, 18 Sep 2022 15:41:36 +0900</pubDate>
       
-      <guid>https://effulgent-belekoy-b37d9e.netlify.app/tags/graph/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://effulgent-belekoy-b37d9e.netlify.app/tags/python/</link>
-      <pubDate>Sat, 13 Aug 2022 10:40:49 +0900</pubDate>
-      
-      <guid>https://effulgent-belekoy-b37d9e.netlify.app/tags/python/</guid>
+      <guid>https://effulgent-belekoy-b37d9e.netlify.app/tags/rails/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ruby</title>
       <link>https://effulgent-belekoy-b37d9e.netlify.app/tags/ruby/</link>
-      <pubDate>Sat, 13 Aug 2022 10:40:49 +0900</pubDate>
+      <pubDate>Sun, 18 Sep 2022 15:41:36 +0900</pubDate>
       
       <guid>https://effulgent-belekoy-b37d9e.netlify.app/tags/ruby/</guid>
       <description></description>
