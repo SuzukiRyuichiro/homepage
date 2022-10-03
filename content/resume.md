@@ -53,21 +53,21 @@ Evolany is a company that provides no-code platform called Anybot, which enables
 ---
 
 ## Education {{< mdi alias="school" >}}
-### Le Wagon Tokyo
+### [Le Wagon Tokyo](https://www.lewagon.com/tokyo)
 ##### January 2021 - March 2021
 Attended Le Wagon Tokyo Batch 543
 
 9-week full-time intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript ES6,
 SQL, git, GitHub, Heroku and Ruby on Rails. Designed, implemented and shipped to
 production.
-### Akita International University
+### [Akita International University](https://www.aiu.ac.jp/)
 ##### April 2018 - August 2022
 Bachelor of Arts - Global Business
 
 Vice president of the AIU Debating Society
 
 A member of the badminton club
-### George Washington University
+### [George Washington University](https://www.gwu.edu/)
 ##### August 2019 - June 2020
 Exchange program
 
