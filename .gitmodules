@@ -7,3 +7,6 @@
 [submodule "themes/cl-image"]
 	path = themes/cl-image
 	url = https://github.com/SuzukiRyuichiro/hugo-cl-image.git
+[submodule "themes/devicons"]
+	path = themes/devicons
+	url = https://github.com/SuzukiRyuichiro/hugo-devicons.git
