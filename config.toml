@@ -1,7 +1,7 @@
 baseURL = 'https://ryuichirosuzuki.com'
 languageCode = 'en-us'
 title = 'Ryuichiro Suzuki'
-theme = ["mdi", "hello-friend-ng", "cl-image"]
+theme = ["mdi", "hello-friend-ng", "cl-image", "devicons"]
 enableEmoji = true
 
 [params]

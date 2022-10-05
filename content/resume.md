@@ -3,6 +3,10 @@ title: "Resume"
 date: 2022-08-17T15:23:24+09:00
 draft: false
 ---
+## Technical skills
+#### {{< mdi alias="language-ruby" >}}{{< mdi alias="language-ruby-on-rails" >}}{{< mdi alias="docker" >}}{{< mdi alias="vuejs" >}}{{< mdi alias="react" >}}{{< mdi alias="language-javascript" >}}{{< mdi alias="language-html5" >}}
+
+{{< devicon alias="react" >}}{{< devicon alias="docker" >}}{{< devicon alias="androidstudio" >}}
 ## Work Experience  {{< mdi alias="briefcase" >}}
 ### [OpenSalary](https://opensalary.jp/)
 ##### June 2022 - Present
