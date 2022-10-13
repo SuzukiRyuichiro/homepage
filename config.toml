@@ -28,6 +28,10 @@ enableEmoji = true
     identifier = "resume"
     name       = "Resume"
     url        = "/resume"
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "/projects"
 
 [[params.social]]
   name = "twitter"
