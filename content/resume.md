@@ -13,15 +13,19 @@ OpenSalary is a web site that provides free and open information about salaries 
 
 I joined the team to speed up the development of the website and make the product more valuable. Since joining the team, I've introduced several new features such as adding new role category pages, or ability to search for a company from anywhere on the web site.
 
+On top of the OpenSalary website, we've been building WorkCircle, a platform that aims to bridge communication among employees of a company. I've been involved in building the native app, as well as building the landing page for the application from scratch.
+
 ---
 
-### [Le Wagon Tokyo](https://www.lewagon.com/tokyo)
+### [Le Wagon](https://www.lewagon.com/tokyo)
 ##### April 2021 - Present
 ##### Teacher  {{< mdi alias="language-ruby" >}} {{< mdi alias="language-ruby-on-rails" >}} {{< mdi alias="language-javascript" >}} {{< mdi alias="database-search" >}}
 
 Le Wagon is an industry leading coding bootcamp founded in France and now has more than 35 campuses across the world. I participated as a student in the web development course, and graduated in March 2021. Then, I was invited by the CEO of the Tokyo campus to join the team as a teaching assistant. Since then, I have helped more than 150 students to learn how to build web applications and work on projects as a team.
 
 After a year of assisting the main teachers, I had opportunities to stand in front of the class to give lectures as a main teacher as well.
+
+I have been working as a teacher / teaching assistant at Tokyo campus for over a year, and recently, I taught the web development course of the Madrid campus as well.
 
 ##### {{< mdi alias="link" class="link" >}} [Linkedin article about me](https://www.linkedin.com/posts/le-wagon-tokyo_webdevelopment-developer-freelance-activity-6920247551661137920-JTs1?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
