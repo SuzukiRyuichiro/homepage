@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ryuichiro Suzuki</title>
-    <link>https://effulgent-belekoy-b37d9e.netlify.app/categories/</link>
+    <link>https://ryuichirosuzuki.com/categories/</link>
     <description>Recent content in Categories on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://effulgent-belekoy-b37d9e.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ryuichirosuzuki.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

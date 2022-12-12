@@ -2,17 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryuichiro Suzuki</title>
-    <link>https://effulgent-belekoy-b37d9e.netlify.app/</link>
+    <link>https://ryuichirosuzuki.com/</link>
     <description>Recent content on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 15:41:36 +0900</lastBuildDate><atom:link href="https://effulgent-belekoy-b37d9e.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2022 21:41:51 +0200</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Alpine Ruby Nokogiri Issue</title>
-      <link>https://effulgent-belekoy-b37d9e.netlify.app/posts/alpine-ruby-nokogiri-issue/</link>
+      <title>Still Building</title>
+      <link>https://ryuichirosuzuki.com/projects/still-building/</link>
+      <pubDate>Thu, 13 Oct 2022 21:41:51 +0200</pubDate>
+      
+      <guid>https://ryuichirosuzuki.com/projects/still-building/</guid>
+      <description>Still building the projects page&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>日本にいながらスペインの銀行口座と携帯番号をゲットする方法</title>
+      <link>https://ryuichirosuzuki.com/posts/spain-phone-and-bank/</link>
+      <pubDate>Tue, 27 Sep 2022 07:46:45 +0900</pubDate>
+      
+      <guid>https://ryuichirosuzuki.com/posts/spain-phone-and-bank/</guid>
+      <description>条件 銀行口座 特になし（ただお金を受け取ったり、引き落としたりする口座があれば良ければ） NIE (スペインの銀行口座を開きたければ) 携帯番号 現地に携帯番号のある友人 住所が決まってると便利かも 銀行口座の取得 Wise 海外移住を考えている人は、必ずWiseの存在をご存知なんじゃないでしょうか？ほぼマーケットと同じ為替レートで各国の通貨を換金することができます。また、一つのWiseアカウントで通貨ごとの&amp;quot;銀行口座&amp;quot;を作ることができます。私も、自分のアカウントで€の銀行口座を開き、Wiseのアプリ上でブリュッセルに銀行口座が開かれたことを確認できました。移住後に給料を支払うために、雇用者からIBANなどを聞かれたら、Wise上のユーロ口座のIBANを伝えれば、そこに直接給料が振り込まれます。また、日本でWiseのカードを¥2000でゲットして、スーパーなどの買い物で使えば、自動的にユーロの口座からデビットで引き落とされます。驚いたのが、日本円-&amp;gt;ユーロの両替のスピードです。手順としては
+Wiseで自分のユーロの口座にいくら送りたいか入力する 日本円でWise宛(Paypay銀行の口座)にいくら振り込めばいいか伝えられる 言われた額と同じ額を自分の銀行のオンラインバンキングを使って振り込む（この際に振込手数料は取られる。だが、銀行の国際送金の手数料に比べれば微々たるもの） Wise側で、振り込みが完了したことを伝える この手順を踏めば、私の場合当日中に指定した額のユーロが自分の口座に入っていました。USDでもWiseを使ったことがあるのですが、その際は2~3日かかったので、驚きました。 こっちで現金をATMから引き落としたければ、前述した¥2000のWiseカードを日本で手に入れる必要があります。また、日本のWiseはGoogle Payなどに対応していないので、物理カードをゲットしておくことが無難なのではないでしょうか？
+N26 Wiseは普段の生活に支障は無いかもしれませんが、一つだけネックなのは、ユーロ口座が実質ベルギーの口座になってしまっているということです。後述する携帯電話の契約を結ぼうとした際に、スペインの銀行のIBANでないと受け付けないと弾かれてしまいました。今後もそういった事例が発生するかとも思い、スペインの銀行口座を開くことにしました。
+目をつけたのは、N26。理由としては、オーストリアの友人がおすすめしていたから。ここも、有名なオンラインバーチャルバンクの一種で、バーチャルであるからこそ、実際の銀行のような煩雑な現地での手続きなどを踏まなくて良いと思い試してみました。
+携帯にアプリをダウンロードして、口座を開設する国にスペインを選択し、後はNIEなど、必要な情報を入力する。後は、個人の認証のために、パスポートの写しなどを指示に従ってアップロードするだけ。申請を完了させれば、後は承認されるのを待つだけ。申請して本当に数時間も立たないうちに受理されました。
+ちなみに、N26は色々とビジネスバージョンだったり、一月にいくらか払うと、ATMで現金をおろせる回数が増えたりなど、色々とプランを選ぶことができます。私はとりあえず月額無料のビジネスのバーチャルカードを選びました。なぜなら、安いし、物理カードを受け取るすべ（まだ日本にいたから）がないから。現地に行って、必要を感じたら10ユーロ払ってカードを貰えばいいやと思っていました。ちなみに、これを書いている現在、スペインで一週間バーチャルカードを使って過ごしていますが、特に問題はありません。どのお店もNFCのリーダーを持っているので、携帯さえ持っていれば、とりあえず支払いはできます。もしできなくても、バックアップにWiseの物理カードがあるので、今の所現金を使わなきゃいけない場面には出くわしていません。
+今の所、N26にはWiseからお金を振り込む形でチャージをしています。手数料はかかりますが、いくらWiseから送金しても、€0.28と微々たるものなので、特に気にせずにチャージしてます。
+これでめでたくスペインの銀行口座をゲットすることができました。手に入れたスペインのIBANで携帯の契約をすることにしました。
+携帯番号 まずは、携帯のキャリアをいくつか調べました。どの会社も20GBとかけ放題で€20くらいのプランが多く、日本の大手キャリアに比べれば安いと感じるものが多かったです。他にも面白い特典などもあり、例えば、Vodafoneのプランは、週末はデータがカウントされないそうです。他にも、値段で見れば、MVNOがやはり安いです。Lowiなんかだと、20GBかけ放題で€10くらいのプランなんかもありました。
+その中で私はMovistarの電波を使っているMVNO(イギリスなんかだと大手キャリアですが)O2を選びました。選んだ理由としては、
+5Gが使える 値段がまあ妥当 (€10/month) 20GB 電話し放題 SMS送り放題 eSIMが使える 名前を知ってる カバレージが、Vodafoneより広い です。 カバレージに関しては、バルセロナの町中に入る分にはあまり関係ないかもしれませんが、上にリンクしたマップを見る限り、田舎道なんかのカバレージと5Gの電波塔の範囲では、Movistarが勝っているのがわかると思います。 東京で5Gの速さに慣れてしまったので、正直5Gをカバーしていないプランは考えていませんでした。後、ついた瞬間に使えるという安心感が欲しかったので、海外からでもアクティベートできそうなO2を選びました。
+入手方法 入手方法は至って簡単で、O2の申し込みのページで、名前、生年月日、NIE、さっき入手したN26のスペインの銀行口座情報などを入力するだけ。一つだけトリッキーなのが、連絡用の電話番号を入力しなくてはいけないこと。電話番号が無いんだから、申し込むんだろうが、ってツッコみたくなりますが、日本の番号は受け付けてくれないので、仕方なく、ルームメイトにWhatsappで許可を取り、彼の電話番号を入力しました。そうすると、認証コードが彼の元に行くので、Whatsappで教えてもらい、認証を完了させました。ルームメイトがいなかったら、おそらく諦めて、現地でVodafoneのストアで契約するとかしかできなかったでしょう。
+とりあえず、申込みが完了し、後は個人の認証のために、指定されたメールアドレスに自分のビザの写しとNIEの通知書を添付して送信しました。そしたら、数日後に自分の電話番号が書かれたPDFが送られてきて、その中にあるQRコードを、携帯の設定にあるSIMを追加する手順からスキャンし、SIMをダウンロードすれば、完了です。O2のプランには、ヨーロッパ内でのローミングしか無いので、その場で接続を確認することはできませんでした。ですが、実際にバルセロナに着陸した瞬間、飛行機の中でLINEの通知を勝手に受信し始めたときは、安心しました。入国してからは、SMS、電話、データ通信は全く問題ありません。もちろん、日本の様なカバレージは期待していないので、ピソの部屋からのデータ通信はとても遅いですが、道でマップを見るなんかは、問題なく読み込みます。町中では、4Gでも下りが120Mbpsくらい出ます。申し分ないです。地下鉄でも、あまり途切れることなく使えます。
+こっちに来てからでも十分かもしれませんが、日本にいるうちにできるので、時間節約のためにも、是非試してみて下さい。</description>
+    </item>
+    
+    <item>
+      <title>スペインワーホリビザ取得までの話</title>
+      <link>https://ryuichirosuzuki.com/posts/spain-visa/</link>
+      <pubDate>Thu, 22 Sep 2022 02:49:30 +0900</pubDate>
+      
+      <guid>https://ryuichirosuzuki.com/posts/spain-visa/</guid>
+      <description>ちょうどフリーランスエンジニアとして、東京でも少しずつ自信がついてきたので、いっそのことどこかに移住してトライして見よう。ということで、バルセロナに引っ越すことにしました。
+下準備 8月に大学を卒業するので、準備期間なども含めて、9月の下旬に飛び立つことを決定。大使館HPにも書いてあるように、ワーホリビザには、事前に航空券を買っておく必要があります。なので、適当に9月頃の一番安いチケットをスカイスキャナーで探し、購入。他にも、行動の計画表や、外国人番号の登録申請書など、とりあえずHPに書けと言われているものはすべて書く。
+予定表は、何をどれくらい詳しく書けば良いのかもわからなかったので、本当にざっくりと書きました。一応欄は10個くらいあるのですが、私は、
+9~12月、仕事。 年末年始あたり、旅行。 2月以降、仕事。 という、仕事する気満々の予定を書きました。これの是非については、また後ほど。
+ビザ申請に行った。 7月の初旬、当時住んでいた秋田県から東京に帰郷し、六本木一丁目駅の近くにあるスペイン大使館までビザの申請をしに行きました。まず、トリッキーなのが、六本木一丁目の駅の構造。後ほど話すように、3回訪れて気づいたのは、地下鉄の出口の目の前にある外にあるエスカレーターをまっすぐ上に上がって、おしゃれなHARIOのカフェを左手に見ながら、スウェーデン大使館が見えるまで直進し、左折すると左手にスペイン大使館があります。入り口は蔦が生い茂っていて、少し見えにくくなっていますが、門をくぐると、直ぐにセキュリティの方が話しかけてくれます。
+スペイン留学をした友人が、朝イチで行かないととても混むという情報をくれたのですが、早起きすることもできず、10時過ぎころに到着したと思います。ですが、思ったよりも混んでおらず、10分も待たないうちに自分の番が来ました。おそらく、夏休みなどのピークのとき以外は、意外と空いているようです。以後、夏休み意外の季節に2回訪れましたが、いずれも、15分以上は待たされませんでした。
+窓口では持ってきた書類を出し、窓口の人が確認し、お金を払うという簡単なものです。ですが、二つ指摘を受けました。一つ言われたのが、計画書が仕事センターすぎる。「働きすぎると違法就労に当たりますから気をつけてください」と釘を刺されました 😅 もう一つは、完全なミス。医者の診断書の日付をもらい忘れたので、もう一度医者に行って、書いてもらって、上から病院印を押して郵送してくれとのこと。これは完全に余計な手間を増やしてしまい、痛恨のミスでした。日付はお忘れなく。
+後は待つ パスポートも取り上げられ、窓口では、「8週間後には準備できています。メールが来たらまた出頭してください」と言われました。Twitterなどを漁ってみると、意外と早く来ただとか、４週間もせずに準備ができたなどの情報もあったので、のんきに一ヶ月位でメールが来るだろうと高をくくっていました。ですが&amp;hellip;
+来ない。 一ヶ月経っても来ない。まぁ８週間って言ってたし、とりあえずそれまで待ってみる。ですが、7週間目の月曜日になっても、一向に連絡が来る気配がなし。フライトが３週間後程に迫ってきていたので、こちらも少し心配になり、電話をしてみることにしました。水曜日に電話をしたんですが、自動音声ガイダンスに従って、領事部に連絡を入れようとしても、混み合っているとのことで一向につながらない。数分おいて再びトライしても、つながらない。最終的に夕方まで待ってみると、繋がりました。でも、自動音声ガイダンスも3回目だったので、適当に番号を打っていたので、もしかすると違う部署にかけてしまってたかもしれません😅 だからつながったのかな… とりあえず、事情を説明してみると、「8週間待って下さいって言われたんですよね？だったら8週間待ってから電話して下さい。」と取り合ってもくれませんでした。出国の1週間前くらいになったら、状況を確認してくれると言われました。僕のパスポートを持ってるわけだし、もう少し丁寧に対応してほしいと思う反面、お役所なんてそんなもんだよね、と諦めました。
+でも気になるので、大使館に行ってみた でも、8週間を過ぎた月曜日、ちょうど仕事もなかったので、六本木の大使館に行ってみました。スペイン留学をした友人が、学生ビザに関しても、全然連絡が来なかったので、試しに問い合わせてみたら、もう準備はできていて、連絡が行ってなかっただけということがあったと言っていたので、少しそのケースを期待していました。ですが、結果から言えば、電話と一緒で、連絡が行っていないのは、準備ができていないからとのこと。他に言われたのは、
+一人ずつ状況を確認してあげることはできない 9月は留学ビザのピークなので、出国当日に準備できるなんてケースもあるくらい忙しい 8週間とは言ったものの、それはあくまで目安。もっとかかるかもしれない 出国1週間前とかになったら、もう一度問い合わせてくれとのこと この様に、わざわざ六本木に行っても、あまり掛け合ってはくれませんでした。 8.5週間でやっと発給された 門前払いを食らってしまった2日後、やっとビザが発給されたとのメールが来ました。果たして2回も問い合わせたことに意味があったのかはわかりませんが、とりあえず無事にパスポートを取り返すことができてよかったです。
+最後に 以上が私が個人的に経験したスペインのワーキングホリデービザを取得するまでの道のりでした。 しっかりと前もって、時間に余裕を持って申請することが大切ですね。言われた時間よりも長くかかるとはネットの情報からするとあまり考えていなかったので、かなり日にちに余裕を持った飛行機のチケットを買っておいてよかったです。</description>
+    </item>
+    
+    <item>
+      <title>Rails Github Action exits with code 16</title>
+      <link>https://ryuichirosuzuki.com/posts/rails-github-action-exit-with-code-16/</link>
+      <pubDate>Sun, 18 Sep 2022 16:16:33 +0900</pubDate>
+      
+      <guid>https://ryuichirosuzuki.com/posts/rails-github-action-exit-with-code-16/</guid>
+      <description>The issue I have a Rails application that runs on Ruby alpine image. When I was running github actions workflow, it threw an error when installing gems. The workflow file is basically the copy of the official Ruby on Rails CI template, which you can easily find from Github Actions tab on any repo. When it hits the point where installing gems using bundle install, it stops with
+Error: The process &amp;#39;/opt/hostedtoolcache/Ruby/3.</description>
+    </item>
+    
+    <item>
+      <title>Alpine Ruby: Can&#39;t load nokogiri</title>
+      <link>https://ryuichirosuzuki.com/posts/alpine-ruby-nokogiri-issue/</link>
       <pubDate>Sun, 18 Sep 2022 15:41:36 +0900</pubDate>
       
-      <guid>https://effulgent-belekoy-b37d9e.netlify.app/posts/alpine-ruby-nokogiri-issue/</guid>
+      <guid>https://ryuichirosuzuki.com/posts/alpine-ruby-nokogiri-issue/</guid>
       <description>The issue I was doing practice of Github workflow by making a basic task app using Rails
 I was using
 ruby:3.1.2-alpine3.14 (for the base image) Rails 7.0.4 Initially, everything was going smoothly but once I shut down the computer one day and came to work on it again, I started getting error from Nokogiri every time I try to bundle install in the container.
@@ -20,30 +81,21 @@ Gem::Ext::BuildError: ERROR: Failed to build gem native extension.</description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://effulgent-belekoy-b37d9e.netlify.app/projects/test/</link>
-      <pubDate>Mon, 22 Aug 2022 19:50:55 +0900</pubDate>
-      
-      <guid>https://effulgent-belekoy-b37d9e.netlify.app/projects/test/</guid>
-      <description>hello hihihihi</description>
-    </item>
-    
-    <item>
       <title>Resume</title>
-      <link>https://effulgent-belekoy-b37d9e.netlify.app/resume/</link>
+      <link>https://ryuichirosuzuki.com/resume/</link>
       <pubDate>Wed, 17 Aug 2022 15:23:24 +0900</pubDate>
       
-      <guid>https://effulgent-belekoy-b37d9e.netlify.app/resume/</guid>
+      <guid>https://ryuichirosuzuki.com/resume/</guid>
       <description>Work Experience OpenSalary June 2022 - Present Full stack software engineer OpenSalary is a web site that provides free and open information about salaries of those who work in the Japanese tech industry. OpenSalary is a community driven platform made by developers, for the benefit of developers. We aim to empower software engineers with the data they need to make informed career decisions.
 I joined the team to speed up the development of the website and make the product more valuable.</description>
     </item>
     
     <item>
       <title>Hi. I&#39;m Scooter</title>
-      <link>https://effulgent-belekoy-b37d9e.netlify.app/about/</link>
+      <link>https://ryuichirosuzuki.com/about/</link>
       <pubDate>Wed, 17 Aug 2022 15:04:21 +0900</pubDate>
       
-      <guid>https://effulgent-belekoy-b37d9e.netlify.app/about/</guid>
+      <guid>https://ryuichirosuzuki.com/about/</guid>
       <description>TLDR I am a full-stack web developer and very passionate about technology and computer science. I am an alumni of Le Wagon Tokyo, a coding bootcamp founded in France. Since graduation, I worked in three different companies as a freelance full stack developer, while teaching programming at the bootcamp I graduated from. I am a Japanese / English bilingual 🇯🇵🇬🇧
 Long version Where am I from? I was born in Tokyo Japan, and grew up there until 10.</description>
     </item>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ryuichiro Suzuki</title>
-    <link>https://effulgent-belekoy-b37d9e.netlify.app/projects/</link>
+    <link>https://ryuichirosuzuki.com/projects/</link>
     <description>Recent content in Projects on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Aug 2022 19:50:55 +0900</lastBuildDate><atom:link href="https://effulgent-belekoy-b37d9e.netlify.app/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2022 21:41:51 +0200</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://effulgent-belekoy-b37d9e.netlify.app/projects/test/</link>
-      <pubDate>Mon, 22 Aug 2022 19:50:55 +0900</pubDate>
+      <title>Still Building</title>
+      <link>https://ryuichirosuzuki.com/projects/still-building/</link>
+      <pubDate>Thu, 13 Oct 2022 21:41:51 +0200</pubDate>
       
-      <guid>https://effulgent-belekoy-b37d9e.netlify.app/projects/test/</guid>
-      <description>hello hihihihi</description>
+      <guid>https://ryuichirosuzuki.com/projects/still-building/</guid>
+      <description>Still building the projects page&amp;hellip; </description>
     </item>
     
   </channel>

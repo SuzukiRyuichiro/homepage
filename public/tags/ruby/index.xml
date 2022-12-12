@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ruby on Ryuichiro Suzuki</title>
-    <link>https://effulgent-belekoy-b37d9e.netlify.app/tags/ruby/</link>
+    <link>https://ryuichirosuzuki.com/tags/ruby/</link>
     <description>Recent content in ruby on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 15:41:36 +0900</lastBuildDate><atom:link href="https://effulgent-belekoy-b37d9e.netlify.app/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 15:41:36 +0900</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Alpine Ruby Nokogiri Issue</title>
-      <link>https://effulgent-belekoy-b37d9e.netlify.app/posts/alpine-ruby-nokogiri-issue/</link>
+      <title>Alpine Ruby: Can&#39;t load nokogiri</title>
+      <link>https://ryuichirosuzuki.com/posts/alpine-ruby-nokogiri-issue/</link>
       <pubDate>Sun, 18 Sep 2022 15:41:36 +0900</pubDate>
       
-      <guid>https://effulgent-belekoy-b37d9e.netlify.app/posts/alpine-ruby-nokogiri-issue/</guid>
+      <guid>https://ryuichirosuzuki.com/posts/alpine-ruby-nokogiri-issue/</guid>
       <description>The issue I was doing practice of Github workflow by making a basic task app using Rails
 I was using
 ruby:3.1.2-alpine3.14 (for the base image) Rails 7.0.4 Initially, everything was going smoothly but once I shut down the computer one day and came to work on it again, I started getting error from Nokogiri every time I try to bundle install in the container.

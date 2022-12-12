@@ -1,19 +1,210 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Ryuichiro Suzuki</title>
-        <link>https://effulgent-belekoy-b37d9e.netlify.app/posts/</link>
+        <link>https://ryuichirosuzuki.com/posts/</link>
         <description>Recent content in Posts on Ryuichiro Suzuki</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 18 Sep 2022 15:41:36 +0900</lastBuildDate>
-        <atom:link href="https://effulgent-belekoy-b37d9e.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Tue, 27 Sep 2022 07:46:45 +0900</lastBuildDate>
+        <atom:link href="https://ryuichirosuzuki.com/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Alpine Ruby Nokogiri Issue</title>
-            <link>https://effulgent-belekoy-b37d9e.netlify.app/posts/alpine-ruby-nokogiri-issue/</link>
+            <title>日本にいながらスペインの銀行口座と携帯番号をゲットする方法</title>
+            <link>https://ryuichirosuzuki.com/posts/spain-phone-and-bank/</link>
+            <pubDate>Tue, 27 Sep 2022 07:46:45 +0900</pubDate>
+            
+            <guid>https://ryuichirosuzuki.com/posts/spain-phone-and-bank/</guid>
+            <description>条件 銀行口座 特になし（ただお金を受け取ったり、引き落としたりする口座があれば良ければ） NIE (スペインの銀行口座を開きたければ) 携帯番号 現地に携帯番号のある友人 住所が決まってると便利かも 銀行口座の取得 Wise 海外移住を考えている人は、必ずWiseの存在をご存知なんじゃないでしょうか？ほぼマーケットと同じ為替レートで各国の通貨を換金することができます。また、一つのWiseアカウントで通貨ごとの&amp;quot;銀行口座&amp;quot;を作ることができます。私も、自分のアカウントで€の銀行口座を開き、Wiseのアプリ上でブリュッセルに銀行口座が開かれたことを確認できました。移住後に給料を支払うために、雇用者からIBANなどを聞かれたら、Wise上のユーロ口座のIBANを伝えれば、そこに直接給料が振り込まれます。また、日本でWiseのカードを¥2000でゲットして、スーパーなどの買い物で使えば、自動的にユーロの口座からデビットで引き落とされます。驚いたのが、日本円-&amp;gt;ユーロの両替のスピードです。手順としては
+Wiseで自分のユーロの口座にいくら送りたいか入力する 日本円でWise宛(Paypay銀行の口座)にいくら振り込めばいいか伝えられる 言われた額と同じ額を自分の銀行のオンラインバンキングを使って振り込む（この際に振込手数料は取られる。だが、銀行の国際送金の手数料に比べれば微々たるもの） Wise側で、振り込みが完了したことを伝える この手順を踏めば、私の場合当日中に指定した額のユーロが自分の口座に入っていました。USDでもWiseを使ったことがあるのですが、その際は2~3日かかったので、驚きました。 こっちで現金をATMから引き落としたければ、前述した¥2000のWiseカードを日本で手に入れる必要があります。また、日本のWiseはGoogle Payなどに対応していないので、物理カードをゲットしておくことが無難なのではないでしょうか？
+N26 Wiseは普段の生活に支障は無いかもしれませんが、一つだけネックなのは、ユーロ口座が実質ベルギーの口座になってしまっているということです。後述する携帯電話の契約を結ぼうとした際に、スペインの銀行のIBANでないと受け付けないと弾かれてしまいました。今後もそういった事例が発生するかとも思い、スペインの銀行口座を開くことにしました。
+目をつけたのは、N26。理由としては、オーストリアの友人がおすすめしていたから。ここも、有名なオンラインバーチャルバンクの一種で、バーチャルであるからこそ、実際の銀行のような煩雑な現地での手続きなどを踏まなくて良いと思い試してみました。
+携帯にアプリをダウンロードして、口座を開設する国にスペインを選択し、後はNIEなど、必要な情報を入力する。後は、個人の認証のために、パスポートの写しなどを指示に従ってアップロードするだけ。申請を完了させれば、後は承認されるのを待つだけ。申請して本当に数時間も立たないうちに受理されました。
+ちなみに、N26は色々とビジネスバージョンだったり、一月にいくらか払うと、ATMで現金をおろせる回数が増えたりなど、色々とプランを選ぶことができます。私はとりあえず月額無料のビジネスのバーチャルカードを選びました。なぜなら、安いし、物理カードを受け取るすべ（まだ日本にいたから）がないから。現地に行って、必要を感じたら10ユーロ払ってカードを貰えばいいやと思っていました。ちなみに、これを書いている現在、スペインで一週間バーチャルカードを使って過ごしていますが、特に問題はありません。どのお店もNFCのリーダーを持っているので、携帯さえ持っていれば、とりあえず支払いはできます。もしできなくても、バックアップにWiseの物理カードがあるので、今の所現金を使わなきゃいけない場面には出くわしていません。
+今の所、N26にはWiseからお金を振り込む形でチャージをしています。手数料はかかりますが、いくらWiseから送金しても、€0.28と微々たるものなので、特に気にせずにチャージしてます。
+これでめでたくスペインの銀行口座をゲットすることができました。手に入れたスペインのIBANで携帯の契約をすることにしました。
+携帯番号 まずは、携帯のキャリアをいくつか調べました。どの会社も20GBとかけ放題で€20くらいのプランが多く、日本の大手キャリアに比べれば安いと感じるものが多かったです。他にも面白い特典などもあり、例えば、Vodafoneのプランは、週末はデータがカウントされないそうです。他にも、値段で見れば、MVNOがやはり安いです。Lowiなんかだと、20GBかけ放題で€10くらいのプランなんかもありました。
+その中で私はMovistarの電波を使っているMVNO(イギリスなんかだと大手キャリアですが)O2を選びました。選んだ理由としては、
+5Gが使える 値段がまあ妥当 (€10/month) 20GB 電話し放題 SMS送り放題 eSIMが使える 名前を知ってる カバレージが、Vodafoneより広い です。 カバレージに関しては、バルセロナの町中に入る分にはあまり関係ないかもしれませんが、上にリンクしたマップを見る限り、田舎道なんかのカバレージと5Gの電波塔の範囲では、Movistarが勝っているのがわかると思います。 東京で5Gの速さに慣れてしまったので、正直5Gをカバーしていないプランは考えていませんでした。後、ついた瞬間に使えるという安心感が欲しかったので、海外からでもアクティベートできそうなO2を選びました。
+入手方法 入手方法は至って簡単で、O2の申し込みのページで、名前、生年月日、NIE、さっき入手したN26のスペインの銀行口座情報などを入力するだけ。一つだけトリッキーなのが、連絡用の電話番号を入力しなくてはいけないこと。電話番号が無いんだから、申し込むんだろうが、ってツッコみたくなりますが、日本の番号は受け付けてくれないので、仕方なく、ルームメイトにWhatsappで許可を取り、彼の電話番号を入力しました。そうすると、認証コードが彼の元に行くので、Whatsappで教えてもらい、認証を完了させました。ルームメイトがいなかったら、おそらく諦めて、現地でVodafoneのストアで契約するとかしかできなかったでしょう。
+とりあえず、申込みが完了し、後は個人の認証のために、指定されたメールアドレスに自分のビザの写しとNIEの通知書を添付して送信しました。そしたら、数日後に自分の電話番号が書かれたPDFが送られてきて、その中にあるQRコードを、携帯の設定にあるSIMを追加する手順からスキャンし、SIMをダウンロードすれば、完了です。O2のプランには、ヨーロッパ内でのローミングしか無いので、その場で接続を確認することはできませんでした。ですが、実際にバルセロナに着陸した瞬間、飛行機の中でLINEの通知を勝手に受信し始めたときは、安心しました。入国してからは、SMS、電話、データ通信は全く問題ありません。もちろん、日本の様なカバレージは期待していないので、ピソの部屋からのデータ通信はとても遅いですが、道でマップを見るなんかは、問題なく読み込みます。町中では、4Gでも下りが120Mbpsくらい出ます。申し分ないです。地下鉄でも、あまり途切れることなく使えます。
+こっちに来てからでも十分かもしれませんが、日本にいるうちにできるので、時間節約のためにも、是非試してみて下さい。</description>
+            <content type="html"><![CDATA[<h2 id="条件">条件</h2>
+<h3 id="銀行口座">銀行口座</h3>
+<ul>
+<li>特になし（ただお金を受け取ったり、引き落としたりする口座があれば良ければ）</li>
+<li>NIE (スペインの銀行口座を開きたければ)</li>
+</ul>
+<h3 id="携帯番号">携帯番号</h3>
+<ul>
+<li>現地に携帯番号のある友人</li>
+<li>住所が決まってると便利かも</li>
+</ul>
+<h2 id="銀行口座の取得">銀行口座の取得</h2>
+<h3 id="wise">Wise</h3>
+<p>海外移住を考えている人は、必ずWiseの存在をご存知なんじゃないでしょうか？ほぼマーケットと同じ為替レートで各国の通貨を換金することができます。また、一つのWiseアカウントで通貨ごとの&quot;銀行口座&quot;を作ることができます。私も、自分のアカウントで€の銀行口座を開き、Wiseのアプリ上でブリュッセルに銀行口座が開かれたことを確認できました。移住後に給料を支払うために、雇用者からIBANなどを聞かれたら、Wise上のユーロ口座のIBANを伝えれば、そこに直接給料が振り込まれます。また、日本でWiseのカードを¥2000でゲットして、スーパーなどの買い物で使えば、自動的にユーロの口座からデビットで引き落とされます。驚いたのが、日本円-&gt;ユーロの両替のスピードです。手順としては</p>
+<ul>
+<li>Wiseで自分のユーロの口座にいくら送りたいか入力する</li>
+<li>日本円でWise宛(Paypay銀行の口座)にいくら振り込めばいいか伝えられる</li>
+<li>言われた額と同じ額を自分の銀行のオンラインバンキングを使って振り込む（この際に振込手数料は取られる。だが、銀行の国際送金の手数料に比べれば微々たるもの）</li>
+<li>Wise側で、振り込みが完了したことを伝える</li>
+</ul>
+<p>この手順を踏めば、私の場合当日中に指定した額のユーロが自分の口座に入っていました。USDでもWiseを使ったことがあるのですが、その際は2~3日かかったので、驚きました。
+こっちで現金をATMから引き落としたければ、前述した¥2000のWiseカードを日本で手に入れる必要があります。また、日本のWiseはGoogle Payなどに対応していないので、物理カードをゲットしておくことが無難なのではないでしょうか？</p>
+<h3 id="n26">N26</h3>
+<p>Wiseは普段の生活に支障は無いかもしれませんが、一つだけネックなのは、ユーロ口座が実質ベルギーの口座になってしまっているということです。後述する携帯電話の契約を結ぼうとした際に、スペインの銀行のIBANでないと受け付けないと弾かれてしまいました。今後もそういった事例が発生するかとも思い、スペインの銀行口座を開くことにしました。</p>
+<p>目をつけたのは、N26。理由としては、オーストリアの友人がおすすめしていたから。ここも、有名なオンラインバーチャルバンクの一種で、バーチャルであるからこそ、実際の銀行のような煩雑な現地での手続きなどを踏まなくて良いと思い試してみました。</p>
+<p>携帯にアプリをダウンロードして、口座を開設する国にスペインを選択し、後はNIEなど、必要な情報を入力する。後は、個人の認証のために、パスポートの写しなどを指示に従ってアップロードするだけ。申請を完了させれば、後は承認されるのを待つだけ。申請して本当に数時間も立たないうちに受理されました。</p>
+<p>ちなみに、N26は色々とビジネスバージョンだったり、一月にいくらか払うと、ATMで現金をおろせる回数が増えたりなど、色々とプランを選ぶことができます。私はとりあえず月額無料のビジネスのバーチャルカードを選びました。なぜなら、安いし、物理カードを受け取るすべ（まだ日本にいたから）がないから。現地に行って、必要を感じたら10ユーロ払ってカードを貰えばいいやと思っていました。ちなみに、これを書いている現在、スペインで一週間バーチャルカードを使って過ごしていますが、特に問題はありません。どのお店もNFCのリーダーを持っているので、携帯さえ持っていれば、とりあえず支払いはできます。もしできなくても、バックアップにWiseの物理カードがあるので、今の所現金を使わなきゃいけない場面には出くわしていません。</p>
+<p>今の所、N26にはWiseからお金を振り込む形でチャージをしています。手数料はかかりますが、いくらWiseから送金しても、€0.28と微々たるものなので、特に気にせずにチャージしてます。</p>
+<p>これでめでたくスペインの銀行口座をゲットすることができました。手に入れたスペインのIBANで携帯の契約をすることにしました。</p>
+<h2 id="携帯番号-1">携帯番号</h2>
+<p>まずは、携帯のキャリアをいくつか調べました。どの会社も20GBとかけ放題で€20くらいのプランが多く、日本の大手キャリアに比べれば安いと感じるものが多かったです。他にも面白い特典などもあり、例えば、Vodafoneのプランは、週末はデータがカウントされないそうです。他にも、値段で見れば、MVNOがやはり安いです。Lowiなんかだと、20GBかけ放題で€10くらいのプランなんかもありました。</p>
+<p>その中で私はMovistarの電波を使っているMVNO(イギリスなんかだと大手キャリアですが)O2を選びました。選んだ理由としては、</p>
+<ul>
+<li>5Gが使える</li>
+<li>値段がまあ妥当 (€10/month)
+<ul>
+<li>20GB</li>
+<li>電話し放題</li>
+<li>SMS送り放題</li>
+</ul>
+</li>
+<li>eSIMが使える</li>
+<li>名前を知ってる</li>
+<li><a href="https://www.nperf.com/en/map/ES/-/168910.Movistar-Movil/signal/?ll=39.143907559644944&amp;lg=-1.813774108886719&amp;zoom=6">カバレージ</a>が、Vodafoneより広い
+です。</li>
+</ul>
+<p>カバレージに関しては、バルセロナの町中に入る分にはあまり関係ないかもしれませんが、上にリンクしたマップを見る限り、田舎道なんかのカバレージと5Gの電波塔の範囲では、Movistarが勝っているのがわかると思います。
+東京で5Gの速さに慣れてしまったので、正直5Gをカバーしていないプランは考えていませんでした。後、ついた瞬間に使えるという安心感が欲しかったので、海外からでもアクティベートできそうなO2を選びました。</p>
+<h2 id="入手方法">入手方法</h2>
+<p>入手方法は至って簡単で、O2の申し込みのページで、名前、生年月日、NIE、さっき入手したN26のスペインの銀行口座情報などを入力するだけ。一つだけトリッキーなのが、連絡用の電話番号を入力しなくてはいけないこと。電話番号が無いんだから、申し込むんだろうが、ってツッコみたくなりますが、日本の番号は受け付けてくれないので、仕方なく、ルームメイトにWhatsappで許可を取り、彼の電話番号を入力しました。そうすると、認証コードが彼の元に行くので、Whatsappで教えてもらい、認証を完了させました。ルームメイトがいなかったら、おそらく諦めて、現地でVodafoneのストアで契約するとかしかできなかったでしょう。</p>
+<p>とりあえず、申込みが完了し、後は個人の認証のために、指定されたメールアドレスに自分のビザの写しとNIEの通知書を添付して送信しました。そしたら、数日後に自分の電話番号が書かれたPDFが送られてきて、その中にあるQRコードを、携帯の設定にあるSIMを追加する手順からスキャンし、SIMをダウンロードすれば、完了です。O2のプランには、ヨーロッパ内でのローミングしか無いので、その場で接続を確認することはできませんでした。ですが、実際にバルセロナに着陸した瞬間、飛行機の中でLINEの通知を勝手に受信し始めたときは、安心しました。入国してからは、SMS、電話、データ通信は全く問題ありません。もちろん、日本の様なカバレージは期待していないので、ピソの部屋からのデータ通信はとても遅いですが、道でマップを見るなんかは、問題なく読み込みます。町中では、4Gでも下りが120Mbpsくらい出ます。申し分ないです。地下鉄でも、あまり途切れることなく使えます。</p>
+<p>こっちに来てからでも十分かもしれませんが、日本にいるうちにできるので、時間節約のためにも、是非試してみて下さい。</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>スペインワーホリビザ取得までの話</title>
+            <link>https://ryuichirosuzuki.com/posts/spain-visa/</link>
+            <pubDate>Thu, 22 Sep 2022 02:49:30 +0900</pubDate>
+            
+            <guid>https://ryuichirosuzuki.com/posts/spain-visa/</guid>
+            <description>ちょうどフリーランスエンジニアとして、東京でも少しずつ自信がついてきたので、いっそのことどこかに移住してトライして見よう。ということで、バルセロナに引っ越すことにしました。
+下準備 8月に大学を卒業するので、準備期間なども含めて、9月の下旬に飛び立つことを決定。大使館HPにも書いてあるように、ワーホリビザには、事前に航空券を買っておく必要があります。なので、適当に9月頃の一番安いチケットをスカイスキャナーで探し、購入。他にも、行動の計画表や、外国人番号の登録申請書など、とりあえずHPに書けと言われているものはすべて書く。
+予定表は、何をどれくらい詳しく書けば良いのかもわからなかったので、本当にざっくりと書きました。一応欄は10個くらいあるのですが、私は、
+9~12月、仕事。 年末年始あたり、旅行。 2月以降、仕事。 という、仕事する気満々の予定を書きました。これの是非については、また後ほど。
+ビザ申請に行った。 7月の初旬、当時住んでいた秋田県から東京に帰郷し、六本木一丁目駅の近くにあるスペイン大使館までビザの申請をしに行きました。まず、トリッキーなのが、六本木一丁目の駅の構造。後ほど話すように、3回訪れて気づいたのは、地下鉄の出口の目の前にある外にあるエスカレーターをまっすぐ上に上がって、おしゃれなHARIOのカフェを左手に見ながら、スウェーデン大使館が見えるまで直進し、左折すると左手にスペイン大使館があります。入り口は蔦が生い茂っていて、少し見えにくくなっていますが、門をくぐると、直ぐにセキュリティの方が話しかけてくれます。
+スペイン留学をした友人が、朝イチで行かないととても混むという情報をくれたのですが、早起きすることもできず、10時過ぎころに到着したと思います。ですが、思ったよりも混んでおらず、10分も待たないうちに自分の番が来ました。おそらく、夏休みなどのピークのとき以外は、意外と空いているようです。以後、夏休み意外の季節に2回訪れましたが、いずれも、15分以上は待たされませんでした。
+窓口では持ってきた書類を出し、窓口の人が確認し、お金を払うという簡単なものです。ですが、二つ指摘を受けました。一つ言われたのが、計画書が仕事センターすぎる。「働きすぎると違法就労に当たりますから気をつけてください」と釘を刺されました 😅 もう一つは、完全なミス。医者の診断書の日付をもらい忘れたので、もう一度医者に行って、書いてもらって、上から病院印を押して郵送してくれとのこと。これは完全に余計な手間を増やしてしまい、痛恨のミスでした。日付はお忘れなく。
+後は待つ パスポートも取り上げられ、窓口では、「8週間後には準備できています。メールが来たらまた出頭してください」と言われました。Twitterなどを漁ってみると、意外と早く来ただとか、４週間もせずに準備ができたなどの情報もあったので、のんきに一ヶ月位でメールが来るだろうと高をくくっていました。ですが&amp;hellip;
+来ない。 一ヶ月経っても来ない。まぁ８週間って言ってたし、とりあえずそれまで待ってみる。ですが、7週間目の月曜日になっても、一向に連絡が来る気配がなし。フライトが３週間後程に迫ってきていたので、こちらも少し心配になり、電話をしてみることにしました。水曜日に電話をしたんですが、自動音声ガイダンスに従って、領事部に連絡を入れようとしても、混み合っているとのことで一向につながらない。数分おいて再びトライしても、つながらない。最終的に夕方まで待ってみると、繋がりました。でも、自動音声ガイダンスも3回目だったので、適当に番号を打っていたので、もしかすると違う部署にかけてしまってたかもしれません😅 だからつながったのかな… とりあえず、事情を説明してみると、「8週間待って下さいって言われたんですよね？だったら8週間待ってから電話して下さい。」と取り合ってもくれませんでした。出国の1週間前くらいになったら、状況を確認してくれると言われました。僕のパスポートを持ってるわけだし、もう少し丁寧に対応してほしいと思う反面、お役所なんてそんなもんだよね、と諦めました。
+でも気になるので、大使館に行ってみた でも、8週間を過ぎた月曜日、ちょうど仕事もなかったので、六本木の大使館に行ってみました。スペイン留学をした友人が、学生ビザに関しても、全然連絡が来なかったので、試しに問い合わせてみたら、もう準備はできていて、連絡が行ってなかっただけということがあったと言っていたので、少しそのケースを期待していました。ですが、結果から言えば、電話と一緒で、連絡が行っていないのは、準備ができていないからとのこと。他に言われたのは、
+一人ずつ状況を確認してあげることはできない 9月は留学ビザのピークなので、出国当日に準備できるなんてケースもあるくらい忙しい 8週間とは言ったものの、それはあくまで目安。もっとかかるかもしれない 出国1週間前とかになったら、もう一度問い合わせてくれとのこと この様に、わざわざ六本木に行っても、あまり掛け合ってはくれませんでした。 8.5週間でやっと発給された 門前払いを食らってしまった2日後、やっとビザが発給されたとのメールが来ました。果たして2回も問い合わせたことに意味があったのかはわかりませんが、とりあえず無事にパスポートを取り返すことができてよかったです。
+最後に 以上が私が個人的に経験したスペインのワーキングホリデービザを取得するまでの道のりでした。 しっかりと前もって、時間に余裕を持って申請することが大切ですね。言われた時間よりも長くかかるとはネットの情報からするとあまり考えていなかったので、かなり日にちに余裕を持った飛行機のチケットを買っておいてよかったです。</description>
+            <content type="html"><![CDATA[<p>ちょうどフリーランスエンジニアとして、東京でも少しずつ自信がついてきたので、いっそのことどこかに移住してトライして見よう。ということで、バルセロナに引っ越すことにしました。</p>
+<h2 id="下準備">下準備</h2>
+<p>8月に大学を卒業するので、準備期間なども含めて、9月の下旬に飛び立つことを決定。大使館HPにも書いてあるように、ワーホリビザには、事前に航空券を買っておく必要があります。なので、適当に9月頃の一番安いチケットをスカイスキャナーで探し、購入。他にも、行動の計画表や、外国人番号の登録申請書など、とりあえずHPに書けと言われているものはすべて書く。</p>
+<p>予定表は、何をどれくらい詳しく書けば良いのかもわからなかったので、本当にざっくりと書きました。一応欄は10個くらいあるのですが、私は、</p>
+<ul>
+<li>9~12月、仕事。</li>
+<li>年末年始あたり、旅行。</li>
+<li>2月以降、仕事。</li>
+</ul>
+<p>という、仕事する気満々の予定を書きました。これの是非については、また後ほど。</p>
+<h2 id="ビザ申請に行った">ビザ申請に行った。</h2>
+<p>7月の初旬、当時住んでいた秋田県から東京に帰郷し、六本木一丁目駅の近くにあるスペイン大使館までビザの申請をしに行きました。まず、トリッキーなのが、六本木一丁目の駅の構造。後ほど話すように、3回訪れて気づいたのは、地下鉄の出口の目の前にある外にあるエスカレーターをまっすぐ上に上がって、おしゃれなHARIOのカフェを左手に見ながら、スウェーデン大使館が見えるまで直進し、左折すると左手にスペイン大使館があります。入り口は蔦が生い茂っていて、少し見えにくくなっていますが、門をくぐると、直ぐにセキュリティの方が話しかけてくれます。</p>
+<p>スペイン留学をした友人が、朝イチで行かないととても混むという情報をくれたのですが、早起きすることもできず、10時過ぎころに到着したと思います。ですが、思ったよりも混んでおらず、10分も待たないうちに自分の番が来ました。おそらく、夏休みなどのピークのとき以外は、意外と空いているようです。以後、夏休み意外の季節に2回訪れましたが、いずれも、15分以上は待たされませんでした。</p>
+<p>窓口では持ってきた書類を出し、窓口の人が確認し、お金を払うという簡単なものです。ですが、二つ指摘を受けました。一つ言われたのが、計画書が仕事センターすぎる。「働きすぎると違法就労に当たりますから気をつけてください」と釘を刺されました 😅 もう一つは、完全なミス。医者の診断書の日付をもらい忘れたので、もう一度医者に行って、書いてもらって、上から病院印を押して郵送してくれとのこと。これは完全に余計な手間を増やしてしまい、痛恨のミスでした。日付はお忘れなく。</p>
+<h2 id="後は待つ">後は待つ</h2>
+<p>パスポートも取り上げられ、窓口では、「8週間後には準備できています。メールが来たらまた出頭してください」と言われました。Twitterなどを漁ってみると、意外と早く来ただとか、４週間もせずに準備ができたなどの情報もあったので、のんきに一ヶ月位でメールが来るだろうと高をくくっていました。ですが&hellip;</p>
+<h2 id="来ない">来ない。</h2>
+<p>一ヶ月経っても来ない。まぁ８週間って言ってたし、とりあえずそれまで待ってみる。ですが、7週間目の月曜日になっても、一向に連絡が来る気配がなし。フライトが３週間後程に迫ってきていたので、こちらも少し心配になり、電話をしてみることにしました。水曜日に電話をしたんですが、自動音声ガイダンスに従って、領事部に連絡を入れようとしても、混み合っているとのことで一向につながらない。数分おいて再びトライしても、つながらない。最終的に夕方まで待ってみると、繋がりました。でも、自動音声ガイダンスも3回目だったので、適当に番号を打っていたので、もしかすると違う部署にかけてしまってたかもしれません😅 だからつながったのかな… とりあえず、事情を説明してみると、「8週間待って下さいって言われたんですよね？だったら8週間待ってから電話して下さい。」と取り合ってもくれませんでした。出国の1週間前くらいになったら、状況を確認してくれると言われました。僕のパスポートを持ってるわけだし、もう少し丁寧に対応してほしいと思う反面、お役所なんてそんなもんだよね、と諦めました。</p>
+<h2 id="でも気になるので大使館に行ってみた">でも気になるので、大使館に行ってみた</h2>
+<p>でも、8週間を過ぎた月曜日、ちょうど仕事もなかったので、六本木の大使館に行ってみました。スペイン留学をした友人が、学生ビザに関しても、全然連絡が来なかったので、試しに問い合わせてみたら、もう準備はできていて、連絡が行ってなかっただけということがあったと言っていたので、少しそのケースを期待していました。ですが、結果から言えば、電話と一緒で、連絡が行っていないのは、準備ができていないからとのこと。他に言われたのは、</p>
+<ul>
+<li>一人ずつ状況を確認してあげることはできない</li>
+<li>9月は留学ビザのピークなので、出国当日に準備できるなんてケースもあるくらい忙しい</li>
+<li>8週間とは言ったものの、それはあくまで目安。もっとかかるかもしれない</li>
+<li>出国1週間前とかになったら、もう一度問い合わせてくれとのこと
+この様に、わざわざ六本木に行っても、あまり掛け合ってはくれませんでした。</li>
+</ul>
+<h2 id="85週間でやっと発給された">8.5週間でやっと発給された</h2>
+<p>門前払いを食らってしまった2日後、やっとビザが発給されたとのメールが来ました。果たして2回も問い合わせたことに意味があったのかはわかりませんが、とりあえず無事にパスポートを取り返すことができてよかったです。</p>
+<h2 id="最後に">最後に</h2>
+<p>以上が私が個人的に経験したスペインのワーキングホリデービザを取得するまでの道のりでした。
+しっかりと前もって、時間に余裕を持って申請することが大切ですね。言われた時間よりも長くかかるとはネットの情報からするとあまり考えていなかったので、かなり日にちに余裕を持った飛行機のチケットを買っておいてよかったです。</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Rails Github Action exits with code 16</title>
+            <link>https://ryuichirosuzuki.com/posts/rails-github-action-exit-with-code-16/</link>
+            <pubDate>Sun, 18 Sep 2022 16:16:33 +0900</pubDate>
+            
+            <guid>https://ryuichirosuzuki.com/posts/rails-github-action-exit-with-code-16/</guid>
+            <description>The issue I have a Rails application that runs on Ruby alpine image. When I was running github actions workflow, it threw an error when installing gems. The workflow file is basically the copy of the official Ruby on Rails CI template, which you can easily find from Github Actions tab on any repo. When it hits the point where installing gems using bundle install, it stops with
+Error: The process &amp;#39;/opt/hostedtoolcache/Ruby/3.</description>
+            <content type="html"><![CDATA[<h1 id="the-issue">The issue</h1>
+<p>I have a Rails application that runs on Ruby alpine image. When I was running github actions workflow, it threw an error when installing gems.
+The workflow file is basically the copy of the official Ruby on Rails CI template, which you can easily find from Github Actions tab on any repo.
+When it hits the point where installing gems using <code>bundle install</code>, it stops with</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>Error: The process <span style="color:#e6db74">&#39;/opt/hostedtoolcache/Ruby/3.1.2/x64/bin/bundle&#39;</span> failed with exit code <span style="color:#ae81ff">16</span>
+</span></span></code></pre></div><h2 id="the-workflow">The workflow</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#75715e"># This workflow uses actions that are not certified by GitHub.  They are</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># provided by a third-party and are governed by separate terms of service,</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># privacy policy, and support documentation.</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># This workflow will install a prebuilt Ruby version, install dependencies, and</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># run tests and linters.</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">name</span>: <span style="color:#e6db74">&#34;Ruby on Rails CI&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">on</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">push</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">branches</span>: [ <span style="color:#e6db74">&#34;main&#34;</span> ]
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">pull_request</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">branches</span>: [ <span style="color:#e6db74">&#34;main&#34;</span> ]
+</span></span><span style="display:flex;"><span><span style="color:#f92672">jobs</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">test</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">runs-on</span>: <span style="color:#ae81ff">ubuntu-latest</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">services</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">postgres</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">image</span>: <span style="color:#ae81ff">postgres:13.2-alpine</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">ports</span>:
+</span></span><span style="display:flex;"><span>          - <span style="color:#e6db74">&#34;5432:5432&#34;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">env</span>:
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">POSTGRES_PASSWORD</span>: <span style="color:#ae81ff">password</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">env</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">RAILS_ENV</span>: <span style="color:#ae81ff">test</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">DATABASE_URL</span>: <span style="color:#e6db74">&#34;postgres://postgres:password@localhost:5432&#34;</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">steps</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Checkout code</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">uses</span>: <span style="color:#ae81ff">actions/checkout@v3</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e"># Add or replace dependency steps here</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Install Ruby and gems</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">uses</span>: <span style="color:#ae81ff">ruby/setup-ruby@0a29871fe2b0200a17a4497bae54fe5df0d973aa</span> <span style="color:#75715e"># v1.115.3</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">with</span>:
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">bundler-cache</span>: <span style="color:#66d9ef">true</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e"># Add or replace database setup steps here</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Set up database schema</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">run</span>: <span style="color:#ae81ff">bin/rails db:schema:load</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e"># Add or replace test runners here</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Run tests</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">run</span>: <span style="color:#ae81ff">bin/rspec</span>
+</span></span></code></pre></div><h1 id="the-fix">The fix</h1>
+<p>Simply, I had to run</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>bundle lock --add-platform x86_64-linux
+</span></span></code></pre></div><p>on my local machine. Ofc, like me, if you are developing the app on a docker container, add docker stuff before the command.
+The reason being is that the workflow is running on Ubuntu, instead of Alpine like my local container.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Alpine Ruby: Can&#39;t load nokogiri</title>
+            <link>https://ryuichirosuzuki.com/posts/alpine-ruby-nokogiri-issue/</link>
             <pubDate>Sun, 18 Sep 2022 15:41:36 +0900</pubDate>
             
-            <guid>https://effulgent-belekoy-b37d9e.netlify.app/posts/alpine-ruby-nokogiri-issue/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/alpine-ruby-nokogiri-issue/</guid>
             <description>The issue I was doing practice of Github workflow by making a basic task app using Rails
 I was using
 ruby:3.1.2-alpine3.14 (for the base image) Rails 7.0.4 Initially, everything was going smoothly but once I shut down the computer one day and came to work on it again, I started getting error from Nokogiri every time I try to bundle install in the container.
@@ -26,19 +217,20 @@ Gem::Ext::BuildError: ERROR: Failed to build gem native extension.</description>
 <li>Rails 7.0.4</li>
 </ul>
 <p>Initially, everything was going smoothly but once I shut down the computer one day and came to work on it again, I started getting error from Nokogiri every time I try to <code>bundle install</code> in the container.</p>
-<pre tabindex="0"><code>Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
-</code></pre><p>I&rsquo;ve tried a few things but the one solved the problem was adding</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+</span></span></code></pre></div><h1 id="the-fix">The fix</h1>
+<p>I&rsquo;ve tried a few things but the one solved the problem was adding</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-dockerfile" data-lang="dockerfile"><span style="display:flex;"><span><span style="color:#66d9ef">RUN</span> apk add --no-cache libc6-compat <span style="color:#f92672">&amp;&amp;</span> ln -s /lib/libc.musl-x86_64.so.1 /lib/ld-linux-x86-64.so.2<span style="color:#960050;background-color:#1e0010">
 </span></span></span></code></pre></div><p>to the Dockerfile that builds the image for ruby.</p>
 <p>I came to this idea in through the following steps</p>
 <p>I started the container and in the shell, I simply ran</p>
-<pre tabindex="0"><code class="language-ash" data-lang="ash">gem install nokogiri
-</code></pre><p>which worked</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>gem install nokogiri
+</span></span></code></pre></div><p>which worked</p>
 <p>Then, in <code>irb</code>, I tried to require <code>nokogiri</code>.
 Which threw an error like</p>
-<pre tabindex="0"><code>Error loading shared library ld-linux-x86-64.so.2: No such file or directory
-</code></pre><p>When I googled, I hit on this (Qiita article)[https://qiita.com/hiko1129/items/5f1914d01b7ee3713b62], which said to run the command above.</p>
-<p>It seems that it is based off of the (stackoverflow article)[https://stackoverflow.com/questions/50288034/unsatisfiedlinkerror-tmp-snappy-1-1-4-libsnappyjava-so-error-loading-shared-li] but tbh, I have no idea why it did the fix.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-ruby" data-lang="ruby"><span style="display:flex;"><span><span style="color:#66d9ef">Error</span> loading shared library ld<span style="color:#f92672">-</span>linux<span style="color:#f92672">-</span>x86<span style="color:#f92672">-</span><span style="color:#ae81ff">64</span><span style="color:#f92672">.</span>so<span style="color:#f92672">.</span><span style="color:#ae81ff">2</span>: <span style="color:#66d9ef">No</span> such file <span style="color:#f92672">or</span> directory
+</span></span></code></pre></div><p>When I googled, I hit on this <a href="https://qiita.com/hiko1129/items/5f1914d01b7ee3713b62">Qiita article</a>, which said to run the command above.</p>
+<p>It seems that it is based off of the <a href="https://stackoverflow.com/questions/50288034/unsatisfiedlinkerror-tmp-snappy-1-1-4-libsnappyjava-so-error-loading-shared-li">stackoverflow article</a> but tbh, I have no idea why it did the fix.</p>
 <p>I&rsquo;m just noting here so that someone who might have a similar problem can fix it. Or, future me might benefit from it once I remake the Dockerfile for another practice run 😅</p>
 ]]></content>
         </item>
