@@ -122,3 +122,9 @@ Let's begin with the easiest one: `<style>`. In between `<style>` tags, we can w
 Now, onto the template. As you can see, template is where you write your html. You can just write html you're used to. However, as we discuss later, something more than just html is possible here. Later, we will learn how we can mix Javascript and html together in the template section.
 
 Lastly, the script section. This is where you write your Javascript. This is where you define the attributes and behaviors of this Vue component. You can think this like a controller in Stimulus, or a model in Rails, or mix of both.
+
+## Components
+
+Now, let's talk about the most important concept in Vue: Components. Components are the building blocks of Vue. You can think of it as a partial in Rails. After you define a component, you can reuse it anywhere in the app.
+
+Let's think about what components we need in this todo list app.

@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Sep 2022 07:46:45 +0900</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 15:16:41 +0100</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tutorial</title>
+      <link>https://ryuichirosuzuki.com/tags/tutorial/</link>
+      <pubDate>Fri, 09 Dec 2022 15:16:41 +0100</pubDate>
+      
+      <guid>https://ryuichirosuzuki.com/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vue</title>
+      <link>https://ryuichirosuzuki.com/tags/vue/</link>
+      <pubDate>Fri, 09 Dec 2022 15:16:41 +0100</pubDate>
+      
+      <guid>https://ryuichirosuzuki.com/tags/vue/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Spain</title>
       <link>https://ryuichirosuzuki.com/tags/spain/</link>
@@ -85,6 +103,15 @@
       <pubDate>Sun, 18 Sep 2022 15:41:36 +0900</pubDate>
       
       <guid>https://ryuichirosuzuki.com/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://ryuichirosuzuki.com/tags/hugo/</link>
+      <pubDate>Sat, 13 Aug 2022 10:40:49 +0900</pubDate>
+      
+      <guid>https://ryuichirosuzuki.com/tags/hugo/</guid>
       <description></description>
     </item>
     
