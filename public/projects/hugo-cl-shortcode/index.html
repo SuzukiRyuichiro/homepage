@@ -5,7 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="">
-<meta name="description" content="This is still building" />
+<meta name="description" content="The repo Here
+What I wanted to achieve I wanted to make it possible to produce Cloudinary image links by just giving the file name to a shortcode.
+Setup make a submodule in your themes folder add the theme in the theme array in your config.toml theme = [&amp;#34;some other theme&amp;#34;, &amp;#34;cl-image&amp;#34;] add the following to your params portion of config.toml [params] baseURL = &amp;#34;https://res.cloudinary.com/&amp;#34; # This is the same for everyone cloudName = &amp;#34;your cloud name&amp;#34; # You can check your cloud name from cloudinary console page folderName = &amp;#34;Portfolio&amp;#34; # if you want to put collection of pictures into a single folder, write the name of the folder (optional) Usage The theme adds a shortcode called cl-image." />
 <meta name="keywords" content="" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
@@ -51,15 +53,19 @@
 
 
 <meta itemprop="name" content="Hugo Cl Shortcode">
-<meta itemprop="description" content="This is still building"><meta itemprop="datePublished" content="2022-10-13T21:40:51+02:00" />
+<meta itemprop="description" content="The repo Here
+What I wanted to achieve I wanted to make it possible to produce Cloudinary image links by just giving the file name to a shortcode.
+Setup make a submodule in your themes folder add the theme in the theme array in your config.toml theme = [&#34;some other theme&#34;, &#34;cl-image&#34;] add the following to your params portion of config.toml [params] baseURL = &#34;https://res.cloudinary.com/&#34; # This is the same for everyone cloudName = &#34;your cloud name&#34; # You can check your cloud name from cloudinary console page folderName = &#34;Portfolio&#34; # if you want to put collection of pictures into a single folder, write the name of the folder (optional) Usage The theme adds a shortcode called cl-image."><meta itemprop="datePublished" content="2022-10-13T21:40:51+02:00" />
 <meta itemprop="dateModified" content="2022-10-13T21:40:51+02:00" />
-<meta itemprop="wordCount" content="4"><meta itemprop="image" content="https://ryuichirosuzuki.com/coding-me.jpg"/>
+<meta itemprop="wordCount" content="246"><meta itemprop="image" content="https://ryuichirosuzuki.com/coding-me.jpg"/>
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://ryuichirosuzuki.com/coding-me.jpg"/>
 
 <meta name="twitter:title" content="Hugo Cl Shortcode"/>
-<meta name="twitter:description" content="This is still building"/>
+<meta name="twitter:description" content="The repo Here
+What I wanted to achieve I wanted to make it possible to produce Cloudinary image links by just giving the file name to a shortcode.
+Setup make a submodule in your themes folder add the theme in the theme array in your config.toml theme = [&#34;some other theme&#34;, &#34;cl-image&#34;] add the following to your params portion of config.toml [params] baseURL = &#34;https://res.cloudinary.com/&#34; # This is the same for everyone cloudName = &#34;your cloud name&#34; # You can check your cloud name from cloudinary console page folderName = &#34;Portfolio&#34; # if you want to put collection of pictures into a single folder, write the name of the folder (optional) Usage The theme adds a shortcode called cl-image."/>
 
 
 
@@ -143,8 +149,63 @@
             
 
             <div class="post-content">
-                <p>This is still building</p>
-
+                <h1 id="the-repo">The repo</h1>
+<p><a href="https://github.com/SuzukiRyuichiro/hugo-cl-image">Here</a></p>
+<h1 id="what-i-wanted-to-achieve">What I wanted to achieve</h1>
+<p>I wanted to make it possible to produce Cloudinary image links by just giving the file name to a shortcode.</p>
+<h1 id="setup">Setup</h1>
+<ol>
+<li>make a submodule in your themes folder</li>
+<li>add the theme in the theme array in your <code>config.toml</code></li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span><span style="color:#a6e22e">theme</span> = [<span style="color:#e6db74">&#34;some other theme&#34;</span>, <span style="color:#e6db74">&#34;cl-image&#34;</span>]
+</span></span></code></pre></div><ol start="3">
+<li>add the following to your params portion of <code>config.toml</code></li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[<span style="color:#a6e22e">params</span>]
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">baseURL</span> = <span style="color:#e6db74">&#34;https://res.cloudinary.com/&#34;</span> <span style="color:#75715e"># This is the same for everyone</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">cloudName</span> = <span style="color:#e6db74">&#34;your cloud name&#34;</span> <span style="color:#75715e"># You can check your cloud name from cloudinary console page</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">folderName</span> = <span style="color:#e6db74">&#34;Portfolio&#34;</span> <span style="color:#75715e"># if you want to put collection of pictures into a single folder, write the name of the folder (optional)</span>
+</span></span></code></pre></div><h1 id="usage">Usage</h1>
+<p>The theme adds a shortcode called <code>cl-image</code>. You can give following arguments</p>
+<table>
+<thead>
+<tr>
+<th>argument</th>
+<th>description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>src (required)</td>
+<td>this is what is your image called on cloudinary. By default, it can be a gibberish so I advice you to change it to something memorable from the Cloudinary console.</td>
+</tr>
+<tr>
+<td>class</td>
+<td>give a string of classes you wish to apply to the <code>img</code> element</td>
+</tr>
+<tr>
+<td>alt</td>
+<td>same with the class</td>
+</tr>
+<tr>
+<td>style</td>
+<td>same the class</td>
+</tr>
+<tr>
+<td>height</td>
+<td>This is the pixel height of the image you give to the <a href="https://cloudinary.com/documentation/transformation_reference#h_height">Cloudinary Transformation URL API</a>. If your original image is too large, it is advised to reduce the size matching how large you are displaying on the website.</td>
+</tr>
+<tr>
+<td>width</td>
+<td>same with the height</td>
+</tr>
+</tbody>
+</table>
+<h2 id="example">Example</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#75715e">// remove &#39;\&#39;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>{{<span style="color:#960050;background-color:#1e0010">\</span>&lt; <span style="color:#a6e22e">cl</span><span style="color:#f92672">-</span><span style="color:#a6e22e">image</span> <span style="color:#a6e22e">src</span>=<span style="color:#e6db74">&#34;ski.jpg&#34;</span> <span style="color:#a6e22e">class</span>=<span style="color:#e6db74">&#34;rounded center&#34;</span> <span style="color:#a6e22e">alt</span>=<span style="color:#e6db74">&#34;me in skiing&#34;</span> <span style="color:#a6e22e">height</span>=<span style="color:#e6db74">&#34;600&#34;</span> <span style="color:#a6e22e">style</span>=<span style="color:#e6db74">&#34;min-width: 50%; height: 400px; object-fit: cover;&#34;</span> <span style="color:#960050;background-color:#1e0010">\</span>&gt;}}
+</span></span></code></pre></div>
             </div>
         </article>
 

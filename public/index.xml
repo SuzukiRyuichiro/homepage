@@ -6,33 +6,16 @@
     <description>Recent content on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 15:16:41 +0100</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Vue Tutorial</title>
-      <link>https://ryuichirosuzuki.com/posts/vue-tutorial/</link>
-      <pubDate>Fri, 09 Dec 2022 15:16:41 +0100</pubDate>
-      
-      <guid>https://ryuichirosuzuki.com/posts/vue-tutorial/</guid>
-      <description>Before we begin What is this? This is a tutorial to get started with VueJS, a most liked Javascript front-end framework on Github. In this tutorial, we will cover the basic concepts of the framework, which can translate to other front-end frameworks, such as React or Angular. You can start your front-end journey from Vue 👍
-What is Vue? VueJS is a Open source Javascript front-end framework which helps you to make interactive single page applications (SPAs).</description>
-    </item>
-    
-    <item>
-      <title>Still Building</title>
-      <link>https://ryuichirosuzuki.com/projects/still-building/</link>
-      <pubDate>Thu, 13 Oct 2022 21:41:51 +0200</pubDate>
-      
-      <guid>https://ryuichirosuzuki.com/projects/still-building/</guid>
-      <description>Still building the projects page&amp;hellip; </description>
-    </item>
-    
+    <lastBuildDate>Thu, 13 Oct 2022 21:40:51 +0200</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Cl Shortcode</title>
       <link>https://ryuichirosuzuki.com/projects/hugo-cl-shortcode/</link>
       <pubDate>Thu, 13 Oct 2022 21:40:51 +0200</pubDate>
       
       <guid>https://ryuichirosuzuki.com/projects/hugo-cl-shortcode/</guid>
-      <description>This is still building</description>
+      <description>The repo Here
+What I wanted to achieve I wanted to make it possible to produce Cloudinary image links by just giving the file name to a shortcode.
+Setup make a submodule in your themes folder add the theme in the theme array in your config.toml theme = [&amp;#34;some other theme&amp;#34;, &amp;#34;cl-image&amp;#34;] add the following to your params portion of config.toml [params] baseURL = &amp;#34;https://res.cloudinary.com/&amp;#34; # This is the same for everyone cloudName = &amp;#34;your cloud name&amp;#34; # You can check your cloud name from cloudinary console page folderName = &amp;#34;Portfolio&amp;#34; # if you want to put collection of pictures into a single folder, write the name of the folder (optional) Usage The theme adds a shortcode called cl-image.</description>
     </item>
     
     <item>
@@ -117,16 +100,6 @@ I joined the team to speed up the development of the website and make the produc
       <guid>https://ryuichirosuzuki.com/about/</guid>
       <description>TLDR I am a full-stack web developer and very passionate about technology and computer science. I am an alumni of Le Wagon Tokyo, a coding bootcamp founded in France. Since graduation, I worked in three different companies as a freelance full stack developer, while teaching programming at the bootcamp I graduated from. I am a Japanese / English bilingual 🇯🇵🇬🇧
 Long version Where am I from? I was born in Tokyo Japan, and grew up there until 10.</description>
-    </item>
-    
-    <item>
-      <title>Cloudinary for Hugo</title>
-      <link>https://ryuichirosuzuki.com/posts/cloudinary-for-hugo/</link>
-      <pubDate>Sat, 13 Aug 2022 10:40:49 +0900</pubDate>
-      
-      <guid>https://ryuichirosuzuki.com/posts/cloudinary-for-hugo/</guid>
-      <description>What I wanted to achieve I wanted to make it possible to produce Cloudinary image links by just giving the file name to a shortcode.
-Setup make a submodule in your themes folder add the theme in the theme array in your config.toml theme = [&amp;#34;some other theme&amp;#34;, &amp;#34;cl-image&amp;#34;] add the following to your params portion of config.toml [params] baseURL = &amp;#34;https://res.cloudinary.com/&amp;#34; # This is the same for everyone cloudName = &amp;#34;your cloud name&amp;#34; # You can check your cloud name from cloudinary console page folderName = &amp;#34;Portfolio&amp;#34; # if you want to put collection of pictures into a single folder, write the name of the folder (optional) Usage The theme adds a shortcode called cl-image.</description>
     </item>
     
   </channel>
