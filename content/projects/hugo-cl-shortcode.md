@@ -1,5 +1,5 @@
 ---
-title: "Hugo Cl Shortcode"
+title: "Hugo Cloudinary Shortcode"
 date: 2022-10-13T21:40:51+02:00
 draft: false
 ---
