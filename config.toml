@@ -6,7 +6,7 @@ enableEmoji = true
 
 [params]
   images = ["/coding-me.jpg"]
-  homeSubtitle = "Fullstack Developer in Barcelona"
+  homeSubtitle = "Web Developer in Barcelona"
   enableThemeToggle = true
   customCSS = ["/css/home.css", "/css/mdi.css", "/css/image.css"]
   enableSharingButtons = true
