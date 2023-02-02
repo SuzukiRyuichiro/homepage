@@ -6,7 +6,7 @@ draft: false
 
 ## TLDR
 
-I am a full-stack web developer and very passionate about technology and computer science. I am an alumni of Le Wagon Tokyo, a coding bootcamp founded in France. Since graduation, I worked in three different companies as a freelance full stack developer, while teaching programming at the bootcamp I graduated from. I am a Japanese / English bilingual 🇯🇵🇬🇧
+I am a full-stack web developer. I've worked in three difference companies and also a teacher at a coding boot camp. I am a Japanese / English bilingual 🇯🇵🇬🇧
 
 {{< cl-image src="drinking-me.jpg" class="rounded center" alt="me drinking" height="600" style="min-width: 50%; height: 400px; object-fit: cover;" >}}
 
