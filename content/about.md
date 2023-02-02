@@ -6,7 +6,7 @@ draft: false
 
 ## TLDR
 
-I am a full-stack web developer. I've worked in three difference companies and also a teacher at a coding boot camp. I am a Japanese / English bilingual 🇯🇵🇬🇧
+I am a full-stack web developer. I have experience in developing web apps and native mobile apps. I am also a teacher at a coding boot camp. I am a Japanese / English bilingual 🇯🇵🇬🇧
 
 {{< cl-image src="drinking-me.jpg" class="rounded center" alt="me drinking" height="600" style="min-width: 50%; height: 400px; object-fit: cover;" >}}
 
