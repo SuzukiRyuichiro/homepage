@@ -6,18 +6,7 @@
     <description>Recent content in Spain on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jan 2023 18:42:16 +0100</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/tags/spain/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>TIEを入手するまで</title>
-      <link>https://ryuichirosuzuki.com/posts/getting-tie/</link>
-      <pubDate>Thu, 05 Jan 2023 18:42:16 +0100</pubDate>
-      
-      <guid>https://ryuichirosuzuki.com/posts/getting-tie/</guid>
-      <description>リンク切れ TIE の申込みをするのには、警察に行く必要があります。そのためには、事前に予約を取らなければいけません。その情報はどんな How to サイトにも書いてあるのですが、うざいのが、全てにおいて「ここで申し込むんだよ」っていうリンクが切れているということです。いつ変えたのか知りませんが、リンクが https://sede.administracionespublicas.gob.es/icpplustieb/index.html から https://icp.administracionelectronica.gob.es/icpplus/index.html に移動したらしく、どのサイトもハイパーリンクがアップデートされてないっぽいです。リダイレクトさせるくらいできただろと思いますが、そこはお役所仕事なのでしょう 🤷‍♀️
-クソ UI TIEの予約画面 面接を予約するサイトが、誰が考えた UI なんだってくらいゴミです。自分のいる県を選んだ後に、どのオフィスで予約をしたいか選ぶんですが、それが住所のドロップダウンしか無いという。どのオフィスが近いのか、一々マップで確認しなきゃいけないというクソ仕様になってます。で、近いオフィスを選んでも、色々と入力させるくせに、枠がいっぱいだとエラーで最初からやり直しになります。
-名前とか一生懸命入力させるくせにいっぱいだとエラー 一つ気づいたのは、最初、オフィスを選ぶ画面で、いきなりオフィスを選ぶのではなく、オフィスのところはCualquier oficinaのままで、TRÁMITES CUERPO NACIONAL DE POLICÍAだけ、TIE を取りたいというふうにしておけば、名前を入力した画面の後に、スポットが空いているオフィスだけのドロップダウンを出してくれる仕様になっています。最初からこれに気づきたかった… それは Cualquier の意味を知らなかった私のスペイン語力に問題があるのかもしれませんが 😅</description>
-    </item>
-    
+    <lastBuildDate>Wed, 28 Dec 2022 15:31:23 +0100</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/tags/spain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>スペインにて、ワーホリビザで仕事をする（就活編）</title>
       <link>https://ryuichirosuzuki.com/posts/getting-a-job-in-spain/</link>

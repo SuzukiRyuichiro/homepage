@@ -6,28 +6,7 @@
     <description>Recent content on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Feb 2023 12:11:10 +0200</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ケープタウンに行った話🇿🇦</title>
-      <link>https://ryuichirosuzuki.com/posts/south-africa-trip/</link>
-      <pubDate>Thu, 02 Feb 2023 12:11:10 +0200</pubDate>
-      
-      <guid>https://ryuichirosuzuki.com/posts/south-africa-trip/</guid>
-      <description>ことの発端 時々働いている Coding boot camp のケープタウン校が、直近で先生を探していると Slack に流れてきたので、どうせ無職みたいなもんだし、やってみようと手を上げました。本当にすぐに先生がほしいらしく、2 週間後に始まるクラスの最初の 3 週間のコマを受諾しました。フライトは会社持ち、宿泊はマネージャーの実家というなんとも自転車操業っぷり満載ですが、お金をもらって南アフリカに行けるなら、何でも良いやという軽い気持ちで行くことにしました。
-旅の準備 以前、マドリードに仕事に行くときに、もっと大きくて利便性の高いリュックが欲しくて、Tropicfeel の Shell というかばんをブラックフライデーのセールもあり、衝動買しました。結局、マドリードの仕事までには間に合わず、今回がこのかばんとの旅行デビューになります。1 月は🇿🇦ではもちろん夏なので、持っていく服自体は少なめでした。ただ、一緒に買った服のコンプレッサー兼ミニクローゼットを使ったり、カバンの下に隠れている靴収納袋など、めちゃくちゃ旅行に便利なカバンだなと、とても感心しました。買ってよかった。-&amp;gt; リファーラルリンク</description>
-    </item>
-    
-    <item>
-      <title>TIEを入手するまで</title>
-      <link>https://ryuichirosuzuki.com/posts/getting-tie/</link>
-      <pubDate>Thu, 05 Jan 2023 18:42:16 +0100</pubDate>
-      
-      <guid>https://ryuichirosuzuki.com/posts/getting-tie/</guid>
-      <description>リンク切れ TIE の申込みをするのには、警察に行く必要があります。そのためには、事前に予約を取らなければいけません。その情報はどんな How to サイトにも書いてあるのですが、うざいのが、全てにおいて「ここで申し込むんだよ」っていうリンクが切れているということです。いつ変えたのか知りませんが、リンクが https://sede.administracionespublicas.gob.es/icpplustieb/index.html から https://icp.administracionelectronica.gob.es/icpplus/index.html に移動したらしく、どのサイトもハイパーリンクがアップデートされてないっぽいです。リダイレクトさせるくらいできただろと思いますが、そこはお役所仕事なのでしょう 🤷‍♀️
-クソ UI TIEの予約画面 面接を予約するサイトが、誰が考えた UI なんだってくらいゴミです。自分のいる県を選んだ後に、どのオフィスで予約をしたいか選ぶんですが、それが住所のドロップダウンしか無いという。どのオフィスが近いのか、一々マップで確認しなきゃいけないというクソ仕様になってます。で、近いオフィスを選んでも、色々と入力させるくせに、枠がいっぱいだとエラーで最初からやり直しになります。
-名前とか一生懸命入力させるくせにいっぱいだとエラー 一つ気づいたのは、最初、オフィスを選ぶ画面で、いきなりオフィスを選ぶのではなく、オフィスのところはCualquier oficinaのままで、TRÁMITES CUERPO NACIONAL DE POLICÍAだけ、TIE を取りたいというふうにしておけば、名前を入力した画面の後に、スポットが空いているオフィスだけのドロップダウンを出してくれる仕様になっています。最初からこれに気づきたかった… それは Cualquier の意味を知らなかった私のスペイン語力に問題があるのかもしれませんが 😅</description>
-    </item>
-    
+    <lastBuildDate>Wed, 28 Dec 2022 15:31:23 +0100</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>スペインにて、ワーホリビザで仕事をする（就活編）</title>
       <link>https://ryuichirosuzuki.com/posts/getting-a-job-in-spain/</link>
@@ -43,25 +22,6 @@ Honeypot Honeypot が良いとおすすめされたので、登録してみま�
 その他 最終的にオファーを貰ったところは、前述した飲み会で知り合った友人の会社にアプライしたときに、その会社が使っていた応募者用のページを作っているところでした。会社のプロダクトとしては、そういった応募者の管理や、面接の日程を決めたり、HR との連絡をストリームライン化するアプリケーションを作っている会社です。UI が気に入ったので、フッターにあったリンクから、エンジニア募集してないかな？と調べてみたら、ちょうどフルリモートのエンジニアを募集していたので、応募しました。最初にプロダクトマネージャーと 1 時間ほど面接をし、その後、性格診断テストとかんたんなロジカルシンキングテストをやりました。最後に、二人のエンジニアを前に、実務で書いたコードを見せながら、なぜこういうコードを書いたのか、もしもう一度同じことをするなら、何を改善するか、など、プレゼンベースの面接を 1 時間半ほどやりました。
 結論 かなり気力と体力を使いました。リクルーターが音信不通になったり、「どんな言語でもいいからアプリ作って来て」って言われたので Node で書いたら、やっぱ PHP で書いてきて、と言われたり、面接長かったり。後、今後ビサの記事で書こうと思いますが、やはりワーホリビザでいるということを最初にうまく伝えておくのは大切だと感じました。そうすれば、自分側も、向こう側も、なんだかんだ無駄にする時間が減ると思います。
 追記 (2023/01/09) I apologize for the delay in the replay. I checked and unfortunately with our current resources it won’t be possible.</description>
-    </item>
-    
-    <item>
-      <title>Vue Tutorial</title>
-      <link>https://ryuichirosuzuki.com/posts/vue-tutorial/</link>
-      <pubDate>Fri, 09 Dec 2022 15:16:41 +0100</pubDate>
-      
-      <guid>https://ryuichirosuzuki.com/posts/vue-tutorial/</guid>
-      <description>Before we begin What is this? This is a tutorial to get started with VueJS, a most liked Javascript front-end framework on Github. In this tutorial, we will cover the basic concepts of the framework, which can translate to other front-end frameworks, such as React or Angular. You can start your front-end journey from Vue 👍
-What is Vue? VueJS is a Open source Javascript front-end framework which helps you to make interactive single page applications (SPAs).</description>
-    </item>
-    
-    <item>
-      <title>Still Building</title>
-      <link>https://ryuichirosuzuki.com/projects/still-building/</link>
-      <pubDate>Thu, 13 Oct 2022 21:41:51 +0200</pubDate>
-      
-      <guid>https://ryuichirosuzuki.com/projects/still-building/</guid>
-      <description>Still building the projects page&amp;hellip; </description>
     </item>
     
     <item>
@@ -157,16 +117,6 @@ I joined the team to speed up the development of the website and make the produc
       <guid>https://ryuichirosuzuki.com/about/</guid>
       <description>TLDR I am a full-stack web developer. I have experience in developing web apps and native mobile apps. I am also a teacher at a coding boot camp. I am a Japanese / English bilingual 🇯🇵🇬🇧
 Long version Where am I from? I was born in Tokyo, Japan and grew up there until the age of 10. In 2010, my family moved to London and I spent three years living in Wimbledon, where I acquired my English accent.</description>
-    </item>
-    
-    <item>
-      <title>Cloudinary for Hugo</title>
-      <link>https://ryuichirosuzuki.com/posts/cloudinary-for-hugo/</link>
-      <pubDate>Sat, 13 Aug 2022 10:40:49 +0900</pubDate>
-      
-      <guid>https://ryuichirosuzuki.com/posts/cloudinary-for-hugo/</guid>
-      <description>What I wanted to achieve I wanted to make it possible to produce Cloudinary image links by just giving the file name to a shortcode.
-Setup make a submodule in your themes folder add the theme in the theme array in your config.toml theme = [&amp;#34;some other theme&amp;#34;, &amp;#34;cl-image&amp;#34;] add the following to your params portion of config.toml [params] baseURL = &amp;#34;https://res.cloudinary.com/&amp;#34; # This is the same for everyone cloudName = &amp;#34;your cloud name&amp;#34; # You can check your cloud name from cloudinary console page folderName = &amp;#34;Portfolio&amp;#34; # if you want to put collection of pictures into a single folder, write the name of the folder (optional) Usage The theme adds a shortcode called cl-image.</description>
     </item>
     
   </channel>
