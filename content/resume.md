@@ -18,6 +18,11 @@ I joined the team to speed up the development of the website and make the produc
 
 On top of the OpenSalary website, we've been building WorkCircle, a platform that aims to bridge communication among tech workers in Japan. I've been involved in building the app, as well as building the landing page for the application from scratch.
 
+In WorkCircle development, notable achievements are
+
+- Sped up the load time of the main page by 80%
+- Introduces numerous features for the official release
+
 ---
 
 ### [Le Wagon](https://www.lewagon.com/tokyo)
