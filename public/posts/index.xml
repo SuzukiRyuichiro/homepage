@@ -9,7 +9,7 @@
         <atom:link href="https://ryuichirosuzuki.com/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>TIEの申請に2回もしくじった話</title>
+            <title>【ワーホリ🇪🇸】TIEの申請に2回もしくじった話</title>
             <link>https://ryuichirosuzuki.com/posts/getting-tie/</link>
             <pubDate>Thu, 05 Jan 2023 18:42:16 +0100</pubDate>
             
@@ -72,7 +72,7 @@ Tasa の支払いについて これは少しだけ手こずりましたね。�
         </item>
         
         <item>
-            <title>スペインにて、ワーホリビザで仕事をする（就活編）</title>
+            <title>スペインにワーホリビザで来て、エンジニア就活をした話</title>
             <link>https://ryuichirosuzuki.com/posts/getting-a-job-in-spain/</link>
             <pubDate>Wed, 28 Dec 2022 15:31:23 +0100</pubDate>
             
@@ -85,7 +85,7 @@ Tasa の支払いについて これは少しだけ手こずりましたね。�
 Honeypot Honeypot が良いとおすすめされたので、登録してみました。Linkedin の逆で、会社があなたを探してくれるサービスです。ですが、おそらく身分不相応な希望年収を書いたので、一度も面接には呼ばれませんでした。少し、戦い方を間違えたなと反省しています。
 その他 最終的にオファーを貰ったところは、前述した飲み会で知り合った友人の会社にアプライしたときに、その会社が使っていた応募者用のページを作っているところでした。会社のプロダクトとしては、そういった応募者の管理や、面接の日程を決めたり、HR との連絡をストリームライン化するアプリケーションを作っている会社です。UI が気に入ったので、フッターにあったリンクから、エンジニア募集してないかな？と調べてみたら、ちょうどフルリモートのエンジニアを募集していたので、応募しました。最初にプロダクトマネージャーと 1 時間ほど面接をし、その後、性格診断テストとかんたんなロジカルシンキングテストをやりました。最後に、二人のエンジニアを前に、実務で書いたコードを見せながら、なぜこういうコードを書いたのか、もしもう一度同じことをするなら、何を改善するか、など、プレゼンベースの面接を 1 時間半ほどやりました。
 結論 かなり気力と体力を使いました。リクルーターが音信不通になったり、「どんな言語でもいいからアプリ作って来て」って言われたので Node で書いたら、やっぱ PHP で書いてきて、と言われたり、面接長かったり。後、今後ビサの記事で書こうと思いますが、やはりワーホリビザでいるということを最初にうまく伝えておくのは大切だと感じました。そうすれば、自分側も、向こう側も、なんだかんだ無駄にする時間が減ると思います。
-追記 (2023/01/09) I apologize for the delay in the replay. I checked and unfortunately with our current resources it won’t be possible.</description>
+追記 (2023/01/09) - ワーホリだからオファーを取り下げられた I apologize for the delay in the replay. I checked and unfortunately with our current resources it won’t be possible.</description>
             <content type="html"><![CDATA[<h2 id="はじめに">はじめに</h2>
 <p>ワーホリビザで 2022 年の 9 月末にバルセロナに来ました。自分の目標としては、こっちでフルタイムのオファーを貰って、あわよくば就労ビザなりをゲットすること。そんな目標を持って、就活を始めました。この記事では、就活の流れや、何をしたかを書いていきます。ネットを調べても、あまり経験談などを見ないので、自分の備忘録も兼ねて、もし同じことを考えている人の助けになればと思い、書きました。</p>
 <h2 id="自己紹介">自己紹介</h2>
@@ -104,12 +104,21 @@ Honeypot Honeypot が良いとおすすめされたので、登録してみま�
 <p>最終的にオファーを貰ったところは、前述した飲み会で知り合った友人の会社にアプライしたときに、その会社が使っていた応募者用のページを作っているところでした。会社のプロダクトとしては、そういった応募者の管理や、面接の日程を決めたり、HR との連絡をストリームライン化するアプリケーションを作っている会社です。UI が気に入ったので、フッターにあったリンクから、エンジニア募集してないかな？と調べてみたら、ちょうどフルリモートのエンジニアを募集していたので、応募しました。最初にプロダクトマネージャーと 1 時間ほど面接をし、その後、性格診断テストとかんたんなロジカルシンキングテストをやりました。最後に、二人のエンジニアを前に、実務で書いたコードを見せながら、なぜこういうコードを書いたのか、もしもう一度同じことをするなら、何を改善するか、など、プレゼンベースの面接を 1 時間半ほどやりました。</p>
 <h2 id="結論">結論</h2>
 <p>かなり気力と体力を使いました。リクルーターが音信不通になったり、「どんな言語でもいいからアプリ作って来て」って言われたので Node で書いたら、やっぱ PHP で書いてきて、と言われたり、面接長かったり。後、今後ビサの記事で書こうと思いますが、やはりワーホリビザでいるということを最初にうまく伝えておくのは大切だと感じました。そうすれば、自分側も、向こう側も、なんだかんだ無駄にする時間が減ると思います。</p>
-<h2 id="追記-20230109">追記 (2023/01/09)</h2>
+<h2 id="追記-20230109---ワーホリだからオファーを取り下げられた">追記 (2023/01/09) - ワーホリだからオファーを取り下げられた</h2>
 <blockquote>
 <p>I apologize for the delay in the replay. I checked and unfortunately with our current resources it won’t be possible. ☹
 I hope we stay in touch though and when we have more possibilities, we can cooperate again.</p>
 </blockquote>
 <p>オファーを頂いていたポーランドのコンサル会社から、やはりワーホリビザじゃ働かせられないし、就労ビザの手続きもしたくないから、やっぱりごめんとのメールを頂きました。オファーも、€22000 と、スウェーデンの会社に比べて 150 万円ほど安かったので、正直あまり選ぶ気はありませんでしたが、やはりビザ面倒くさいからごめんと言われるとしゃくですね…</p>
+<h2 id="追記-2-20231-月中旬---ワーホリだから契約できないとなったけど代替案を提示された">追記 2 (2023/1 月中旬) - ワーホリだから契約できないとなったけど、代替案を提示された</h2>
+<p>オファーを頂いたスウェーデンの会社ですが、1 月からスタートする予定だったんですが、契約書を用意する段階で、向こうから今のビザでは雇うことができないという悲しいメールが来ました。ワーホリでフルタイムはやはり会社としては無理なんですね。おそらく契約に終了がないのがいけないんでしょうか。</p>
+<p>こちらとしても、インターンや、パートタイム契約ならどうだと、少しごねては見ましたが、向こうの雇用フィロソフィーと合わないということもあって、今すぐスタートするのは見送ることになりました。ですが、その後マネージャーと面談をした結果、とても寛大な提案をしていただきました。</p>
+<ol>
+<li>なる早でスタートするために、スウェーデンに引っ越して、スウェーデンの就労ビザを申し込む。こうすれば、会社としても経験豊富だし、オフィスに来て働ける。</li>
+<li>少しスペインに飽きるまで居て、数カ月後にスウェーデンに行って、同じことをする。そうすればスペインを十分に満喫してから、仕事を始められる。</li>
+<li>ワーホリビザが切れるまで待って、それからスペインの就労ビザを取得して、リモートでスペインから働く。</li>
+</ol>
+<p>大変光栄なことに、向こうは僕のポテンシャルに期待してくれているそうで、「待つに値する」とまで言ってくれました。自分は、スペインに来て間もないし、スペイン語もまだ満足に喋れないので、お金を使って今すぐにスウェーデンに行く決心はできないと伝えました。結果、3 のワーホリビザが切れる 9 月まで待って、日本で就労ビザを取得して、早ければ 2023 年以内、もし時間がかかるようであれば 2024 年からスタートするということで合意しました。なので、とりあえずそれまではフリーランスを続ければいいのかな。</p>
 ]]></content>
         </item>
         
@@ -264,9 +273,9 @@ When it hits the point where installing gems using <code>bundle install</code>, 
 </span></span><span style="display:flex;"><span><span style="color:#f92672">name</span>: <span style="color:#e6db74">&#34;Ruby on Rails CI&#34;</span>
 </span></span><span style="display:flex;"><span><span style="color:#f92672">on</span>:
 </span></span><span style="display:flex;"><span>  <span style="color:#f92672">push</span>:
-</span></span><span style="display:flex;"><span>    <span style="color:#f92672">branches</span>: [ <span style="color:#e6db74">&#34;main&#34;</span> ]
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">branches</span>: [<span style="color:#e6db74">&#34;main&#34;</span>]
 </span></span><span style="display:flex;"><span>  <span style="color:#f92672">pull_request</span>:
-</span></span><span style="display:flex;"><span>    <span style="color:#f92672">branches</span>: [ <span style="color:#e6db74">&#34;main&#34;</span> ]
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">branches</span>: [<span style="color:#e6db74">&#34;main&#34;</span>]
 </span></span><span style="display:flex;"><span><span style="color:#f92672">jobs</span>:
 </span></span><span style="display:flex;"><span>  <span style="color:#f92672">test</span>:
 </span></span><span style="display:flex;"><span>    <span style="color:#f92672">runs-on</span>: <span style="color:#ae81ff">ubuntu-latest</span>

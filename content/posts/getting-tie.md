@@ -1,5 +1,5 @@
 ---
-title: "TIEの申請に2回もしくじった話"
+title: "【ワーホリ🇪🇸】TIEの申請に2回もしくじった話"
 date: 2023-01-05T18:42:16+01:00
 draft: false
 toc: true

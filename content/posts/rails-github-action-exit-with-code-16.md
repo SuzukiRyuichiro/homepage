@@ -12,6 +12,7 @@ tags:
 ---
 
 # The issue
+
 I have a Rails application that runs on Ruby alpine image. When I was running github actions workflow, it threw an error when installing gems.
 The workflow file is basically the copy of the official Ruby on Rails CI template, which you can easily find from Github Actions tab on any repo.
 When it hits the point where installing gems using `bundle install`, it stops with
@@ -21,6 +22,7 @@ Error: The process '/opt/hostedtoolcache/Ruby/3.1.2/x64/bin/bundle' failed with 
 ```
 
 ## The workflow
+
 ```yaml
 # This workflow uses actions that are not certified by GitHub.  They are
 # provided by a third-party and are governed by separate terms of service,
@@ -31,9 +33,9 @@ Error: The process '/opt/hostedtoolcache/Ruby/3.1.2/x64/bin/bundle' failed with 
 name: "Ruby on Rails CI"
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -66,10 +68,12 @@ jobs:
 ```
 
 # The fix
+
 Simply, I had to run
 
 ```shell
 bundle lock --add-platform x86_64-linux
 ```
+
 on my local machine. Ofc, like me, if you are developing the app on a docker container, add docker stuff before the command.
 The reason being is that the workflow is running on Ubuntu, instead of Alpine like my local container.

@@ -55,7 +55,7 @@ Error: The process &amp;#39;/opt/hostedtoolcache/Ruby/3." />
 <meta itemprop="description" content="The issue I have a Rails application that runs on Ruby alpine image. When I was running github actions workflow, it threw an error when installing gems. The workflow file is basically the copy of the official Ruby on Rails CI template, which you can easily find from Github Actions tab on any repo. When it hits the point where installing gems using bundle install, it stops with
 Error: The process &#39;/opt/hostedtoolcache/Ruby/3."><meta itemprop="datePublished" content="2022-09-18T16:16:33+09:00" />
 <meta itemprop="dateModified" content="2022-09-18T16:16:33+09:00" />
-<meta itemprop="wordCount" content="273"><meta itemprop="image" content="https://ryuichirosuzuki.com/coding-me.jpg"/>
+<meta itemprop="wordCount" content="269"><meta itemprop="image" content="https://ryuichirosuzuki.com/coding-me.jpg"/>
 <meta itemprop="keywords" content="github,github actions,rails,docker," />
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://ryuichirosuzuki.com/coding-me.jpg"/>
@@ -172,9 +172,9 @@ When it hits the point where installing gems using <code>bundle install</code>, 
 </span></span><span style="display:flex;"><span><span style="color:#f92672">name</span>: <span style="color:#e6db74">&#34;Ruby on Rails CI&#34;</span>
 </span></span><span style="display:flex;"><span><span style="color:#f92672">on</span>:
 </span></span><span style="display:flex;"><span>  <span style="color:#f92672">push</span>:
-</span></span><span style="display:flex;"><span>    <span style="color:#f92672">branches</span>: [ <span style="color:#e6db74">&#34;main&#34;</span> ]
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">branches</span>: [<span style="color:#e6db74">&#34;main&#34;</span>]
 </span></span><span style="display:flex;"><span>  <span style="color:#f92672">pull_request</span>:
-</span></span><span style="display:flex;"><span>    <span style="color:#f92672">branches</span>: [ <span style="color:#e6db74">&#34;main&#34;</span> ]
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">branches</span>: [<span style="color:#e6db74">&#34;main&#34;</span>]
 </span></span><span style="display:flex;"><span><span style="color:#f92672">jobs</span>:
 </span></span><span style="display:flex;"><span>  <span style="color:#f92672">test</span>:
 </span></span><span style="display:flex;"><span>    <span style="color:#f92672">runs-on</span>: <span style="color:#ae81ff">ubuntu-latest</span>
@@ -237,7 +237,7 @@ The reason being is that the workflow is running on Ubuntu, instead of Alpine li
           <line x1="16" y1="17" x2="8" y2="17"></line>
           <polyline points="10 9 9 9 8 9"></polyline>
         </svg>
-        273 Words
+        269 Words
       </p>
 
       <p>
