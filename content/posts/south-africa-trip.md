@@ -1,7 +1,7 @@
 ---
 title: "ケープタウンに行った話🇿🇦"
 date: 2023-02-02T12:11:10+02:00
-draft: true
+draft: false
 toc: true
 images:
 tags:
