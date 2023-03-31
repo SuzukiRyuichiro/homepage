@@ -4,6 +4,7 @@ date: 2023-02-02T12:11:10+02:00
 draft: false
 toc: true
 images:
+  - posts/south-africa-trip/header.jpg
 tags:
   - travel
 ---
