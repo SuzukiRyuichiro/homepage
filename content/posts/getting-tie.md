@@ -4,6 +4,7 @@ date: 2023-01-05T18:42:16+01:00
 draft: false
 toc: true
 images:
+  - posts/getting-tie/bcn-policia.jpg
 tags:
   - ワーホリ
   - Travel
