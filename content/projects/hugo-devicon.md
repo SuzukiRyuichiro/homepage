@@ -572,7 +572,7 @@ I wanted to make it possible to use devicons in hugo as a shortcode
 
 ## How to use
 
-1. Clone the [repo](https://ryuichirosuzuki.com/projects/hugo-devicon/)
+1. Clone the [repo](https://github.com/SuzukiRyuichiro/hugo-devicons)
 2. Add the following line to your head
 
 ```go
