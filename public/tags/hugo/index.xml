@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Ryuichiro Suzuki</title>
-    <link>https://ryuichirosuzuki.com/projects/</link>
-    <description>Recent content in Projects on Ryuichiro Suzuki</description>
+    <title>hugo on Ryuichiro Suzuki</title>
+    <link>https://ryuichirosuzuki.com/tags/hugo/</link>
+    <description>Recent content in hugo on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2023 10:09:32 +0200</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Apr 2023 10:09:32 +0200</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Devicon</title>
       <link>https://ryuichirosuzuki.com/projects/hugo-devicon/</link>

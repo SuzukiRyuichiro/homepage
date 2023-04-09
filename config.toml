@@ -1,11 +1,12 @@
 baseURL = 'https://ryuichirosuzuki.com'
 languageCode = 'en-us'
 title = 'Ryuichiro Suzuki'
-theme = ["mdi", "hello-friend-ng", "cl-image"]
+theme = ["mdi", "hello-friend-ng", "cl-image", "devicons"]
 enableEmoji = true
 
 [params]
   images = ["/coding-me.jpg"]
+  description = "Ryuichiro Suzuki is a Web Developer in Barcelona"
   homeSubtitle = "Web Developer in Barcelona"
   enableThemeToggle = true
   customCSS = ["/css/home.css", "/css/mdi.css", "/css/image.css","/css/video.css"]

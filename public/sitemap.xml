@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ryuichirosuzuki.com/posts/</loc>
-    <lastmod>2023-02-02T12:11:10+02:00</lastmod>
+    <loc>https://ryuichirosuzuki.com/tags/hugo/</loc>
+    <lastmod>2023-04-09T10:09:32+02:00</lastmod>
+  </url><url>
+    <loc>https://ryuichirosuzuki.com/projects/hugo-devicon/</loc>
+    <lastmod>2023-04-09T10:09:32+02:00</lastmod>
+  </url><url>
+    <loc>https://ryuichirosuzuki.com/projects/</loc>
+    <lastmod>2023-04-09T10:09:32+02:00</lastmod>
   </url><url>
     <loc>https://ryuichirosuzuki.com/</loc>
-    <lastmod>2023-02-02T12:11:10+02:00</lastmod>
+    <lastmod>2023-04-09T10:09:32+02:00</lastmod>
   </url><url>
     <loc>https://ryuichirosuzuki.com/tags/</loc>
+    <lastmod>2023-04-09T10:09:32+02:00</lastmod>
+  </url><url>
+    <loc>https://ryuichirosuzuki.com/posts/</loc>
     <lastmod>2023-02-02T12:11:10+02:00</lastmod>
   </url><url>
     <loc>https://ryuichirosuzuki.com/tags/travel/</loc>
@@ -30,9 +39,6 @@
     <lastmod>2022-12-28T15:31:23+01:00</lastmod>
   </url><url>
     <loc>https://ryuichirosuzuki.com/projects/hugo-cl-shortcode/</loc>
-    <lastmod>2022-10-13T21:40:51+02:00</lastmod>
-  </url><url>
-    <loc>https://ryuichirosuzuki.com/projects/</loc>
     <lastmod>2022-10-13T21:40:51+02:00</lastmod>
   </url><url>
     <loc>https://ryuichirosuzuki.com/posts/spain-phone-and-bank/</loc>
