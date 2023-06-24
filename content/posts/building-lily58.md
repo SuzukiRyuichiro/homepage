@@ -33,10 +33,12 @@ Just to try things out, I changed the cable to USB-A to USB-c cable that came wi
 
 With tiny hope, I changed my cable to another generic USB-A to USB-c cable I use on my bedside. It did flash the LED, and when running the QMK command, it finally registered my reset button and installed the firmware. I did not expect that the board will be this picky about which cable to use. I knew type-c is a mess in terms of standards but if you're building one and facing a similar problem, try out every single cable you got. 
 
-
-
 ## Soldering is not that hard
 
+This is my second time soldering something (first being a headphone I fixed years ago) and given that there are so many parts to solder, I was fearful that I'd mess up something and waste all the money I put in. However, in the end, it wasn't that hard. If you follow the protocol, such as setting the right temperature not to melt your PCB or controller, it was easier than I thought. Also, since you'd be soldering more than 200 points, at the end of it, you'd be much better at soldering than the first few. As for this build, the difference is quite obvious, both in quality and speed of soldering. So have faith in yourself and give it a try.
+
 ## You don't have to be overly cautious, yet be careful
+
+In relation to the point above, I thought a millimeter of mistake would cause some problem to the keyboard but it turned out just fine. I was a bit cocky at the end when soldering sockets and stuff but it just worked. I thing one thing I should have been cautious was putting the switches into the sockets. If the pin is unalinged for the tiniest margin, you can bend the connectors and it won't register. I missed sockets in 4 switches, and had to pull them out, straighten the bent pin, then put it back again until it registers a key press. To sum up, be careful enough not to break things, but you can be careless in some parts, and it still works.
 
 ## Fuck Brexit
