@@ -11,6 +11,8 @@ tags:
 
 ## My first DIY keyboard build
 
+I'm gonna write this section later... ✍️
+
 ## Things I wish I had known beforehand
 
 ### Difference of pins you can have for your controller
