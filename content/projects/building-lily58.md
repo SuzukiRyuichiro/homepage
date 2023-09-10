@@ -11,7 +11,47 @@ tags:
 
 ## My first DIY keyboard build
 
-I'm gonna write this section later... ✍️
+I've been looking into ergonomic mechanical keyboards for a while, and I finally made one. I chose Lily58 since it seemed to be not too far from the normal keyboard layout while having a lot of thumb keys, which is what I wanted. I heavily use keyboard shortcuts while working, and this layout looked promising.
+
+I got the keyboard set that is not pre-assembled, as I wanted to keep it under budget and also enjoy the challenge of soldering all the switches and diodes. Trust me, it was a lot of fun.
+
+### Lay the parts out
+
+Before jumping into the actual build, it was helpful to organize all your parts, especially the small parts. I used a masking tape to layout the small diodes and switch sockets (in the same direction!!!) so I can be efficient when soldering.
+
+### Solder the diodes
+
+Once your workspace is organized, start by pre-solder the PCB where diodes will go. It was difficult to get the right amount on to the board, but I figured putting the iron onto the metallic part of the PCB and heat that part up until the solder melts and spread onto the PCB.
+
+Once that's done for all 58 keys, you can start soldering the diodes onto the PCB. Diodes are polar components, which means they have a direction. Make sure to match the orientation shown on the PCB. This is why you should have all the diodes layed out beforehand.
+
+### Initialize the controllers
+
+First, you can solder the reset switches onto the micro controllers.
+
+### Solder the controllers
+
+After the diodes are in place, it's time to move on to the micro controllers. These can be a bit tricky due to the number of pins involved. Line up the micro controller so that all pins align with the holes on the PCB and start soldering them one by one.
+
+This was a scary part for me since I did not have the pins every Youtube videos or internet tutorials had. I only had a single use pins, which cannot be pulled out after soldering. It got me scared that if I mess this up, the whole board will be a waste, but I made up my mind and soldered it. It worked just fine in the end. All I needed was a courage I guess lol
+
+### Check the solder with metallic tweezers
+
+If you want to make sure
+
+### Solder the switch sockets
+
+Switch sockets allow you to hot-swap your switches without needing to solder again.
+
+### Check the solder with metallic tweezers
+
+Once all the soldering is done, use a pair of metallic tweezers to check for any mistakes. You can do this by lightly touching each solder joint and ensuring it's well-formed. If you find any solder bridges or cold solder joints, you can fix them using a solder sucker or additional solder as required.
+
+### Put the key switches
+
+Now for the final step: putting in the key switches. Take your switches and carefully press them into the switch sockets you soldered earlier. Make sure they're firmly seated and level. Once all switches are in place, you can proceed to add your keycaps.
+
+And there you have it, your very own Lily58 mechanical keyboard! With this new setup, not only do you have a more ergonomic layout, but you also get the satisfaction of having built it yourself.
 
 ## Things I wish I had known beforehand
 
