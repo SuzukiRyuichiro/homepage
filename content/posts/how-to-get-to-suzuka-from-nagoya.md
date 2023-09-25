@@ -17,7 +17,7 @@ Given the recent increase in the popularity of Formula 1, there are plenty of no
 
 Trains are the cheapest way to get to the circuit, yet hardest to figure out. There are different types of trains available, and different train companies depending on which stations you want to get off from.
 
-## The most popular route: Nagoya (名古屋) → Shiroko (白子) 🚃 + Shuttle bus 🚌
+## The most popular route: Nagoya → Shiroko 🚃 + Shuttle bus 🚌
 
 This route is by far the most popular route. Shiroko station is a station that is about 5km away from the circuit. During the Grand Prix weekend, there are extra express trains and limited express trains that goes directly to and from Nagoya station, and many people use this train. From Shiroko station, there is a special shuttle bus that goes to the circuit, which most of the people also use. However, ticketing system is quite hard to figure out for a first time visitor.
 
@@ -45,13 +45,15 @@ This must be the most confusing part for the first time visitors. I saw many peo
 
 Once you get to Shiroko station, you will see a long line of people waiting for the shuttle bus. Shuttle bus to the circuit cost ¥450, and you can pay by Suica or Pasmo cards, or by cash. Payment done after you get off at the circuit. It is better to have those contactless cards since it is much faster.
 
+{{< figure src="/posts/how-to-get-to-suzuka-from-nagoya/buses.jpg" title="There are so many buses in use but it doesn't come fast enough for the people using it..." >}}
+
 The most annoying thing about the shuttle bus is the wait time. On Friday morning, which I went quite early, the wait was about 5 minutes. Looking at some tweets by fans, later hours on Friday is also not super crowded and the wait time is about 30 mins. However, on Saturday and Sunday, obviously there are more people who are going to the circuit so the line can get quite long. The line goes around the area in front of the station multiple times, and takes you about more than 1 hour to get onto a bus!! There's an option to use a taxi as well, but keep in mind that the line for taxis is also quite long. Some people choose to walk the 5km since it can be faster sometime.
 
 {{< figure src="/posts/how-to-get-to-suzuka-from-nagoya/shiroko-stairs-sun.jpg" title="Shiroko station staircase on Sunday morning around 10AM" >}}
 
 {{< figure src="/posts/how-to-get-to-suzuka-from-nagoya/shiroko-bus-line-sunday.jpg" title="It took me about 1 hour and 10 minutes to get on a bus from here" >}}
 
-{{< figure src="/posts/how-to-get-to-suzuka-from-nagoya/bus-line-sunday.jpg" title="Bus line goes around the nearby parking lot as well, with no shade obviously" >}}
+{{< figure src="/posts/how-to-get-to-suzuka-from-nagoya/bus-line-sunday.jpg" title="Bus line goes around the nearby parking lot as well, with no shades obviously" >}}
 
 ## Next most popular route: Nagoya (名古屋) → Suzuka Circuit Inno (鈴鹿サーキット稲生駅) 🚃 + Walk 🚶
 
@@ -59,6 +61,30 @@ There's another station which is closer to the circuit called Suzuka Circuit Inn
 
 ## The return trip
 
-To get back to Nagoya after the sessions are over, the nightmare begins 😭
+To get back to Nagoya after the sessions are over, the nightmare begins 😭 You can simply reverse the route you came with, but make sure to understand the pros and cons of each options
+
+### Most popular route Shuttle bus 🚌 + Shiroko → Nagoya 🚃
+
+This is the reverse of [the most popular route from Nagoya station](#the-most-popular-route-nagoya--shiroko---shuttle-bus-). However, you have to keep in mind that the waiting line for the bus is worse than the one in the morning. Since people try to go home all at once, you have to wait for possibly two hours at the parking lot of the circuit waiting for the bus to come. On Friday, I chose this route after seeing Seb speak on the stage, which was around 5PM. In the end, it took me about 2 hours to get onto a bus in the pouring rain 😭
+
+{{< image src="/posts/how-to-get-to-suzuka-from-nagoya/friday-bus-waiting.jpg" position="center" >}}
+
+From this experience, on Saturday and Sunday, I chose not to stay until everything was over. On Saturday, I left my seat around around 2 minutes before Q3 was over and headed to the grand stand exit. Then from the exit, saw Max taking the pole and Oscar taking P3, then decided to leave before everyone crossed the line. Leaving the session early gave me a head start and I managed to get onto a bus after waiting for 10 minutes or so.
+
+Also on Sunday, I left my seat when there was about 5 laps left, and saw the end of the race on my phone. I wouldn't have done it if it was as exciting as the Singapore GP, but since Max was miles ahead and none of the drivers I passionately support had a good race, I didn't really care to see the end. This was also a good call since I only waited about 5 minutes. However, by the time I got on to the bus, the line grew 3 fold, and probably would've taken me 30 minutes more if I left a few laps later.
+
+{{< image src="/posts/how-to-get-to-suzuka-from-nagoya/sunday-after-race-bus.jpg" position="center" >}}
+
+Once you get to Shiroko station, then the system is the same. If you don't need a guaranteed seat and slightly faster train, then you simply buy a ticket to Nagoya, or tap in with your Suica, then get onto any express train that comes first. I lined up early on Sunday so I managed to sit down for the whole journey back to Nagoya.
+
+If you want to buy the limited express back to Nagoya, then the web app is the way to go. It is easier to get the limited express train back to Nagoya since every one aren't sure if they make it back to the station by the time the train they reserved leaves. What I did on Friday and Saturday is that while riding on the bus, simply estimate the time you arrive at the station, then get the limited express ticket that departs right after the bus arrives at the station. This is the best way because by the time you got to the station, the next earliest limited express are usually sold out by the people who arrived with the few buses before you.
+
+Despite the long line for the bus, this route ensures that you get home since Mie Kotsu, who runs the buses, and Kintetsu are kind enough to set extra trains and buses until everyone is served. Although the bus technically has a time limit set on every day, they usually run beyond that time since they can't serve every one by that deadline. Also, Kintetsu run special express trains to serve more people when high in demand. This cannot be said for the JR, who refuses to run extra trains and people can end up stranded after the final train left.
+
+### Second most popular route: Walk 🚶 + Suzuka Circuit Inno → Nagoya 🚃
+
+### The hidden route: Walk (or bus) 🚶 + Hirata-cho → Wakamatsu → Nagoya 🚃
+
+###
 
 ## Other considerations
