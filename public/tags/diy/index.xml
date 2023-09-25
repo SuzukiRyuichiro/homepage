@@ -9,12 +9,12 @@
     <lastBuildDate>Fri, 23 Jun 2023 18:51:21 +0200</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/tags/diy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building Lily58</title>
-      <link>https://ryuichirosuzuki.com/posts/building-lily58/</link>
+      <link>https://ryuichirosuzuki.com/projects/building-lily58/</link>
       <pubDate>Fri, 23 Jun 2023 18:51:21 +0200</pubDate>
       
-      <guid>https://ryuichirosuzuki.com/posts/building-lily58/</guid>
-      <description>My first DIY keyboard build I&amp;rsquo;m gonna write this section later&amp;hellip; ✍️
-Things I wish I had known beforehand Difference of pins you can have for your controller In the Lily58 set I got from Mechboad.co.uk, it came with two Pro Micro controllers. These controllers are sold with header pins, which is packaged together with the board. Those pin headers works, but many websites and tutorials advice not to use them.</description>
+      <guid>https://ryuichirosuzuki.com/projects/building-lily58/</guid>
+      <description>My first DIY keyboard build I&amp;rsquo;ve been looking into ergonomic mechanical keyboards for a while, and I finally made one. I chose Lily58 since it seemed to be not too far from the normal keyboard layout while having a lot of thumb keys, which is what I wanted. I heavily use keyboard shortcuts while working, and this layout looked promising.
+I got the keyboard set that is not pre-assembled, as I wanted to keep it under budget and also enjoy the challenge of soldering all the switches and diodes.</description>
     </item>
     
   </channel>
