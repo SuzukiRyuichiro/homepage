@@ -23,9 +23,9 @@ This route is by far the most popular route. Shiroko station is a station that i
 
 ### Figuring out the train companies and ticketing system
 
-First, you have to distinguish the train company you are using. In Nagoya station, there are multiple train companies that uses the same building, but different turnstiles. There are JR (Japan Rail), Kintetsu, and the subway. To get to Shiroko station, you have to use Kintetsu, which has its own designated turnstile. If you get to the Nagoya station, you have to look for signs that direct you to the Kintetsu turnstile, not JR!!
+First, you have to distinguish the train company you are using. In Nagoya station, there are multiple train companies that uses the same building, and you have to know which turnstile is for which company. There are JR (Japan Rail), Kintetsu, Meitetsu and the subway. To get to Shiroko station, you have to use **Kintetsu**, which has its own designated turnstile. If you get to the Nagoya station, you have to look for signs that direct you to the Kintetsu turnstile, not the others!!
 
-Then, you have to understand the different types of trains, local, express, and limited express. For local and express trains, you **DO NOT** need to buy extra limited express ticket. You can simply buy a ticket to Shiroko station, which is ¥1000, and hop on to the train that comes first. You can buy the ticket at the vending machine at Kintetsu Nagoya Station. However, on the day of the race, it can get quite crowded by the people who are trying to get the ticket, so it would be better to have the contactless payment with you, such as Suica and Pasmo. If you have a Suica or Pasmo card, you can simply charge that up and tap in and out of the station. Express train takes about 50 minutes from Nagoya to Shiroko station.
+Then, you have to understand the different types (speed) of trains: local, express, and limited express. For local and express trains, you **DO NOT** need to buy extra limited express ticket. You can simply buy a ticket to Shiroko station, which is ¥1000, and hop on to the train that comes first. You can buy the ticket at the vending machine at Kintetsu Nagoya Station. However, on the day of the race, it can get quite crowded by the people who are trying to get the ticket, so it would be better to have the contactless payment with you, such as Suica and Pasmo. If you have a Suica or Pasmo card, you can simply charge that up and tap in and out of the station. Express train takes about 50 minutes from Nagoya to Shiroko station.
 
 Express trains are relatively cheap but fast enough. Also, there's less stress of missing one because there's no reserving seats for a specific train. You can simply wait at the platform and if you're lucky, you can get a seat for the whole ride. However, obviously there are more people standing than sitting. You have to keep that in mind.
 
@@ -55,9 +55,9 @@ The most annoying thing about the shuttle bus is the wait time. On Friday mornin
 
 {{< figure src="/posts/how-to-get-to-suzuka-from-nagoya/bus-line-sunday.jpg" title="Bus line goes around the nearby parking lot as well, with no shades obviously" >}}
 
-## Next most popular route: Nagoya (名古屋) → Suzuka Circuit Inno (鈴鹿サーキット稲生駅) 🚃 + Walk 🚶
+## Next most popular route: Nagoya → Suzuka Circuit Inoh 🚃 + Walk 🚶
 
-There's another station which is closer to the circuit called Suzuka Circuit Inno station.
+There's another station which is closer to the circuit called Suzuka Circuit Inoh station.
 
 ## The return trip
 
@@ -81,7 +81,7 @@ If you want to buy the limited express back to Nagoya, then the web app is the w
 
 Despite the long line for the bus, this route ensures that you get home since Mie Kotsu, who runs the buses, and Kintetsu are kind enough to set extra trains and buses until everyone is served. Although the bus technically has a time limit set on every day, they usually run beyond that time since they can't serve every one by that deadline. Also, Kintetsu run special express trains to serve more people when high in demand. This cannot be said for the JR, who refuses to run extra trains and people can end up stranded after the final train left.
 
-### Second most popular route: Walk 🚶 + Suzuka Circuit Inno → Nagoya 🚃
+### Second most popular route: Walk 🚶 + Suzuka Circuit Inoh → Nagoya 🚃
 
 ### The hidden route: Walk (or bus) 🚶 + Hirata-cho → Wakamatsu → Nagoya 🚃
 
