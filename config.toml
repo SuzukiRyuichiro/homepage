@@ -6,8 +6,8 @@ enableEmoji = true
 
 [params]
   images = ["/coding-me.jpg"]
-  description = "Ryuichiro Suzuki is a Web Developer in Barcelona"
-  homeSubtitle = "Web Developer in Barcelona"
+  description = "Ryuichiro Suzuki is a Web Developer in Tokyo"
+  homeSubtitle = "Web Developer in Tokyo"
   enableThemeToggle = true
   customCSS = ["/css/home.css", "/css/mdi.css", "/css/image.css","/css/video.css"]
   enableSharingButtons = true
