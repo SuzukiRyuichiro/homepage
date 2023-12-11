@@ -69,12 +69,10 @@ I was using
 ruby:3.1.2-alpine3.14 (for the base image) Rails 7.0.4 Initially, everything was going smoothly but once I shut down the computer one day and came to work on it again, I started getting error from Nokogiri every time I try to bundle install in the container.
 Gem::Ext::BuildError: ERROR: Failed to build gem native extension."><meta itemprop="datePublished" content="2022-09-18T15:41:36+09:00" />
 <meta itemprop="dateModified" content="2022-09-18T15:41:36+09:00" />
-<meta itemprop="wordCount" content="226"><meta itemprop="image" content="https://ryuichirosuzuki.com/coding-me.jpg"/>
+<meta itemprop="wordCount" content="226"><meta itemprop="image" content="https://ryuichirosuzuki.com/coding-me.jpg" />
 <meta itemprop="keywords" content="docker,ruby,rails,nokogiri," />
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://ryuichirosuzuki.com/coding-me.jpg"/>
-
-<meta name="twitter:title" content="Alpine Ruby: Can&#39;t load nokogiri"/>
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://ryuichirosuzuki.com/coding-me.jpg" /><meta name="twitter:title" content="Alpine Ruby: Can&#39;t load nokogiri"/>
 <meta name="twitter:description" content="The issue I was doing practice of Github workflow by making a basic task app using Rails
 I was using
 ruby:3.1.2-alpine3.14 (for the base image) Rails 7.0.4 Initially, everything was going smoothly but once I shut down the computer one day and came to work on it again, I started getting error from Nokogiri every time I try to bundle install in the container.
@@ -95,6 +93,18 @@ Gem::Ext::BuildError: ERROR: Failed to build gem native extension."/>
 
 
 
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8Z6547WWQ5"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-8Z6547WWQ5', { 'anonymize_ip': false });
+}
+</script>
 
 
 
@@ -200,7 +210,7 @@ Which threw an error like</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-ruby" data-lang="ruby"><span style="display:flex;"><span><span style="color:#66d9ef">Error</span> loading shared library ld<span style="color:#f92672">-</span>linux<span style="color:#f92672">-</span>x86<span style="color:#f92672">-</span><span style="color:#ae81ff">64</span><span style="color:#f92672">.</span>so<span style="color:#f92672">.</span><span style="color:#ae81ff">2</span>: <span style="color:#66d9ef">No</span> such file <span style="color:#f92672">or</span> directory
 </span></span></code></pre></div><p>When I googled, I hit on this <a href="https://qiita.com/hiko1129/items/5f1914d01b7ee3713b62">Qiita article</a>, which said to run the command above.</p>
 <p>It seems that it is based off of the <a href="https://stackoverflow.com/questions/50288034/unsatisfiedlinkerror-tmp-snappy-1-1-4-libsnappyjava-so-error-loading-shared-li">stackoverflow article</a> but tbh, I have no idea why it did the fix.</p>
-<p>I&rsquo;m just noting here so that someone who might have a similar problem can fix it. Or, future me might benefit from it once I remake the Dockerfile for another practice run 😅</p>
+<p>I&rsquo;m just noting here so that someone who might have a similar problem can fix it. Or, future me might benefit from it once I remake the Dockerfile for another practice run &#x1f605;</p>
 
       </div>
     </article>
@@ -382,7 +392,7 @@ Which threw an error like</p>
 
 
 
-<script type="text/javascript" src="/bundle.min.c90b8161416b87c69a8e02683b54ddd6edb90aea699648bf655e6cbc45b419b8e465d196e715772463dba35a6faf5decb2eb247480d38680484d54645b434570.js" integrity="sha512-yQuBYUFrh8aajgJoO1Td1u25Cupplki/ZV5svEW0GbjkZdGW5xV3JGPbo1pvr13ssuskdIDThoBITVRkW0NFcA=="></script>
+<script type="text/javascript" src="/bundle.min.e5851f10967f384490b9d8ab955d22269186cdf17b83426f1dfc33129b514f4d5226f07008d24a0fe9c895e4589e0c53a67a0fa211d495d0ec6af0fe1e2f1878.js" integrity="sha512-5YUfEJZ/OESQudirlV0iJpGGzfF7g0JvHfwzEptRT01SJvBwCNJKD&#43;nIleRYngxTpnoPohHUldDsavD&#43;Hi8YeA=="></script>
 
 
 

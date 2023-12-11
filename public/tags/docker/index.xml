@@ -6,28 +6,21 @@
     <description>Recent content in docker on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 16:16:33 +0900</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 16:16:33 +0900</lastBuildDate>
+    <atom:link href="https://ryuichirosuzuki.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rails Github Action exits with code 16</title>
       <link>https://ryuichirosuzuki.com/posts/rails-github-action-exit-with-code-16/</link>
       <pubDate>Sun, 18 Sep 2022 16:16:33 +0900</pubDate>
-      
       <guid>https://ryuichirosuzuki.com/posts/rails-github-action-exit-with-code-16/</guid>
-      <description>The issue I have a Rails application that runs on Ruby alpine image. When I was running github actions workflow, it threw an error when installing gems. The workflow file is basically the copy of the official Ruby on Rails CI template, which you can easily find from Github Actions tab on any repo. When it hits the point where installing gems using bundle install, it stops with
-Error: The process &amp;#39;/opt/hostedtoolcache/Ruby/3.</description>
+      <description>The issue I have a Rails application that runs on Ruby alpine image. When I was running github actions workflow, it threw an error when installing gems. The workflow file is basically the copy of the official Ruby on Rails CI template, which you can easily find from Github Actions tab on any repo. When it hits the point where installing gems using bundle install, it stops with&#xA;Error: The process &amp;#39;/opt/hostedtoolcache/Ruby/3.</description>
     </item>
-    
     <item>
       <title>Alpine Ruby: Can&#39;t load nokogiri</title>
       <link>https://ryuichirosuzuki.com/posts/alpine-ruby-nokogiri-issue/</link>
       <pubDate>Sun, 18 Sep 2022 15:41:36 +0900</pubDate>
-      
       <guid>https://ryuichirosuzuki.com/posts/alpine-ruby-nokogiri-issue/</guid>
-      <description>The issue I was doing practice of Github workflow by making a basic task app using Rails
-I was using
-ruby:3.1.2-alpine3.14 (for the base image) Rails 7.0.4 Initially, everything was going smoothly but once I shut down the computer one day and came to work on it again, I started getting error from Nokogiri every time I try to bundle install in the container.
-Gem::Ext::BuildError: ERROR: Failed to build gem native extension.</description>
+      <description>The issue I was doing practice of Github workflow by making a basic task app using Rails&#xA;I was using&#xA;ruby:3.1.2-alpine3.14 (for the base image) Rails 7.0.4 Initially, everything was going smoothly but once I shut down the computer one day and came to work on it again, I started getting error from Nokogiri every time I try to bundle install in the container.&#xA;Gem::Ext::BuildError: ERROR: Failed to build gem native extension.</description>
     </item>
-    
   </channel>
 </rss>
