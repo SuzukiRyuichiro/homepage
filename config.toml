@@ -3,62 +3,67 @@ languageCode = 'en-us'
 title = 'Ryuichiro Suzuki'
 theme = ["mdi", "hello-friend-ng", "cl-image", "devicons"]
 enableEmoji = true
-googleAnalytics = "G-8Z6547WWQ5"
+googleAnalytics = "G-8WDFLLSMBT"
 
 [params]
-  images = ["/coding-me.jpg"]
-  description = "Ryuichiro Suzuki is a Web Developer in Tokyo"
-  homeSubtitle = "Web Developer in Tokyo"
-  enableThemeToggle = true
-  customCSS = ["/css/home.css", "/css/mdi.css", "/css/image.css","/css/video.css"]
-  enableSharingButtons = true
-  baseURL = "https://res.cloudinary.com/"
-  cloudName = "scooter-scooter"
-  folderName = "Portfolio"
+images = ["/coding-me.jpg"]
+description = "Ryuichiro Suzuki is a Web Developer in Tokyo"
+homeSubtitle = "Web Developer in Tokyo"
+enableThemeToggle = true
+customCSS = [
+  "/css/home.css",
+  "/css/mdi.css",
+  "/css/image.css",
+  "/css/video.css",
+]
+enableSharingButtons = true
+baseURL = "https://res.cloudinary.com/"
+cloudName = "scooter-scooter"
+folderName = "Portfolio"
 
 
 [menu]
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Blogs"
-    url        = "/posts"
-  [[menu.main]]
-    identifier = "about"
-    name       = "About me"
-    url        = "/about"
-  [[menu.main]]
-    identifier = "resume"
-    name       = "Resume"
-    url        = "/resume"
-  [[menu.main]]
-    identifier = "projects"
-    name       = "Projects"
-    url        = "/projects"
+[[menu.main]]
+identifier = "posts"
+name = "Blogs"
+url = "/posts"
+[[menu.main]]
+identifier = "about"
+name = "About me"
+url = "/about"
+[[menu.main]]
+identifier = "resume"
+name = "Resume"
+url = "/resume"
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects"
 
 [[params.social]]
-  name = "twitter"
-  url = "https://www.twitter.com/RyuichiroSuzuki"
+name = "twitter"
+url = "https://www.twitter.com/RyuichiroSuzuki"
 
 [[params.social]]
-  name = "linkedin"
-  url = "https://www.linkedin.com/in/suzukiryuichiro/"
+name = "linkedin"
+url = "https://www.linkedin.com/in/suzukiryuichiro/"
 
 [[params.social]]
-  name = "github"
-  url = "https://github.com/SuzukiRyuichiro"
+name = "github"
+url = "https://github.com/SuzukiRyuichiro"
 
 [[params.social]]
-  name = "fitbit"
-  url = "https://www.fitbit.com/user/944WLQ"
+name = "fitbit"
+url = "https://www.fitbit.com/user/944WLQ"
 
 [[params.social]]
-  name = "spotify"
-  url = "https://open.spotify.com/user/22ndwarmwin74uwyftti4zvla"
+name = "spotify"
+url = "https://open.spotify.com/user/22ndwarmwin74uwyftti4zvla"
 
 [params.portrait]
-    path = "https://res.cloudinary.com/scooter-scooter/image/upload/w_300/v1662897240/Portfolio/coding-me.jpg"
-    alt = "coding-me"
-    maxWidth = "350px"
+path = "https://res.cloudinary.com/scooter-scooter/image/upload/w_300/v1662897240/Portfolio/coding-me.jpg"
+alt = "coding-me"
+maxWidth = "350px"
 
 [params.logo]
-  logoText = "Hi. I'm scooter"
+logoText = "Hi. I'm scooter"
