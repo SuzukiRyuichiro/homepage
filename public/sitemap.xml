@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ryuichirosuzuki.com/posts/stolen-in-spain/</loc>
-    <lastmod>2023-07-10T13:11:01+02:00</lastmod>
+    <loc>https://ryuichirosuzuki.com/tags/f1/</loc>
+    <lastmod>2023-09-25T14:19:46+09:00</lastmod>
+  </url><url>
+    <loc>https://ryuichirosuzuki.com/posts/how-to-get-to-suzuka-from-nagoya/</loc>
+    <lastmod>2023-09-25T14:19:46+09:00</lastmod>
   </url><url>
     <loc>https://ryuichirosuzuki.com/posts/</loc>
-    <lastmod>2023-07-10T13:11:01+02:00</lastmod>
+    <lastmod>2023-09-25T14:19:46+09:00</lastmod>
   </url><url>
     <loc>https://ryuichirosuzuki.com/</loc>
-    <lastmod>2023-07-10T13:11:01+02:00</lastmod>
-  </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/spain/</loc>
-    <lastmod>2023-07-10T13:11:01+02:00</lastmod>
+    <lastmod>2023-09-25T14:19:46+09:00</lastmod>
   </url><url>
     <loc>https://ryuichirosuzuki.com/tags/</loc>
-    <lastmod>2023-07-10T13:11:01+02:00</lastmod>
+    <lastmod>2023-09-25T14:19:46+09:00</lastmod>
   </url><url>
     <loc>https://ryuichirosuzuki.com/tags/travel/</loc>
-    <lastmod>2023-07-10T13:11:01+02:00</lastmod>
+    <lastmod>2023-09-25T14:19:46+09:00</lastmod>
+  </url><url>
+    <loc>https://ryuichirosuzuki.com/posts/bike-stolen-in-spain/</loc>
+    <lastmod>2023-09-10T19:23:14+09:00</lastmod>
+  </url><url>
+    <loc>https://ryuichirosuzuki.com/tags/spain/</loc>
+    <lastmod>2023-09-10T19:23:14+09:00</lastmod>
   </url><url>
     <loc>https://ryuichirosuzuki.com/tags/%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%AA/</loc>
+    <lastmod>2023-09-10T19:23:14+09:00</lastmod>
+  </url><url>
+    <loc>https://ryuichirosuzuki.com/posts/stolen-in-spain/</loc>
     <lastmod>2023-07-10T13:11:01+02:00</lastmod>
   </url><url>
     <loc>https://ryuichirosuzuki.com/projects/building-lily58/</loc>
@@ -44,6 +53,12 @@
     <loc>https://ryuichirosuzuki.com/projects/hugo-devicon/</loc>
     <lastmod>2023-04-09T10:09:32+02:00</lastmod>
   </url><url>
+    <loc>https://ryuichirosuzuki.com/posts/pinit-js-not-working-in-rails/</loc>
+    <lastmod>2023-03-29T20:16:31+02:00</lastmod>
+  </url><url>
+    <loc>https://ryuichirosuzuki.com/tags/rails/</loc>
+    <lastmod>2023-03-29T20:16:31+02:00</lastmod>
+  </url><url>
     <loc>https://ryuichirosuzuki.com/posts/south-africa-trip/</loc>
     <lastmod>2023-02-02T12:11:10+02:00</lastmod>
   </url><url>
@@ -52,6 +67,15 @@
   </url><url>
     <loc>https://ryuichirosuzuki.com/posts/getting-a-job-in-spain/</loc>
     <lastmod>2022-12-28T15:31:23+01:00</lastmod>
+  </url><url>
+    <loc>https://ryuichirosuzuki.com/tags/tutorial/</loc>
+    <lastmod>2022-12-09T15:16:41+01:00</lastmod>
+  </url><url>
+    <loc>https://ryuichirosuzuki.com/tags/vue/</loc>
+    <lastmod>2022-12-09T15:16:41+01:00</lastmod>
+  </url><url>
+    <loc>https://ryuichirosuzuki.com/posts/vue-tutorial/</loc>
+    <lastmod>2022-12-09T15:16:41+01:00</lastmod>
   </url><url>
     <loc>https://ryuichirosuzuki.com/projects/hugo-cl-shortcode/</loc>
     <lastmod>2022-10-13T21:40:51+02:00</lastmod>
@@ -71,9 +95,6 @@
     <loc>https://ryuichirosuzuki.com/tags/github-actions/</loc>
     <lastmod>2022-09-18T16:16:33+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/rails/</loc>
-    <lastmod>2022-09-18T16:16:33+09:00</lastmod>
-  </url><url>
     <loc>https://ryuichirosuzuki.com/posts/rails-github-action-exit-with-code-16/</loc>
     <lastmod>2022-09-18T16:16:33+09:00</lastmod>
   </url><url>
@@ -91,6 +112,9 @@
   </url><url>
     <loc>https://ryuichirosuzuki.com/about/</loc>
     <lastmod>2022-08-17T15:04:21+09:00</lastmod>
+  </url><url>
+    <loc>https://ryuichirosuzuki.com/posts/cloudinary-for-hugo/</loc>
+    <lastmod>2022-08-13T10:40:49+09:00</lastmod>
   </url><url>
     <loc>https://ryuichirosuzuki.com/categories/</loc>
   </url>

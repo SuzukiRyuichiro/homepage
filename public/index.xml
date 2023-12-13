@@ -6,8 +6,22 @@
     <description>Recent content on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jul 2023 13:11:01 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 25 Sep 2023 14:19:46 +0900</lastBuildDate>
     <atom:link href="https://ryuichirosuzuki.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to get to Suzuka Circuit from Nagoya on a train</title>
+      <link>https://ryuichirosuzuki.com/posts/how-to-get-to-suzuka-from-nagoya/</link>
+      <pubDate>Mon, 25 Sep 2023 14:19:46 +0900</pubDate>
+      <guid>https://ryuichirosuzuki.com/posts/how-to-get-to-suzuka-from-nagoya/</guid>
+      <description>Given the recent increase in the popularity of Formula 1, there are plenty of non-Japanese speakers visiting the Formula 1 Japanese Grand Prix in Suzuka. This year, I went for the first time, but it was quite hard to know exactly how to get to the circuit and where to get the ticket from online resources. It was confusing even to me, a fluent Japanese speaker, so it must be more confusing for people visiting from abroad.</description>
+    </item>
+    <item>
+      <title>【ワーホリ🇪🇸】バルセロナでロードバイクを盗まれた話</title>
+      <link>https://ryuichirosuzuki.com/posts/bike-stolen-in-spain/</link>
+      <pubDate>Sun, 10 Sep 2023 19:23:14 +0900</pubDate>
+      <guid>https://ryuichirosuzuki.com/posts/bike-stolen-in-spain/</guid>
+      <description>またも盗難に遭いました。今度は自転車です。</description>
+    </item>
     <item>
       <title>【ワーホリ🇪🇸】スペインで携帯を盗まれて、殺されかけた話</title>
       <link>https://ryuichirosuzuki.com/posts/stolen-in-spain/</link>
@@ -37,6 +51,13 @@
       <description>Devicons What I wanted to achieve I wanted to make it possible to use devicons in hugo as a shortcode&#xA;How to use Clone the repo Add the following line to your head {{ partial &amp;#34;devicon_extended_head&amp;#34; . }} Give alias of the devicon you want to use // remove &amp;#39;\&amp;#39; {{\&amp;lt; devicon alias=&amp;#34;devicon-plain&amp;#34; \&amp;gt;}} makes if you wanna make it coloered, add colored=&amp;quot;true&amp;quot; // remove &amp;#39;\&amp;#39; {{\&amp;lt; devicon alias=&amp;#34;devicon-plain&amp;#34; colored=&amp;#34;true&amp;#34; \&amp;gt;}} makes </description>
     </item>
     <item>
+      <title>pinit.js Not Working in Rails 7</title>
+      <link>https://ryuichirosuzuki.com/posts/pinit-js-not-working-in-rails/</link>
+      <pubDate>Wed, 29 Mar 2023 20:16:31 +0200</pubDate>
+      <guid>https://ryuichirosuzuki.com/posts/pinit-js-not-working-in-rails/</guid>
+      <description>The problem In the coding boot camp I teach at, one of the students was using a Pinterest&amp;rsquo;s widget for their final project. However, they had an issue where the widget wouldn&amp;rsquo;t show up on their page if the page was reached through clicking on a link within the app. However, it would show up if they reloaded the page.&#xA;The cause Cause is kind of obvious but turbo. If you follow the instruction on Pinterest&amp;rsquo;s installation guide, you would put an &amp;lt;a&amp;gt; tag to the place you want to mount your widget, and put an &amp;lt;script&amp;gt; tag at the end of the &amp;lt;body&amp;gt;.</description>
+    </item>
+    <item>
       <title>ケープタウンに行った話🇿🇦</title>
       <link>https://ryuichirosuzuki.com/posts/south-africa-trip/</link>
       <pubDate>Thu, 02 Feb 2023 12:11:10 +0200</pubDate>
@@ -58,6 +79,13 @@
       <description>はじめに ワーホリビザで 2022 年の 9 月末にバルセロナに来ました。自分の目標としては、こっちでフルタイムのオファーを貰って、あわよくば就労ビザなりをゲットすること。そんな目標を持って、就活を始めました。この記事では、就活の流れや、何をしたかを書いていきます。ネットを調べても、あまり経験談などを見ないので、自分の備忘録も兼ねて、もし同じことを考えている人の助けになればと思い、書きました。&#xA;自己紹介 大学を 2022 年の 8 月に卒業して、何も考えず、スペインに行くことを決めました。日本でバイトの様にやっていたフリーランスの仕事を生活費の足しにするためにリモートで続けつつ、フルタイムの仕事を探しました。 実務経験は、フリーランスとインターンを 1 年半近くやっていました。主にスタートアップサイズの企業で、RoR や Vue.js を使っていました。大学は情報系の出身では無いので、プログラミングの知識はブートキャンプで身につけた後、実務や独学で身につけました。&#xA;どこで職を探したか Linkedin とりあえず、Linkedin をたくさん使いました。面白そうだと思った仕事には積極的にアプライをしていきました。時々、完全に無視されたりなんかもありましたが、毎日企業規模を問わずたくさんのジョブオファーがくるので、いつも眺めていました。Linkedin でプロフィールをしっかりと書いていると、リクルーターからの連絡も来ます。何個か電話に対応して見たものの、最終的にその面談を一回やっただけで、後は音信不通みたいなのが全部でした。下手な鉄砲だと思い、積極的に対応していましたが、結果には繋がりませんでした。人にもよるのかもしれませんね。&#xA;人に会う Meetup アプリで、飲み会にいくつか参加しました。これはただ友達作りにと思っていたのですが、偶然、ソフトウェア系の会社で働く人と仲良くなりました。彼の働く会社が、ちょうどバルセロナオフィスを設立したばかりだというので、せっかくなので彼を通じて SE のポジションに応募しました。リファーラルはやはり強いですね。トントン拍子で面接も決まり、オフィスにも呼んでもらいました。かなりうまく行ったと思うのですが、残念ながら、会社が ASP.NET メインのスタックだということ（自分経験無し）と、オフィス立ち上げ初期なので、ジュニアよりかはシニアを優先に取るとのことで、また数カ月後に縁があればと、オファーは貰えませんでした。ですが、人との繋がりから、仕事につながる兆しが見えただけでも、いい経験だったと思います。&#xA;就活イベント バルセロナでやっていたテック系就活イベントにも行ってみました。Eventbrite で見つけたやつです。そこで、一社、ポーランドのコンサル会社の方と話が弾み、Linkedin を交換して、その日のうちにアプライしました。そこは面接をし、コーディングテストをし、テクニカルインタビューを踏んで、今の所 (Dec 28, 2022) 最後の返事待ちです。手応えとしては、やはり Linkedin で何も知らない、やる気あるかわからない状態から就活するよりかは、熱意が伝わるのか、進むのは順調でした。まだオファーを貰ってはいませんが、手応えのあった手法だと思います。&#xA;Honeypot Honeypot が良いとおすすめされたので、登録してみました。Linkedin の逆で、会社があなたを探してくれるサービスです。ですが、おそらく身分不相応な希望年収を書いたので、一度も面接には呼ばれませんでした。少し、戦い方を間違えたなと反省しています。&#xA;その他 最終的にオファーを貰ったところは、前述した飲み会で知り合った友人の会社にアプライしたときに、その会社が使っていた応募者用のページを作っているところでした。会社のプロダクトとしては、そういった応募者の管理や、面接の日程を決めたり、HR との連絡をストリームライン化するアプリケーションを作っている会社です。UI が気に入ったので、フッターにあったリンクから、エンジニア募集してないかな？と調べてみたら、ちょうどフルリモートのエンジニアを募集していたので、応募しました。最初にプロダクトマネージャーと 1 時間ほど面接をし、その後、性格診断テストとかんたんなロジカルシンキングテストをやりました。最後に、二人のエンジニアを前に、実務で書いたコードを見せながら、なぜこういうコードを書いたのか、もしもう一度同じことをするなら、何を改善するか、など、プレゼンベースの面接を 1 時間半ほどやりました。&#xA;結論 かなり気力と体力を使いました。リクルーターが音信不通になったり、「どんな言語でもいいからアプリ作って来て」って言われたので Node で書いたら、やっぱ PHP で書いてきて、と言われたり、面接長かったり。後、今後ビサの記事で書こうと思いますが、やはりワーホリビザでいるということを最初にうまく伝えておくのは大切だと感じました。そうすれば、自分側も、向こう側も、なんだかんだ無駄にする時間が減ると思います。&#xA;追記 (2023/01/09) - ワーホリだからオファーを取り下げられた I apologize for the delay in the replay. I checked and unfortunately with our current resources it won’t be possible.</description>
     </item>
     <item>
+      <title>Vue Tutorial</title>
+      <link>https://ryuichirosuzuki.com/posts/vue-tutorial/</link>
+      <pubDate>Fri, 09 Dec 2022 15:16:41 +0100</pubDate>
+      <guid>https://ryuichirosuzuki.com/posts/vue-tutorial/</guid>
+      <description>Before we begin What is this? This is a tutorial to get started with VueJS, a most liked Javascript front-end framework on Github. In this tutorial, we will cover the basic concepts of the framework, which can translate to other front-end frameworks, such as React or Angular. You can start your front-end journey from Vue 👍&#xA;What is Vue? VueJS is a Open source Javascript front-end framework which helps you to make interactive single page applications (SPAs).</description>
+    </item>
+    <item>
       <title>Hugo Cloudinary Shortcode</title>
       <link>https://ryuichirosuzuki.com/projects/hugo-cl-shortcode/</link>
       <pubDate>Thu, 13 Oct 2022 21:40:51 +0200</pubDate>
@@ -69,7 +97,7 @@
       <link>https://ryuichirosuzuki.com/posts/spain-phone-and-bank/</link>
       <pubDate>Tue, 27 Sep 2022 07:46:45 +0900</pubDate>
       <guid>https://ryuichirosuzuki.com/posts/spain-phone-and-bank/</guid>
-      <description>条件 銀行口座 特になし（ただお金を受け取ったり、引き落としたりする口座があれば良ければ） NIE (スペインの銀行口座を開きたければ) 携帯番号 現地に携帯番号のある友人 住所が決まってると便利かも 銀行口座の取得 Wise 海外移住を考えている人は、必ず Wise の存在をご存知なんじゃないでしょうか？ほぼマーケットと同じ為替レートで各国の通貨を換金することができます。また、一つの Wise アカウントで通貨ごとの&amp;quot;銀行口座&amp;quot;を作ることができます。私も、自分のアカウントで € の銀行口座を開き、Wise のアプリ上でブリュッセルに銀行口座が開かれたことを確認できました。移住後に給料を支払うために、雇用者から IBAN などを聞かれたら、Wise 上のユーロ口座の IBAN を伝えれば、そこに直接給料が振り込まれます。また、日本で Wise のカードを ¥2000 でゲットして、スーパーなどの買い物で使えば、自動的にユーロの口座からデビットで引き落とされます。驚いたのが、日本円-&amp;gt;ユーロの両替のスピードです。手順としては&#xA;Wise で自分のユーロの口座にいくら送りたいか入力する 日本円で Wise 宛(Paypay 銀行の口座)にいくら振り込めばいいか伝えられる 言われた額と同じ額を自分の銀行のオンラインバンキングを使って振り込む（この際に振込手数料は取られる。だが、銀行の国際送金の手数料に比べれば微々たるもの） Wise 側で、振り込みが完了したことを伝える この手順を踏めば、私の場合当日中に指定した額のユーロが自分の口座に入っていました。USD でも Wise を使ったことがあるのですが、その際は 2~3 日かかったので、驚きました。 こっちで現金を ATM から引き落としたければ、前述した ¥2000 の Wise カードを日本で手に入れる必要があります。また、日本の Wise は Google Pay などに対応していないので、物理カードをゲットしておくことが無難なのではないでしょうか？&#xA;N26 Wise は普段の生活に支障は無いかもしれませんが、一つだけネックなのは、ユーロ口座が実質ベルギーの口座になってしまっているということです。後述する携帯電話の契約を結ぼうとした際に、スペインの銀行の IBAN でないと受け付けないと弾かれてしまいました。今後もそういった事例が発生するかとも思い、スペインの銀行口座を開くことにしました。&#xA;目をつけたのは、N26。理由としては、オーストリアの友人がおすすめしていたから。ここも、有名なオンラインバーチャルバンクの一種で、バーチャルであるからこそ、実際の銀行のような煩雑な現地での手続きなどを踏まなくて良いと思い試してみました。&#xA;携帯にアプリをダウンロードして、口座を開設する国にスペインを選択し、後は NIE など、必要な情報を入力する。後は、個人の認証のために、パスポートの写しなどを指示に従ってアップロードするだけ。申請を完了させれば、後は承認されるのを待つだけ。申請して本当に数時間も立たないうちに受理されました。&#xA;ちなみに、N26 は色々とビジネスバージョンだったり、一月にいくらか払うと、ATM で現金をおろせる回数が増えたりなど、色々とプランを選ぶことができます。私はとりあえず月額無料のビジネスのバーチャルカードを選びました。なぜなら、安いし、物理カードを受け取るすべ（まだ日本にいたから）がないから。現地に行って、必要を感じたら 10 ユーロ払ってカードを貰えばいいやと思っていました。ちなみに、これを書いている現在、スペインで一週間バーチャルカードを使って過ごしていますが、特に問題はありません。どのお店も NFC のリーダーを持っているので、携帯さえ持っていれば、とりあえず支払いはできます。もしできなくても、バックアップに Wise の物理カードがあるので、今の所現金を使わなきゃいけない場面には出くわしていません。</description>
+      <description>条件 銀行口座 特になし（ただお金を受け取ったり、引き落としたりする口座があれば良ければ） NIE (スペインの銀行口座を開きたければ) 携帯番号 現地に携帯番号のある友人 住所が決まってると便利かも 銀行口座の取得 Wise 海外移住を考えている人は、必ず Wise の存在をご存知なんじゃないでしょうか？ほぼマーケットと同じ為替レートで各国の通貨を換金することができます。また、一つの Wise アカウントで通貨ごとの&amp;quot;銀行口座&amp;quot;を作ることができます。私も、自分のアカウントで € の銀行口座を開き、Wise のアプリ上でブリュッセルに銀行口座が開かれたことを確認できました。移住後に給料を支払うために、雇用者から IBAN などを聞かれたら、Wise 上のユーロ口座の IBAN を伝えれば、そこに直接給料が振り込まれます。また、日本で Wise のカードを ¥2000 でゲットして、スーパーなどの買い物で使えば、自動的にユーロの口座からデビットで引き落とされます。驚いたのが、日本円-&amp;gt;ユーロの両替のスピードです。手順としては&#xA;Wise で自分のユーロの口座にいくら送りたいか入力する 日本円で Wise 宛(Paypay 銀行の口座)にいくら振り込めばいいか伝えられる 言われた額と同じ額を自分の銀行のオンラインバンキングを使って振り込む（この際に振込手数料は取られる。だが、銀行の国際送金の手数料に比べれば微々たるもの） Wise 側で、振り込みが完了したことを伝える この手順を踏めば、私の場合当日中に指定した額のユーロが自分の口座に入っていました。USD でも Wise を使ったことがあるのですが、その際は 2~3 日かかったので、驚きました。 こっちで現金を ATM から引き落としたければ、前述した ¥2000 の Wise カードを日本で手に入れる必要があります。また、日本の Wise は Google Pay などに対応していないので、物理カードをゲットしておくことが無難なのではないでしょうか？&#xA;N26 Wise は普段の生活に支障は無いかもしれませんが、一つだけネックなのは、ユーロ口座が実質ベルギーの口座になってしまっているということです。後述する携帯電話の契約を結ぼうとした際に、スペインの銀行の IBAN でないと受け付けないと弾かれてしまいました。今後もそういった事例が発生するかとも思い、スペインの銀行口座を開くことにしました。&#xA;目をつけたのは、N26。理由としては、オーストリアの友人がおすすめしていたから。ここも、有名なオンラインバーチャルバンクの一種で、バーチャルであるからこそ、実際の銀行のような煩雑な現地での手続きなどを踏まなくて良いと思い試してみました。&#xA;携帯にアプリをダウンロードして、口座を開設する国にスペインを選択し、後は NIE など、必要な情報を入力する。後は、個人の認証のために、パスポートの写しなどを指示に従ってアップロードするだけ。申請を完了させれば、後は承認されるのを待つだけ。申請して本当に数時間も経たないうちに受理されました。&#xA;ちなみに、N26 は色々とビジネスバージョンだったり、一月にいくらか払うと、ATM で現金をおろせる回数が増えたりなど、色々とプランを選ぶことができます。私はとりあえず月額無料のビジネスのバーチャルカードを選びました。なぜなら、安いし、物理カードを受け取るすべ（まだ日本にいたから）がないから。現地に行って、必要を感じたら 10 ユーロ払ってカードを貰えばいいやと思っていました。ちなみに、これを書いている現在、スペインで一週間バーチャルカードを使って過ごしていますが、特に問題はありません。どのお店も NFC のリーダーを持っているので、携帯さえ持っていれば、とりあえず支払いはできます。もしできなくても、バックアップに Wise の物理カードがあるので、今の所現金を使わなきゃいけない場面には出くわしていません。</description>
     </item>
     <item>
       <title>【ワーホリ🇪🇸】スペインワーホリビザ取得までの話</title>
@@ -105,6 +133,13 @@
       <pubDate>Wed, 17 Aug 2022 15:04:21 +0900</pubDate>
       <guid>https://ryuichirosuzuki.com/about/</guid>
       <description>TLDR I am a full-stack web developer. I have experience in developing web apps and native mobile apps. I am also a teacher at a coding boot camp. I am a Japanese / English bilingual 🇯🇵🇬🇧&#xA;Long version Where am I from? I was born in Tokyo, Japan and grew up there until the age of 10. In 2010, my family moved to London and I spent three years living in Wimbledon, where I acquired my English accent.</description>
+    </item>
+    <item>
+      <title>Cloudinary for Hugo</title>
+      <link>https://ryuichirosuzuki.com/posts/cloudinary-for-hugo/</link>
+      <pubDate>Sat, 13 Aug 2022 10:40:49 +0900</pubDate>
+      <guid>https://ryuichirosuzuki.com/posts/cloudinary-for-hugo/</guid>
+      <description>What I wanted to achieve I wanted to make it possible to produce Cloudinary image links by just giving the file name to a shortcode.&#xA;Setup make a submodule in your themes folder add the theme in the theme array in your config.toml theme = [&amp;#34;some other theme&amp;#34;, &amp;#34;cl-image&amp;#34;] add the following to your params portion of config.toml [params] baseURL = &amp;#34;https://res.cloudinary.com/&amp;#34; # This is the same for everyone cloudName = &amp;#34;your cloud name&amp;#34; # You can check your cloud name from cloudinary console page folderName = &amp;#34;Portfolio&amp;#34; # if you want to put collection of pictures into a single folder, write the name of the folder (optional) Usage The theme adds a shortcode called cl-image.</description>
     </item>
   </channel>
 </rss>

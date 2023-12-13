@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'Ryuichiro Suzuki'
 theme = ["mdi", "hello-friend-ng", "cl-image", "devicons"]
 enableEmoji = true
-googleAnalytics = "G-8WDFLLSMBT"
 
 [params]
 images = ["/coding-me.jpg"]
