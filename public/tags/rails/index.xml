@@ -6,15 +6,8 @@
     <description>Recent content in rails on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Mar 2023 20:16:31 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Sep 2022 16:16:33 +0900</lastBuildDate>
     <atom:link href="https://ryuichirosuzuki.com/tags/rails/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>pinit.js Not Working in Rails 7</title>
-      <link>https://ryuichirosuzuki.com/posts/pinit-js-not-working-in-rails/</link>
-      <pubDate>Wed, 29 Mar 2023 20:16:31 +0200</pubDate>
-      <guid>https://ryuichirosuzuki.com/posts/pinit-js-not-working-in-rails/</guid>
-      <description>The problem In the coding boot camp I teach at, one of the students was using a Pinterest&amp;rsquo;s widget for their final project. However, they had an issue where the widget wouldn&amp;rsquo;t show up on their page if the page was reached through clicking on a link within the app. However, it would show up if they reloaded the page.&#xA;The cause Cause is kind of obvious but turbo. If you follow the instruction on Pinterest&amp;rsquo;s installation guide, you would put an &amp;lt;a&amp;gt; tag to the place you want to mount your widget, and put an &amp;lt;script&amp;gt; tag at the end of the &amp;lt;body&amp;gt;.</description>
-    </item>
     <item>
       <title>Rails Github Action exits with code 16</title>
       <link>https://ryuichirosuzuki.com/posts/rails-github-action-exit-with-code-16/</link>

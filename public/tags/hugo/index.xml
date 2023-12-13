@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on Ryuichiro Suzuki</title>
+    <title>hugo on Ryuichiro Suzuki</title>
     <link>https://ryuichirosuzuki.com/tags/hugo/</link>
-    <description>Recent content in Hugo on Ryuichiro Suzuki</description>
+    <description>Recent content in hugo on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Apr 2023 10:09:32 +0200</lastBuildDate>
@@ -21,13 +21,6 @@
       <pubDate>Thu, 13 Oct 2022 21:40:51 +0200</pubDate>
       <guid>https://ryuichirosuzuki.com/projects/hugo-cl-shortcode/</guid>
       <description>The repo Here&#xA;What I wanted to achieve I wanted to make it possible to produce Cloudinary image links by just giving the file name to a shortcode.&#xA;Setup make a submodule in your themes folder add the theme in the theme array in your config.toml theme = [&amp;#34;some other theme&amp;#34;, &amp;#34;cl-image&amp;#34;] add the following to your params portion of config.toml [params] baseURL = &amp;#34;https://res.cloudinary.com/&amp;#34; # This is the same for everyone cloudName = &amp;#34;your cloud name&amp;#34; # You can check your cloud name from cloudinary console page folderName = &amp;#34;Portfolio&amp;#34; # if you want to put collection of pictures into a single folder, write the name of the folder (optional) Usage The theme adds a shortcode called cl-image.</description>
-    </item>
-    <item>
-      <title>Cloudinary for Hugo</title>
-      <link>https://ryuichirosuzuki.com/posts/cloudinary-for-hugo/</link>
-      <pubDate>Sat, 13 Aug 2022 10:40:49 +0900</pubDate>
-      <guid>https://ryuichirosuzuki.com/posts/cloudinary-for-hugo/</guid>
-      <description>What I wanted to achieve I wanted to make it possible to produce Cloudinary image links by just giving the file name to a shortcode.&#xA;Setup make a submodule in your themes folder add the theme in the theme array in your config.toml theme = [&amp;#34;some other theme&amp;#34;, &amp;#34;cl-image&amp;#34;] add the following to your params portion of config.toml [params] baseURL = &amp;#34;https://res.cloudinary.com/&amp;#34; # This is the same for everyone cloudName = &amp;#34;your cloud name&amp;#34; # You can check your cloud name from cloudinary console page folderName = &amp;#34;Portfolio&amp;#34; # if you want to put collection of pictures into a single folder, write the name of the folder (optional) Usage The theme adds a shortcode called cl-image.</description>
     </item>
   </channel>
 </rss>
