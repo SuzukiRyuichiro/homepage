@@ -5,7 +5,9 @@ draft: false
 toc: false
 images:
 tags:
-  - untagged
+  - Photography
+  - Film
+  - Hobby
 ---
 
 ## Film development in Japan is getting worse and more expensive
@@ -44,15 +46,17 @@ For the Rapid Fixer by Ilford, I will prepare in 1:4 ratio, so 75ml of the solut
 
 ### Wetting agent
 
-Ilfotol has 1 : 200 dilution, and since the tank needs 375ml, I would need 1.87ml of the solution diluted up to 375ml. For this, I don't have enough equipment to measure so I will do 2 grams of the solution
+Ilfotol has 1 : 200 dilution, and since the tank needs 375ml, I would need 1.87ml of the solution diluted up to 375ml. For this, I don't have enough equipment to measure so I will do 2 grams of the solution. In the future, I want to get a pipet to measure 2ml precisely.
 
 ## Developing
 
 ### Loading up
 
+This was the part I was most scared about, but it was easier than I thought. I put the tank, film, film opener and scissors into the dark bag, then I turned the light off (just in case) and loaded the film by just feeling it. One thing I'm glad that I did was that I practiced loading before with already developed film from before. Although it was cut into a smaller strip, it was still useful to practice the feel for the slot to put the beginning of the film in.
+
 ### Pre-rinse
 
-Rinse with water because a Youtuber said to do so
+After sealing the tank, I rinsed the film with water because a Youtuber said to do so.
 
 ### Develop
 
