@@ -6,37 +6,28 @@
     <description>Recent content in Projects on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jun 2023 18:51:21 +0200</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jun 2023 18:51:21 +0200</lastBuildDate>
+    <atom:link href="https://ryuichirosuzuki.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building Lily58</title>
       <link>https://ryuichirosuzuki.com/projects/building-lily58/</link>
       <pubDate>Fri, 23 Jun 2023 18:51:21 +0200</pubDate>
-      
       <guid>https://ryuichirosuzuki.com/projects/building-lily58/</guid>
-      <description>My first DIY keyboard build I&amp;rsquo;ve been looking into ergonomic mechanical keyboards for a while, and I finally made one. I chose Lily58 since it seemed to be not too far from the normal keyboard layout while having a lot of thumb keys, which is what I wanted. I heavily use keyboard shortcuts while working, and this layout looked promising.
-I got the keyboard set that is not pre-assembled, as I wanted to keep it under budget and also enjoy the challenge of soldering all the switches and diodes.</description>
+      <description>My first DIY keyboard build I&amp;rsquo;ve been looking into ergonomic mechanical keyboards for a while, and I finally made one. I chose Lily58 since it seemed to be not too far from the normal keyboard layout while having a lot of thumb keys, which is what I wanted. I heavily use keyboard shortcuts while working, and this layout looked promising.&#xA;I got the keyboard set that is not pre-assembled, as I wanted to keep it under budget and also enjoy the challenge of soldering all the switches and diodes.</description>
     </item>
-    
     <item>
       <title>Hugo Devicon</title>
       <link>https://ryuichirosuzuki.com/projects/hugo-devicon/</link>
       <pubDate>Sun, 09 Apr 2023 10:09:32 +0200</pubDate>
-      
       <guid>https://ryuichirosuzuki.com/projects/hugo-devicon/</guid>
-      <description>Devicons What I wanted to achieve I wanted to make it possible to use devicons in hugo as a shortcode
-How to use Clone the repo Add the following line to your head {{ partial &amp;#34;devicon_extended_head&amp;#34; . }} Give alias of the devicon you want to use // remove &amp;#39;\&amp;#39; {{\&amp;lt; devicon alias=&amp;#34;devicon-plain&amp;#34; \&amp;gt;}} makes if you wanna make it coloered, add colored=&amp;quot;true&amp;quot; // remove &amp;#39;\&amp;#39; {{\&amp;lt; devicon alias=&amp;#34;devicon-plain&amp;#34; colored=&amp;#34;true&amp;#34; \&amp;gt;}} makes </description>
+      <description>Devicons What I wanted to achieve I wanted to make it possible to use devicons in hugo as a shortcode&#xA;How to use Clone the repo Add the following line to your head {{ partial &amp;#34;devicon_extended_head&amp;#34; . }} Give alias of the devicon you want to use // remove &amp;#39;\&amp;#39; {{\&amp;lt; devicon alias=&amp;#34;devicon-plain&amp;#34; \&amp;gt;}} makes if you wanna make it coloered, add colored=&amp;quot;true&amp;quot; // remove &amp;#39;\&amp;#39; {{\&amp;lt; devicon alias=&amp;#34;devicon-plain&amp;#34; colored=&amp;#34;true&amp;#34; \&amp;gt;}} makes </description>
     </item>
-    
     <item>
       <title>Hugo Cloudinary Shortcode</title>
       <link>https://ryuichirosuzuki.com/projects/hugo-cl-shortcode/</link>
       <pubDate>Thu, 13 Oct 2022 21:40:51 +0200</pubDate>
-      
       <guid>https://ryuichirosuzuki.com/projects/hugo-cl-shortcode/</guid>
-      <description>The repo Here
-What I wanted to achieve I wanted to make it possible to produce Cloudinary image links by just giving the file name to a shortcode.
-Setup make a submodule in your themes folder add the theme in the theme array in your config.toml theme = [&amp;#34;some other theme&amp;#34;, &amp;#34;cl-image&amp;#34;] add the following to your params portion of config.toml [params] baseURL = &amp;#34;https://res.cloudinary.com/&amp;#34; # This is the same for everyone cloudName = &amp;#34;your cloud name&amp;#34; # You can check your cloud name from cloudinary console page folderName = &amp;#34;Portfolio&amp;#34; # if you want to put collection of pictures into a single folder, write the name of the folder (optional) Usage The theme adds a shortcode called cl-image.</description>
+      <description>The repo Here&#xA;What I wanted to achieve I wanted to make it possible to produce Cloudinary image links by just giving the file name to a shortcode.&#xA;Setup make a submodule in your themes folder add the theme in the theme array in your config.toml theme = [&amp;#34;some other theme&amp;#34;, &amp;#34;cl-image&amp;#34;] add the following to your params portion of config.toml [params] baseURL = &amp;#34;https://res.cloudinary.com/&amp;#34; # This is the same for everyone cloudName = &amp;#34;your cloud name&amp;#34; # You can check your cloud name from cloudinary console page folderName = &amp;#34;Portfolio&amp;#34; # if you want to put collection of pictures into a single folder, write the name of the folder (optional) Usage The theme adds a shortcode called cl-image.</description>
     </item>
-    
   </channel>
 </rss>

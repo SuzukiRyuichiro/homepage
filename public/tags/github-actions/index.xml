@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>github actions on Ryuichiro Suzuki</title>
+    <title>Github Actions on Ryuichiro Suzuki</title>
     <link>https://ryuichirosuzuki.com/tags/github-actions/</link>
-    <description>Recent content in github actions on Ryuichiro Suzuki</description>
+    <description>Recent content in Github Actions on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 16:16:33 +0900</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/tags/github-actions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 16:16:33 +0900</lastBuildDate>
+    <atom:link href="https://ryuichirosuzuki.com/tags/github-actions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rails Github Action exits with code 16</title>
       <link>https://ryuichirosuzuki.com/posts/rails-github-action-exit-with-code-16/</link>
       <pubDate>Sun, 18 Sep 2022 16:16:33 +0900</pubDate>
-      
       <guid>https://ryuichirosuzuki.com/posts/rails-github-action-exit-with-code-16/</guid>
-      <description>The issue I have a Rails application that runs on Ruby alpine image. When I was running github actions workflow, it threw an error when installing gems. The workflow file is basically the copy of the official Ruby on Rails CI template, which you can easily find from Github Actions tab on any repo. When it hits the point where installing gems using bundle install, it stops with
-Error: The process &amp;#39;/opt/hostedtoolcache/Ruby/3.</description>
+      <description>The issue I have a Rails application that runs on Ruby alpine image. When I was running github actions workflow, it threw an error when installing gems. The workflow file is basically the copy of the official Ruby on Rails CI template, which you can easily find from Github Actions tab on any repo. When it hits the point where installing gems using bundle install, it stops with&#xA;Error: The process &amp;#39;/opt/hostedtoolcache/Ruby/3.</description>
     </item>
-    
   </channel>
 </rss>
