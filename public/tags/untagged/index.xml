@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>untagged on Ryuichiro Suzuki</title>
-    <link>https://ryuichirosuzuki.com/tags/untagged/</link>
-    <description>Recent content in untagged on Ryuichiro Suzuki</description>
+    <title>Untagged on Ryuichiro Suzuki</title>
+    <link>http://localhost:1313/tags/untagged/</link>
+    <description>Recent content in Untagged on Ryuichiro Suzuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Dec 2023 12:12:28 +0900</lastBuildDate><atom:link href="https://ryuichirosuzuki.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 May 2024 01:35:24 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Time Developing Black and White Film</title>
-      <link>https://ryuichirosuzuki.com/posts/first-time-developing-black-and-white-film/</link>
-      <pubDate>Sat, 30 Dec 2023 12:12:28 +0900</pubDate>
-      
-      <guid>https://ryuichirosuzuki.com/posts/first-time-developing-black-and-white-film/</guid>
-      <description>Film development in Japan is getting worse and more expensive What I bought Developer Kodak D-76 1 Gallon (3.8 liters) Fixer Ilford Rapid Fixer Wetting Agent Ilfotol Development Tank Jian Cheng Compact Development Tank Dark room Dark Bag from some Chinese brand Storage 5 litre brown bottle Misc Some measuring cups for the kitchen The reasons for the chemicals were simply it was available. One mistake I realized after the purchase was that the shelf life for the developer is 2 month in a half full bottle.</description>
+      <title>Cycling Around Taiwan</title>
+      <link>http://localhost:1313/posts/cycling-around-taiwan/</link>
+      <pubDate>Thu, 09 May 2024 01:35:24 +0900</pubDate>
+      <guid>http://localhost:1313/posts/cycling-around-taiwan/</guid>
+      <description></description>
     </item>
-    
   </channel>
 </rss>
