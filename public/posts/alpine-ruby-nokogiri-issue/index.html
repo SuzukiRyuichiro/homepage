@@ -16,7 +16,8 @@
   content="The issue I was doing practice of Github workflow by making a basic task app using Rails
 I was using
 ruby:3.1.2-alpine3.14 (for the base image) Rails 7.0.4 Initially, everything was going smoothly but once I shut down the computer one day and came to work on it again, I started getting error from Nokogiri every time I try to bundle install in the container.
-Gem::Ext::BuildError: ERROR: Failed to build gem native extension."
+Gem::Ext::BuildError: ERROR: Failed to build gem native extension. The fix I&rsquo;ve tried a few things but the one solved the problem was adding
+"
 />
 <meta
   name="keywords"
@@ -66,21 +67,26 @@ Gem::Ext::BuildError: ERROR: Failed to build gem native extension."
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
     <link rel="shortcut icon" href="/favicon.ico">
     <meta name="msapplication-TileColor" content="">
- <meta itemprop="name" content="Alpine Ruby: Can&#39;t load nokogiri">
-<meta itemprop="description" content="The issue I was doing practice of Github workflow by making a basic task app using Rails
+ 
+  <meta itemprop="name" content="Alpine Ruby: Can&#39;t load nokogiri">
+  <meta itemprop="description" content="The issue I was doing practice of Github workflow by making a basic task app using Rails
 I was using
 ruby:3.1.2-alpine3.14 (for the base image) Rails 7.0.4 Initially, everything was going smoothly but once I shut down the computer one day and came to work on it again, I started getting error from Nokogiri every time I try to bundle install in the container.
-Gem::Ext::BuildError: ERROR: Failed to build gem native extension."><meta itemprop="datePublished" content="2022-09-18T15:41:36+09:00" />
-<meta itemprop="dateModified" content="2022-09-18T15:41:36+09:00" />
-<meta itemprop="wordCount" content="226"><meta itemprop="image" content="https://ryuichirosuzuki.com/coding-me.jpg" />
-<meta itemprop="keywords" content="docker,ruby,rails,nokogiri," /> <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://ryuichirosuzuki.com/coding-me.jpg" /><meta name="twitter:title" content="Alpine Ruby: Can&#39;t load nokogiri"/>
-<meta name="twitter:description" content="The issue I was doing practice of Github workflow by making a basic task app using Rails
+Gem::Ext::BuildError: ERROR: Failed to build gem native extension. The fix I’ve tried a few things but the one solved the problem was adding">
+  <meta itemprop="datePublished" content="2022-09-18T15:41:36+09:00">
+  <meta itemprop="dateModified" content="2022-09-18T15:41:36+09:00">
+  <meta itemprop="wordCount" content="226">
+  <meta itemprop="image" content="https://ryuichirosuzuki.com/coding-me.jpg">
+  <meta itemprop="keywords" content="Docker,Ruby,Rails,Nokogiri"> 
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://ryuichirosuzuki.com/coding-me.jpg">
+  <meta name="twitter:title" content="Alpine Ruby: Can&#39;t load nokogiri">
+  <meta name="twitter:description" content="The issue I was doing practice of Github workflow by making a basic task app using Rails
 I was using
 ruby:3.1.2-alpine3.14 (for the base image) Rails 7.0.4 Initially, everything was going smoothly but once I shut down the computer one day and came to work on it again, I started getting error from Nokogiri every time I try to bundle install in the container.
-Gem::Ext::BuildError: ERROR: Failed to build gem native extension."/>
+Gem::Ext::BuildError: ERROR: Failed to build gem native extension. The fix I’ve tried a few things but the one solved the problem was adding">
    
-<meta property="article:published_time" content="2022-09-18 15:41:36 &#43;0900 JST" />
+<meta property="article:published_time" content="2022-09-18 15:41:36 &#43;0900 &#43;0900" />
 
 
 
@@ -90,17 +96,20 @@ Gem::Ext::BuildError: ERROR: Failed to build gem native extension."/>
 
 
  
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8WDFLLSMBT"></script>
-<script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'G-8WDFLLSMBT', { 'anonymize_ip': false });
-}
-</script>
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-8WDFLLSMBT"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-8WDFLLSMBT');
+        }
+      </script> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 
     </head>
@@ -242,7 +251,7 @@ Which threw an error like</p>
           <line x1="3" y1="10" x2="21" y2="10"></line>
         </svg>
         
-          2022-09-18 15:41
+          2022-09-18 16:41
         
 
          
@@ -383,8 +392,8 @@ Which threw an error like</p>
            
 <script
   type="text/javascript"
-  src="/bundle.min.a744f89b519759b5bdd3ad52fb98df1ecdcdf0e3f9b988e2862348e9df47184604de82b6224f2095b7bffe02c912cad91b1de332f5c09d1ff9c2f368d84455c5.js"
-  integrity="sha512-p0T4m1GXWbW9061S&#43;5jfHs3N8OP5uYjihiNI6d9HGEYE3oK2Ik8glbe//gLJEsrZGx3jMvXAnR/5wvNo2ERVxQ=="
+  src="/bundle.min.7ca7495aa22edd436bceff17b1818e90c8d5839ec76fc7b2eb66b1952ba886e725976e10d191029ca6fee36fcb7d0c1ae0293698c4cb954ef5ec52f5b5fa3c9d.js"
+  integrity="sha512-fKdJWqIu3UNrzv8XsYGOkMjVg57Hb8ey62axlSuohucll24Q0ZECnKb&#43;42/LfQwa4Ck2mMTLlU717FL1tfo8nQ=="
 ></script>
 
 
