@@ -1,144 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Ryuichiro Suzuki</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://ryuichirosuzuki.com/posts/</link>
         <description>Recent content in Posts on Ryuichiro Suzuki</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Thu, 09 May 2024 01:35:24 +0900</lastBuildDate>
-        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Cycling Around Taiwan in 8 Days</title>
-            <link>http://localhost:1313/posts/cycling-around-taiwan/</link>
-            <pubDate>Thu, 09 May 2024 01:35:24 +0900</pubDate>
-            
-            <guid>http://localhost:1313/posts/cycling-around-taiwan/</guid>
-            <description>&lt;h2 id=&#34;装備&#34;&gt;装備&lt;/h2&gt;
-&lt;h3 id=&#34;自転車&#34;&gt;自転車&lt;/h3&gt;
-&lt;p&gt;自転車は自分のを持っていこうとも考えましたが、台北の Giant ストアで台湾一周用のレンタル自転車プランが有ると現地の友人が教えてくれたので、煩雑さを考えてもそちらの方が便利かと思いレンタルを選びました。レンタル代は 8 泊 9 日でも日本円で 1,8000 円とかなりレンタル自転車にしては手頃な価格でした。自転車自体は、ジャイアントの XXX というシリーズのクロスバイクで、車体自体は少し使用感がありましたが、さすが旗艦店で整備されているだけあって、シフトチェンジもスムーズにできますし、ブレーキの効きなんかも申し分ないクオリティに仕上がっていました。ペダルはフラットでしたが、その場でシマノのバインディングペダルにを購入して変えてもらいました。&lt;/p&gt;
-&lt;h3 id=&#34;荷台とパニエバッグ&#34;&gt;荷台とパニエバッグ&lt;/h3&gt;
-&lt;p&gt;台湾一周パッケージということもあって、自転車以外にも色々なものがついてきました。まずは自転車の荷台とパニエバッグ。荷台は一般的なものでした。パニエバッグは、10 リットルの容量のを 2 つ支給されるので、途中数回の選択を考慮して、1 週間の旅には十分なサイズです。ウェブサイトには防水と書いてありましたが、お店のお兄さんが、「ある程度の雨は防げるけど、昨日あった大雨みたいなときには浸水するからビニール袋で中身守ってね」と教えてくれました。実際、自分もそういった可能性を危惧していたので、自前のバックパックカバーを持っていってました。今まで台湾を何周したのかわかりませんが、かなり使用感のあるもので、途中でカバンを閉めるためのロープを強めに引っ張った際にロープが自然と切れてしまいました。また、そのロープの先についている金属製のフックも、一度強めにロープを締めた際に曲がってしまい、元に戻そうと思ったら完全に折れてしまいました。金属疲労から壊れてしまったのか、私があまりにもきつく締めすぎて壊れたのか定かではありませんが、少しチープなパニエバッグでした。ですが、最終的には浸水することもなく、役目は果たしてくれました。&lt;/p&gt;
-&lt;h3 id=&#34;工具とポーチその他小物&#34;&gt;工具とポーチ、その他小物&lt;/h3&gt;
-&lt;p&gt;パッケージには工具がついていると書いてありましたが、工具と言っても十徳六角レンチが一つ入ってるだけで、それ以外は何もありませんでした。おそらくパンク修理を自分でするなどはあまり想定していないようで、もしパンクしたら最寄りのジャイアント旗艦店に駆け込めば無料で修理してくれるというのがパッケージの内容でした。あとは六角レンチを入れるフレームのトップから引っ掛ける二口の小さなポーチもついてきました。エナジージェルなんかを入れるのには便利でした。携帯もちょうど入るくらいのサイズです。他には誰でも切れそうなワイヤーロックと、フロント・リアの両方のライトがついてきました。&lt;/p&gt;
-&lt;h3 id=&#34;自分で持っていったもの&#34;&gt;自分で持っていったもの&lt;/h3&gt;
-&lt;p&gt;レンタルで借りられるものは以上で、残りは自分で用意する必要があります。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ヘルメット&lt;/li&gt;
-&lt;li&gt;ヘッドライト(台湾の東海岸は街灯が殆ど無いので、夜間は一寸先は闇です)&lt;/li&gt;
-&lt;li&gt;サイクルウェア
-&lt;ul&gt;
-&lt;li&gt;サイクルパンツ&lt;/li&gt;
-&lt;li&gt;サイクルジャージ&lt;/li&gt;
-&lt;li&gt;サイクルグローブ&lt;/li&gt;
-&lt;li&gt;カッパ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;サングラス&lt;/li&gt;
-&lt;li&gt;スマホホルダー&lt;/li&gt;
-&lt;li&gt;キャンプ用品(数日の野営は想定していたので)
-&lt;ul&gt;
-&lt;li&gt;エアマットレス&lt;/li&gt;
-&lt;li&gt;エアーピロー&lt;/li&gt;
-&lt;li&gt;寝袋のインナー&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;パンク修理セット
-&lt;ul&gt;
-&lt;li&gt;予備のチューブ&lt;/li&gt;
-&lt;li&gt;パッチとのりとヤスリ&lt;/li&gt;
-&lt;li&gt;携帯ポンプ&lt;/li&gt;
-&lt;li&gt;タイヤレバー&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;クリップオンシューズ&lt;/li&gt;
-&lt;li&gt;SPD のペダル&lt;/li&gt;
-&lt;li&gt;街に繰り出すためのサンダル&lt;/li&gt;
-&lt;li&gt;洋服やタオル&lt;/li&gt;
-&lt;li&gt;カメラなどすぐに出したいものをしまっておけるフロントバーに付けるバッグ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;等を日本から持っていきました。
-この中でも、意外と盲点なのはスマホホルダーとヘッドライトかなと思います。台湾一周するにはただ単に標識に従えば一周できなくも無いかとは思いますが、ところどころで標識やサインを見失ったり、休憩のためにお店やコンビニを探しながら走るには絶対に必要になってくるのでは無いでしょうか。ヘッドライトは主にキャンプを想定して持っていきましたが、東海岸に移ってから、太い道路でも街頭が一切ない箇所が多く、日没以降に移動する予定がある場合には、安全のために必ず必要になってくると思います。後方から来る車に一番わかり易く認知してもらうためにも、レンタルの自転車についてくるライトだけではなく、それ以上に輝度の高いヘッドライトを持っていくことをおすすめします。&lt;/p&gt;
-&lt;h2 id=&#34;旅程&#34;&gt;旅程&lt;/h2&gt;
-&lt;h3 id=&#34;一日目-台北から新竹&#34;&gt;一日目: 台北から新竹&lt;/h3&gt;
-&lt;h3 id=&#34;二日目-新竹から台中&#34;&gt;二日目: 新竹から台中&lt;/h3&gt;
-&lt;h3 id=&#34;三日目-台中から義&#34;&gt;三日目: 台中から義&lt;/h3&gt;
-&lt;h3 id=&#34;四日目-義から高雄&#34;&gt;四日目: 義から高雄&lt;/h3&gt;
-&lt;h3 id=&#34;五日目-高雄から台東の南&#34;&gt;五日目: 高雄から台東の南&lt;/h3&gt;
-&lt;h3 id=&#34;六日目-台東の南から玉里鎮&#34;&gt;六日目: 台東の南から玉里鎮&lt;/h3&gt;
-&lt;h3 id=&#34;七日目-玉里鎮から花蓮電車で宜蘭&#34;&gt;七日目: 玉里鎮から花蓮。電車で宜蘭&lt;/h3&gt;
-&lt;h3 id=&#34;八日目-宜蘭から台北&#34;&gt;八日目: 宜蘭から台北&lt;/h3&gt;
-&lt;h2 id=&#34;一周回って思ったこと&#34;&gt;一周回って思ったこと&lt;/h2&gt;
-&lt;h3 id=&#34;ご飯に関して困ることは一切ない&#34;&gt;ご飯に関して困ることは一切ない&lt;/h3&gt;
-&lt;p&gt;旅をしていて、ご飯のアクセシビリティに困ることは一切ありませんでした。台湾は朝ご飯屋からナイトマーケットまで一日中ご飯にありつける国です。安いホステルや野宿をした朝でも、5 分も自転車を走らせれば朝ごはん屋さんに嫌でも出くわします。出てくる料理は卵焼きや揚げ餃子等、簡単なものが多いですが、ヨーロッパのホテルで食べさせられるパンとハムだけの朝食に比べたらバラエティと栄養は何十倍もあります。その中でも、玉里鎮で食べた、夫婦がやっているお店で食べた 500 円ほどの玉里鎮麺がとても美味しかったをよく覚えています。そんな記憶に残る様な食事を朝 5 時からサーブしてくれるのですから、朝が早い自転車旅には天国の様なところです。夜に関しても、どんな小さな町でも、ナイトマーケットをやっているところが多いです。台東の南のあたりで夜偶然見つけた出店数七店舗程度のナイトマーケットに立ち寄って夕飯を済ませましたが、鴨のローストだったり、唐揚げだったりと、美味しいものを簡単に補給して、更に漕ぎ続けたのを覚えています。キャンプ用品を持っていく上で、簡単な料理器具も持っていこうかとも考えましたが、そんな事してたらもったいないです。美味しい台湾の料理を食べましょう。&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<h2 id="装備">装備</h2>
-<h3 id="自転車">自転車</h3>
-<p>自転車は自分のを持っていこうとも考えましたが、台北の Giant ストアで台湾一周用のレンタル自転車プランが有ると現地の友人が教えてくれたので、煩雑さを考えてもそちらの方が便利かと思いレンタルを選びました。レンタル代は 8 泊 9 日でも日本円で 1,8000 円とかなりレンタル自転車にしては手頃な価格でした。自転車自体は、ジャイアントの XXX というシリーズのクロスバイクで、車体自体は少し使用感がありましたが、さすが旗艦店で整備されているだけあって、シフトチェンジもスムーズにできますし、ブレーキの効きなんかも申し分ないクオリティに仕上がっていました。ペダルはフラットでしたが、その場でシマノのバインディングペダルにを購入して変えてもらいました。</p>
-<h3 id="荷台とパニエバッグ">荷台とパニエバッグ</h3>
-<p>台湾一周パッケージということもあって、自転車以外にも色々なものがついてきました。まずは自転車の荷台とパニエバッグ。荷台は一般的なものでした。パニエバッグは、10 リットルの容量のを 2 つ支給されるので、途中数回の選択を考慮して、1 週間の旅には十分なサイズです。ウェブサイトには防水と書いてありましたが、お店のお兄さんが、「ある程度の雨は防げるけど、昨日あった大雨みたいなときには浸水するからビニール袋で中身守ってね」と教えてくれました。実際、自分もそういった可能性を危惧していたので、自前のバックパックカバーを持っていってました。今まで台湾を何周したのかわかりませんが、かなり使用感のあるもので、途中でカバンを閉めるためのロープを強めに引っ張った際にロープが自然と切れてしまいました。また、そのロープの先についている金属製のフックも、一度強めにロープを締めた際に曲がってしまい、元に戻そうと思ったら完全に折れてしまいました。金属疲労から壊れてしまったのか、私があまりにもきつく締めすぎて壊れたのか定かではありませんが、少しチープなパニエバッグでした。ですが、最終的には浸水することもなく、役目は果たしてくれました。</p>
-<h3 id="工具とポーチその他小物">工具とポーチ、その他小物</h3>
-<p>パッケージには工具がついていると書いてありましたが、工具と言っても十徳六角レンチが一つ入ってるだけで、それ以外は何もありませんでした。おそらくパンク修理を自分でするなどはあまり想定していないようで、もしパンクしたら最寄りのジャイアント旗艦店に駆け込めば無料で修理してくれるというのがパッケージの内容でした。あとは六角レンチを入れるフレームのトップから引っ掛ける二口の小さなポーチもついてきました。エナジージェルなんかを入れるのには便利でした。携帯もちょうど入るくらいのサイズです。他には誰でも切れそうなワイヤーロックと、フロント・リアの両方のライトがついてきました。</p>
-<h3 id="自分で持っていったもの">自分で持っていったもの</h3>
-<p>レンタルで借りられるものは以上で、残りは自分で用意する必要があります。</p>
-<ul>
-<li>ヘルメット</li>
-<li>ヘッドライト(台湾の東海岸は街灯が殆ど無いので、夜間は一寸先は闇です)</li>
-<li>サイクルウェア
-<ul>
-<li>サイクルパンツ</li>
-<li>サイクルジャージ</li>
-<li>サイクルグローブ</li>
-<li>カッパ</li>
-</ul>
-</li>
-<li>サングラス</li>
-<li>スマホホルダー</li>
-<li>キャンプ用品(数日の野営は想定していたので)
-<ul>
-<li>エアマットレス</li>
-<li>エアーピロー</li>
-<li>寝袋のインナー</li>
-</ul>
-</li>
-<li>パンク修理セット
-<ul>
-<li>予備のチューブ</li>
-<li>パッチとのりとヤスリ</li>
-<li>携帯ポンプ</li>
-<li>タイヤレバー</li>
-</ul>
-</li>
-<li>クリップオンシューズ</li>
-<li>SPD のペダル</li>
-<li>街に繰り出すためのサンダル</li>
-<li>洋服やタオル</li>
-<li>カメラなどすぐに出したいものをしまっておけるフロントバーに付けるバッグ</li>
-</ul>
-<p>等を日本から持っていきました。
-この中でも、意外と盲点なのはスマホホルダーとヘッドライトかなと思います。台湾一周するにはただ単に標識に従えば一周できなくも無いかとは思いますが、ところどころで標識やサインを見失ったり、休憩のためにお店やコンビニを探しながら走るには絶対に必要になってくるのでは無いでしょうか。ヘッドライトは主にキャンプを想定して持っていきましたが、東海岸に移ってから、太い道路でも街頭が一切ない箇所が多く、日没以降に移動する予定がある場合には、安全のために必ず必要になってくると思います。後方から来る車に一番わかり易く認知してもらうためにも、レンタルの自転車についてくるライトだけではなく、それ以上に輝度の高いヘッドライトを持っていくことをおすすめします。</p>
-<h2 id="旅程">旅程</h2>
-<h3 id="一日目-台北から新竹">一日目: 台北から新竹</h3>
-<h3 id="二日目-新竹から台中">二日目: 新竹から台中</h3>
-<h3 id="三日目-台中から義">三日目: 台中から義</h3>
-<h3 id="四日目-義から高雄">四日目: 義から高雄</h3>
-<h3 id="五日目-高雄から台東の南">五日目: 高雄から台東の南</h3>
-<h3 id="六日目-台東の南から玉里鎮">六日目: 台東の南から玉里鎮</h3>
-<h3 id="七日目-玉里鎮から花蓮電車で宜蘭">七日目: 玉里鎮から花蓮。電車で宜蘭</h3>
-<h3 id="八日目-宜蘭から台北">八日目: 宜蘭から台北</h3>
-<h2 id="一周回って思ったこと">一周回って思ったこと</h2>
-<h3 id="ご飯に関して困ることは一切ない">ご飯に関して困ることは一切ない</h3>
-<p>旅をしていて、ご飯のアクセシビリティに困ることは一切ありませんでした。台湾は朝ご飯屋からナイトマーケットまで一日中ご飯にありつける国です。安いホステルや野宿をした朝でも、5 分も自転車を走らせれば朝ごはん屋さんに嫌でも出くわします。出てくる料理は卵焼きや揚げ餃子等、簡単なものが多いですが、ヨーロッパのホテルで食べさせられるパンとハムだけの朝食に比べたらバラエティと栄養は何十倍もあります。その中でも、玉里鎮で食べた、夫婦がやっているお店で食べた 500 円ほどの玉里鎮麺がとても美味しかったをよく覚えています。そんな記憶に残る様な食事を朝 5 時からサーブしてくれるのですから、朝が早い自転車旅には天国の様なところです。夜に関しても、どんな小さな町でも、ナイトマーケットをやっているところが多いです。台東の南のあたりで夜偶然見つけた出店数七店舗程度のナイトマーケットに立ち寄って夕飯を済ませましたが、鴨のローストだったり、唐揚げだったりと、美味しいものを簡単に補給して、更に漕ぎ続けたのを覚えています。キャンプ用品を持っていく上で、簡単な料理器具も持っていこうかとも考えましたが、そんな事してたらもったいないです。美味しい台湾の料理を食べましょう。</p>
-<h3 id="heading"></h3>
-<h3 id="heading-1"></h3>
-]]></content>
-        </item>
+        <atom:link href="https://ryuichirosuzuki.com/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>First Time Developing Black and White Film</title>
-            <link>http://localhost:1313/posts/first-time-developing-black-and-white-film/</link>
+            <link>https://ryuichirosuzuki.com/posts/first-time-developing-black-and-white-film/</link>
             <pubDate>Sat, 30 Dec 2023 12:12:28 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/first-time-developing-black-and-white-film/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/first-time-developing-black-and-white-film/</guid>
             <description>&lt;h2 id=&#34;film-development-in-japan-is-getting-worse-and-more-expensive&#34;&gt;Film development in Japan is getting worse and more expensive&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;ve been developing film with mostly Kitamura, one of the biggest photo printing chain in Japan. Many stores in Tokyo have in-store developer and scanner and they would develop, scan and give you a QR code from which you can download the results. I used to like the quality and how easy it is to use. However, I&amp;rsquo;ve noticed that recently, they increased the price for a higher quality scan, and they made the cheaper scanning option&amp;rsquo;s quality so low. Also, the scans had too much contrast most of the times. On top of that, they usually can do C41 in 2~4 hours but when you ask for B&amp;amp;W, they tell you that they have to send it to a factory and develop it there, hence the time it takes bumps up to 2+ weeks.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<h2 id="film-development-in-japan-is-getting-worse-and-more-expensive">Film development in Japan is getting worse and more expensive</h2>
@@ -276,134 +151,11 @@
         </item>
         
         <item>
-            <title>How to get to Suzuka Circuit from Nagoya on a train</title>
-            <link>http://localhost:1313/posts/how-to-get-to-suzuka-from-nagoya/</link>
-            <pubDate>Mon, 25 Sep 2023 14:19:46 +0900</pubDate>
-            
-            <guid>http://localhost:1313/posts/how-to-get-to-suzuka-from-nagoya/</guid>
-            <description>&lt;img src=&#34;http://localhost:1313/posts/how-to-get-to-suzuka-from-nagoya/header.jpg&#34;  alt=&#34;Suzuka Circuit&#34;  class=&#34;center &#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
-
-
-&lt;p&gt;Given the recent increase in the popularity of Formula 1, there are plenty of non-Japanese speakers visiting the Formula 1 Japanese Grand Prix in Suzuka. This year, I went for the first time, but it was hard to figure out how to get to the circuit, and where to get the ticket from online resources. It was confusing even to me, a fluent Japanese speaker, so it must be more confusing for people visiting from abroad. In this blog, I will try my best to list all possible way to get to the circuit from Nagoya, which is one of the closest major cities where many other fans and media personnel stay. Many people choose Nagoya since any hotels closer to the circuit are fully booked even before the tickets goes on sale 🤯 Also, I will list some other possible solutions which I might want to try in the coming years if I ever visit again.&lt;/p&gt;</description>
-            <content type="html"><![CDATA[
-    <img src="/posts/how-to-get-to-suzuka-from-nagoya/header.jpg"  alt="Suzuka Circuit"  class="center "  style="border-radius: 8px;"  />
-
-
-<p>Given the recent increase in the popularity of Formula 1, there are plenty of non-Japanese speakers visiting the Formula 1 Japanese Grand Prix in Suzuka. This year, I went for the first time, but it was hard to figure out how to get to the circuit, and where to get the ticket from online resources. It was confusing even to me, a fluent Japanese speaker, so it must be more confusing for people visiting from abroad. In this blog, I will try my best to list all possible way to get to the circuit from Nagoya, which is one of the closest major cities where many other fans and media personnel stay. Many people choose Nagoya since any hotels closer to the circuit are fully booked even before the tickets goes on sale 🤯 Also, I will list some other possible solutions which I might want to try in the coming years if I ever visit again.</p>
-<h1 id="trip-from-nagoya-to-the-circuit">Trip from Nagoya to the circuit.</h1>
-<p>Trains are the cheapest way to get to the circuit, yet hardest to figure out. There are different types of trains available, and different train companies depending on which stations you want to get off from.</p>
-<h2 id="the-most-popular-route-nagoya--shiroko---shuttle-bus-">The most popular route: Nagoya → Shiroko 🚃 + Shuttle bus 🚌</h2>
-<p>This route is by far the most popular route. Shiroko station is a station that is about 5km away from the circuit. During the Grand Prix weekend, there are extra express trains and limited express trains that goes directly to and from Nagoya station, and many people use this train. From Shiroko station, there is a special shuttle bus that goes to the circuit, which most of the people also use. However, ticketing system is quite hard to figure out for a first time visitor.</p>
-<h3 id="figuring-out-the-train-companies-and-ticketing-system">Figuring out the train companies and ticketing system</h3>
-<p>First, you have to distinguish the train company you are using. In Nagoya station, there are multiple train companies that uses the same building, and you have to know which turnstile is for which company. There are JR (Japan Rail), Kintetsu, Meitetsu and the subway. To get to Shiroko station, you have to use <strong>Kintetsu</strong>, which has its own designated turnstile. If you get to the Nagoya station, you have to look for signs that direct you to the Kintetsu turnstile, not the others!!</p>
-<p>Then, you have to understand the different types (speed) of trains: local, express, and limited express. For local and express trains, you <strong>DO NOT</strong> need to buy extra limited express ticket. You can simply buy a ticket to Shiroko station, which is ¥1000, and hop on to the train that comes first. You can buy the ticket at the vending machine at Kintetsu Nagoya Station. However, on the day of the race, it can get quite crowded by the people who are trying to get the ticket, so it would be better to have the contactless payment with you, such as Suica and Pasmo. If you have a Suica or Pasmo card, you can simply charge that up and tap in and out of the station. Express train takes about 50 minutes from Nagoya to Shiroko station.</p>
-<p>Express trains are relatively cheap but fast enough. Also, there&rsquo;s less stress of missing one because there&rsquo;s no reserving seats for a specific train. You can simply wait at the platform and if you&rsquo;re lucky, you can get a seat for the whole ride. However, obviously there are more people standing than sitting. You have to keep that in mind.</p>
-<figure><img src="/posts/how-to-get-to-suzuka-from-nagoya/express.jpg"><figcaption>
-      <h4>Express train on the Sunday morning, around 9AM</h4>
-    </figcaption>
-</figure>
-
-<p>Local trains are the same but since it stops at every station on the way, it is much slower. Therefore, if you don&rsquo;t wanna spend extra money but want to get to the destination reasonably fast, express trains are the one to use.</p>
-<p>Then there&rsquo;s the limited express trains. For this, on top of the normal fee, which is ¥1000, you have to pay ¥920 as a limited express fee. Limited express trains have designated seating system, which means you will be guaranteed a seat. Also, it is just a little bit faster than the express, and takes about 40 minutes to get to Shiroko station.</p>
-<p>There are two ways to get the limited express ticket. First is to go to the station and use the ticketing office or vending machine. However, during the weekend, the limited express trains can fill up during the peak hours, so you shouldn&rsquo;t expect that you would get a seat for the train departing in a few minutes. Possibly, you would have to choose the train that depart in 20 or even 40 minutes after.</p>
-<p>To avoid that wait, and to make sure you get the train you want, you can use the Kintetsu website to purchase one. On the website, you can sign up, then simply search for available seats from the web app and pay via credit card. After the purchase, you go to the station, go through the turnstile with Suica or the ticket to the Shiroko station (which you have to purchase on top of the mobile limited express ticket), and just go to your designated seat. You don&rsquo;t really need to show the mobile ticket when getting on or off. Conductors do come around but they don&rsquo;t really check if you have the limited express ticket or not.</p>
-<p>This must be the most confusing part for the first time visitors. I saw many people who got on to the limited express without knowing that they need an extra ticket. Those people end up standing in front of the toilet since there are no seats available, and then get charged the extra fee by the conductor that goes around. So make sure that you know which train you want and whether you need an extra ticket or not!</p>
-<h3 id="lining-up-for-the-shuttle-bus">Lining up for the shuttle bus</h3>
-<p>Once you get to Shiroko station, you will see a long line of people waiting for the shuttle bus. Shuttle bus to the circuit cost ¥450, and you can pay by Suica or Pasmo cards, or by cash. Payment done after you get off at the circuit. It is better to have those contactless cards since it is much faster.</p>
-<figure><img src="/posts/how-to-get-to-suzuka-from-nagoya/buses.jpg"><figcaption>
-      <h4>There are so many buses in use but it doesn&#39;t come fast enough for the people using it...</h4>
-    </figcaption>
-</figure>
-
-<p>The most annoying thing about the shuttle bus is the wait time. On Friday morning, which I went quite early, the wait was about 5 minutes. Looking at some tweets by fans, later hours on Friday is also not super crowded and the wait time is about 30 mins. However, on Saturday and Sunday, obviously there are more people who are going to the circuit so the line can get quite long. The line goes around the area in front of the station multiple times, and takes you about more than 1 hour to get onto a bus!! There&rsquo;s an option to use a taxi as well, but keep in mind that the line for taxis is also quite long. Some people choose to walk the 5km since it can be faster sometime.</p>
-<figure><img src="/posts/how-to-get-to-suzuka-from-nagoya/shiroko-stairs-sun.jpg"><figcaption>
-      <h4>Shiroko station staircase on Sunday morning around 10AM</h4>
-    </figcaption>
-</figure>
-
-<figure><img src="/posts/how-to-get-to-suzuka-from-nagoya/shiroko-bus-line-sunday.jpg"><figcaption>
-      <h4>It took me about 1 hour and 10 minutes to get on a bus from here</h4>
-    </figcaption>
-</figure>
-
-<figure><img src="/posts/how-to-get-to-suzuka-from-nagoya/bus-line-sunday.jpg"><figcaption>
-      <h4>Bus line goes around the nearby parking lot as well, with no shades obviously</h4>
-    </figcaption>
-</figure>
-
-<h2 id="next-most-popular-route-nagoya--suzuka-circuit-inoh---walk-">Next most popular route: Nagoya → Suzuka Circuit Inoh 🚃 + Walk 🚶</h2>
-<p>There&rsquo;s another station which is closer to the circuit called Suzuka Circuit Inoh station.</p>
-<h2 id="the-return-trip">The return trip</h2>
-<p>To get back to Nagoya after the sessions are over, the nightmare begins 😭 You can simply reverse the route you came with, but make sure to understand the pros and cons of each options</p>
-<h3 id="most-popular-route-shuttle-bus---shiroko--nagoya-">Most popular route Shuttle bus 🚌 + Shiroko → Nagoya 🚃</h3>
-<p>This is the reverse of <a href="#the-most-popular-route-nagoya--shiroko---shuttle-bus-">the most popular route from Nagoya station</a>. However, you have to keep in mind that the waiting line for the bus is worse than the one in the morning. Since people try to go home all at once, you have to wait for possibly two hours at the parking lot of the circuit waiting for the bus to come. On Friday, I chose this route after seeing Seb speak on the stage, which was around 5PM. In the end, it took me about 2 hours to get onto a bus in the pouring rain 😭</p>
-
-    <img src="/posts/how-to-get-to-suzuka-from-nagoya/friday-bus-waiting.jpg"  class="center "  />
-
-
-<p>From this experience, on Saturday and Sunday, I chose not to stay until everything was over. On Saturday, I left my seat around around 2 minutes before Q3 was over and headed to the grand stand exit. Then from the exit, saw Max taking the pole and Oscar taking P3, then decided to leave before everyone crossed the line. Leaving the session early gave me a head start and I managed to get onto a bus after waiting for 10 minutes or so.</p>
-<p>Also on Sunday, I left my seat when there was about 5 laps left, and saw the end of the race on my phone. I wouldn&rsquo;t have done it if it was as exciting as the Singapore GP, but since Max was miles ahead and none of the drivers I passionately support had a good race, I didn&rsquo;t really care to see the end. This was also a good call since I only waited about 5 minutes. However, by the time I got on to the bus, the line grew 3 fold, and probably would&rsquo;ve taken me 30 minutes more if I left a few laps later.</p>
-
-    <img src="/posts/how-to-get-to-suzuka-from-nagoya/sunday-after-race-bus.jpg"  class="center "  />
-
-
-<p>Once you get to Shiroko station, then the system is the same. If you don&rsquo;t need a guaranteed seat and slightly faster train, then you simply buy a ticket to Nagoya, or tap in with your Suica, then get onto any express train that comes first. I lined up early on Sunday so I managed to sit down for the whole journey back to Nagoya.</p>
-<p>If you want to buy the limited express back to Nagoya, then the web app is the way to go. It is easier to get the limited express train back to Nagoya since every one aren&rsquo;t sure if they make it back to the station by the time the train they reserved leaves. What I did on Friday and Saturday is that while riding on the bus, simply estimate the time you arrive at the station, then get the limited express ticket that departs right after the bus arrives at the station. This is the best way because by the time you got to the station, the next earliest limited express are usually sold out by the people who arrived with the few buses before you.</p>
-<p>Despite the long line for the bus, this route ensures that you get home since Mie Kotsu, who runs the buses, and Kintetsu are kind enough to set extra trains and buses until everyone is served. Although the bus technically has a time limit set on every day, they usually run beyond that time since they can&rsquo;t serve every one by that deadline. Also, Kintetsu run special express trains to serve more people when high in demand. This cannot be said for the JR, who refuses to run extra trains and people can end up stranded after the final train left.</p>
-<h3 id="second-most-popular-route-walk---suzuka-circuit-inoh--nagoya-">Second most popular route: Walk 🚶 + Suzuka Circuit Inoh → Nagoya 🚃</h3>
-<h3 id="the-hidden-route-walk-or-bus---hirata-cho--wakamatsu--nagoya-">The hidden route: Walk (or bus) 🚶 + Hirata-cho → Wakamatsu → Nagoya 🚃</h3>
-<h3 id="heading"></h3>
-<h2 id="other-considerations">Other considerations</h2>
-]]></content>
-        </item>
-        
-        <item>
-            <title>バルセロナでロードバイクを盗まれた話</title>
-            <link>http://localhost:1313/posts/bike-stolen-in-spain/</link>
-            <pubDate>Sun, 10 Sep 2023 19:23:14 +0900</pubDate>
-            
-            <guid>http://localhost:1313/posts/bike-stolen-in-spain/</guid>
-            <description>&lt;h2 id=&#34;白昼堂々自転車を盗まれた&#34;&gt;白昼堂々、自転車を盗まれた&lt;/h2&gt;
-&lt;p&gt;またも盗難に遭いました。今度は自転車です。&lt;/p&gt;
-&lt;p&gt;ワーホリで一年間バルセロナに住んでいるのですが、僕の中で一番の大きな転換点はエレベーターのあるピソに引っ越して、自転車をゲットしたことです。メトロやバスで十分足りる街ではありますが、自転車が自分のバルセロナ生活を何倍も楽しいものにしてくれたと思います。バルセロナに引っ越した当初は、エレベーターなしの 4 階のピソだったため、必然的にメトロに頼り切っていましたが、ずっと地下に居るだけで、特に移動を楽しいと思うことはありませんでした。ですが、自転車を手に入れてから、行動範囲や自由度が格段と上がったのは言うまでもなく、太陽の光を浴びながら移動できることが何よりも嬉しく、通勤や友人の家に遊びに行くのが楽しく思えるようになったのを鮮明に記憶しています。毎朝、仕事場に向かうために Diagonal を駆け抜けるだけでも、この街に来てよかったと思わせてくれました。&lt;/p&gt;
-&lt;p&gt;そんな Diagonal のど真ん中で自転車を盗まれました。
-自分は街のカフェなどでいつも仕事をしていたのですが、その日はお気に入りのフォカッチャのチェーン店、Buenas Migas の行ったことの無い店舗に行ってみようと、前々から目につけていた Diagonal 沿いにある大きな店舗に向かいました。自転車は Diagonal 沿いの歩道にあるバイクラックに、4 桁の暗証番号式の太いチェーンロックをフレームと車輪を通して地球ロックをしたのを覚えています。平日でしたが、いい天気で人通りも多かったです。&lt;/p&gt;
-&lt;p&gt;Buenas Migas の店舗は広く、WiFi も速いので、仕事をするために長居するには最適の場所です。お昼過ぎから 5 時間くらい作業をしていました。作業が終わり外に出て、バイクラックに近寄ると、自分の自転車が見当たらず、「やられた」と思いました。停めていた所に行くと、チェーンロックだけが暗証番号のところで切られて落ちていました。&lt;/p&gt;
-&lt;p&gt;少しパニックになり、友人達に電話をしてどうするか助言をもらい、取り敢えず、近くの警察署に行くことにしました。そしたら見事お休みでした。平日にやってない警察署って何なんでしょう。スペインのお役所に再度失望しつつ、サドルの下に Anker のタグをガムテープで着けていたことを思い出しました。iPad で場所を確認すると、Diagonal の一番端の Westfield の近くで止まって居ることを確認できました。急いで Bicing を使って現場近くまで行きました。実際にタグが反応している所であたりを探しまわっても、自分の自転車は見つからず、遠隔で音を鳴らそうとしても繋がらず、音が鳴ることはありませんでした。純正品では無いの上、iPhone ユーザーではないので、U1 チップを使った方向をピンポイントで探し当てる事もできず、もしかしたらこの辺りでタグの存在に気づいてゴミ箱に捨てたか、通り沿いの建物の中に入ったのかと思い、諦めて帰りました。&lt;/p&gt;
-&lt;h2 id=&#34;学んだ事&#34;&gt;学んだ事&lt;/h2&gt;
-&lt;h3 id=&#34;air-tag-は純正品に限る&#34;&gt;Air Tag は純正品に限る&lt;/h3&gt;
-&lt;p&gt;Android ユーザーですが、Air Tag ネットワークにはあやかりたいなと思い購入した Anker のタグですが、部屋の中で鍵を探すだったり、空港で荷物が着いてるか等を確認するくらいにはなりますが、実際の Air Tag 程の効果はありませんでした。やはり自転車だったり、実際になにかピンポイントで場所を特定する必要がある際には、Air Tag + iPhone が無いと難しいんだなと学びました。&lt;/p&gt;
-&lt;h3 id=&#34;警察は盗難は相手してくれない&#34;&gt;警察は盗難は相手してくれない&lt;/h3&gt;
-&lt;p&gt;Anker のタグが反応している所に行った際に、偶然近くに警察官が居たので、事情を説明して、もし犯人と自転車を見つけた時に捕まえられるように助けてくれないかと Find My の画面を見せながらお願いしましたが、112 に電話をしてくれの一点張りでなんにもしてくれませんでした。向こうとしても自転車や携帯の窃盗なんて日常茶飯事過ぎて、操作する気も無いんでしょうね。&lt;/p&gt;
-&lt;h3 id=&#34;チェーンロックは暗証番号式は弱点がある&#34;&gt;チェーンロックは暗証番号式は弱点がある&lt;/h3&gt;
-&lt;p&gt;所有してたロックの中で一番太めのものを使っていたつもりだったのですが、結合部が細くなっていて弱点であることは盲点でした。暗証番号の部分はプラスチックでもあるので、大きめのチェーンカッターがあればある程度容易に切れたのでしょう。自分は持ち歩くものが増えるのが嫌なので、鍵のバイクロックはあまり好きでは無いのですが、スペインの様な盗難がよくある国に住む場合には我慢して鍵のチェーンロックにする事も考えたほうが良いかもしれません。&lt;/p&gt;
-&lt;h3 id=&#34;バルセロナでは二重ロックも辞さない方がいい&#34;&gt;バルセロナでは二重ロックも辞さない方がいい&lt;/h3&gt;
-&lt;p&gt;皮肉なことに、その数日前に持ち運びしやすい折りたたみ式のロックを購入していたのですが、面倒くさくてまだホルダーをフレームに設置していませんでした。その日家を出る際に、どちらのロックを持っていくか、両方カバンに入れて持っていくか、迷った挙げ句いつも通りのチェーンロックを選びました。あのとき、2 つ持って行っていれば、両方ロックを掛けて置けば、悔やまれます…&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<h2 id="白昼堂々自転車を盗まれた">白昼堂々、自転車を盗まれた</h2>
-<p>またも盗難に遭いました。今度は自転車です。</p>
-<p>ワーホリで一年間バルセロナに住んでいるのですが、僕の中で一番の大きな転換点はエレベーターのあるピソに引っ越して、自転車をゲットしたことです。メトロやバスで十分足りる街ではありますが、自転車が自分のバルセロナ生活を何倍も楽しいものにしてくれたと思います。バルセロナに引っ越した当初は、エレベーターなしの 4 階のピソだったため、必然的にメトロに頼り切っていましたが、ずっと地下に居るだけで、特に移動を楽しいと思うことはありませんでした。ですが、自転車を手に入れてから、行動範囲や自由度が格段と上がったのは言うまでもなく、太陽の光を浴びながら移動できることが何よりも嬉しく、通勤や友人の家に遊びに行くのが楽しく思えるようになったのを鮮明に記憶しています。毎朝、仕事場に向かうために Diagonal を駆け抜けるだけでも、この街に来てよかったと思わせてくれました。</p>
-<p>そんな Diagonal のど真ん中で自転車を盗まれました。
-自分は街のカフェなどでいつも仕事をしていたのですが、その日はお気に入りのフォカッチャのチェーン店、Buenas Migas の行ったことの無い店舗に行ってみようと、前々から目につけていた Diagonal 沿いにある大きな店舗に向かいました。自転車は Diagonal 沿いの歩道にあるバイクラックに、4 桁の暗証番号式の太いチェーンロックをフレームと車輪を通して地球ロックをしたのを覚えています。平日でしたが、いい天気で人通りも多かったです。</p>
-<p>Buenas Migas の店舗は広く、WiFi も速いので、仕事をするために長居するには最適の場所です。お昼過ぎから 5 時間くらい作業をしていました。作業が終わり外に出て、バイクラックに近寄ると、自分の自転車が見当たらず、「やられた」と思いました。停めていた所に行くと、チェーンロックだけが暗証番号のところで切られて落ちていました。</p>
-<p>少しパニックになり、友人達に電話をしてどうするか助言をもらい、取り敢えず、近くの警察署に行くことにしました。そしたら見事お休みでした。平日にやってない警察署って何なんでしょう。スペインのお役所に再度失望しつつ、サドルの下に Anker のタグをガムテープで着けていたことを思い出しました。iPad で場所を確認すると、Diagonal の一番端の Westfield の近くで止まって居ることを確認できました。急いで Bicing を使って現場近くまで行きました。実際にタグが反応している所であたりを探しまわっても、自分の自転車は見つからず、遠隔で音を鳴らそうとしても繋がらず、音が鳴ることはありませんでした。純正品では無いの上、iPhone ユーザーではないので、U1 チップを使った方向をピンポイントで探し当てる事もできず、もしかしたらこの辺りでタグの存在に気づいてゴミ箱に捨てたか、通り沿いの建物の中に入ったのかと思い、諦めて帰りました。</p>
-<h2 id="学んだ事">学んだ事</h2>
-<h3 id="air-tag-は純正品に限る">Air Tag は純正品に限る</h3>
-<p>Android ユーザーですが、Air Tag ネットワークにはあやかりたいなと思い購入した Anker のタグですが、部屋の中で鍵を探すだったり、空港で荷物が着いてるか等を確認するくらいにはなりますが、実際の Air Tag 程の効果はありませんでした。やはり自転車だったり、実際になにかピンポイントで場所を特定する必要がある際には、Air Tag + iPhone が無いと難しいんだなと学びました。</p>
-<h3 id="警察は盗難は相手してくれない">警察は盗難は相手してくれない</h3>
-<p>Anker のタグが反応している所に行った際に、偶然近くに警察官が居たので、事情を説明して、もし犯人と自転車を見つけた時に捕まえられるように助けてくれないかと Find My の画面を見せながらお願いしましたが、112 に電話をしてくれの一点張りでなんにもしてくれませんでした。向こうとしても自転車や携帯の窃盗なんて日常茶飯事過ぎて、操作する気も無いんでしょうね。</p>
-<h3 id="チェーンロックは暗証番号式は弱点がある">チェーンロックは暗証番号式は弱点がある</h3>
-<p>所有してたロックの中で一番太めのものを使っていたつもりだったのですが、結合部が細くなっていて弱点であることは盲点でした。暗証番号の部分はプラスチックでもあるので、大きめのチェーンカッターがあればある程度容易に切れたのでしょう。自分は持ち歩くものが増えるのが嫌なので、鍵のバイクロックはあまり好きでは無いのですが、スペインの様な盗難がよくある国に住む場合には我慢して鍵のチェーンロックにする事も考えたほうが良いかもしれません。</p>
-<h3 id="バルセロナでは二重ロックも辞さない方がいい">バルセロナでは二重ロックも辞さない方がいい</h3>
-<p>皮肉なことに、その数日前に持ち運びしやすい折りたたみ式のロックを購入していたのですが、面倒くさくてまだホルダーをフレームに設置していませんでした。その日家を出る際に、どちらのロックを持っていくか、両方カバンに入れて持っていくか、迷った挙げ句いつも通りのチェーンロックを選びました。あのとき、2 つ持って行っていれば、両方ロックを掛けて置けば、悔やまれます…</p>
-]]></content>
-        </item>
-        
-        <item>
             <title>スペインで携帯を盗まれて、殺されかけた話</title>
-            <link>http://localhost:1313/posts/stolen-in-spain/</link>
+            <link>https://ryuichirosuzuki.com/posts/stolen-in-spain/</link>
             <pubDate>Mon, 10 Jul 2023 13:11:01 +0200</pubDate>
             
-            <guid>http://localhost:1313/posts/stolen-in-spain/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/stolen-in-spain/</guid>
             <description>&lt;img src=&#34;https://res.cloudinary.com/scooter-scooter/image/upload/Portfolio/malaga/martin.jpg&#34;
      class=&#34;rounded center&#34; 
     alt=&#34;Martin Garrix concert&#34; &gt;
@@ -414,7 +166,7 @@
 &lt;h2 id=&#34;マラガでスマホを強奪された&#34;&gt;マラガでスマホを強奪された&lt;/h2&gt;
 &lt;p&gt;週末を使って、マラガまで EDM コンサートを観に行きました。コンサート開場は、マラガの市内から電車で 40 分ほど離れたリゾートタウンで執り行われていたので、チケットを買った時点で、一人旅のお財布に優しい値段の宿泊施設は全て埋まっていました。コンサートも朝 2 時までの予定だったので、本当は会場近くに泊まりたかったですが、始発が 6 時にはあるというので、朝帰りで良いかと思い、マラガ市内のホステルを予約しました。&lt;/p&gt;
 &lt;p&gt;予定通り、2 時にコンサートが終わり、ゆっくり駅まで海岸沿いを歩きながら適当に時間を潰してから、4 時ころに駅前に着きました。そこに行くまでの途中で、喧嘩がヒートアップして、ある男性が女性をビーチに降りるスロープから突き落とす瞬間を目撃し、少し雰囲気は戦々恐々としていました。とりあえず、駅の入口が開くまで何もやることは無いので、通り沿いにあるベンチにポツリと座って携帯で YouTube を観ていました。&lt;/p&gt;
-&lt;p&gt;そうしていたら、突然、横から歩いてきた男が僕の手から携帯をもぎ取り、目の前の裏路地に逃げていきました。一瞬何が起きたか処理が追いつきませんでしたが、携帯を強奪された事を理解し、本能的に追いかけました。&lt;a href=&#34;http://localhost:1313/posts/getting-robbed-in-mexico&#34;&gt;以前のブログ&lt;/a&gt;に書いたように、その 2 ヶ月前に、メキシコシティで携帯を盗まれたばかりなので、その際に持っていた携帯は、買って間もない新品同様のデバイスでした。その事が頭をよぎり、絶対に取り返してやるという思いで追いかけました。&lt;/p&gt;
+&lt;p&gt;そうしていたら、突然、横から歩いてきた男が僕の手から携帯をもぎ取り、目の前の裏路地に逃げていきました。一瞬何が起きたか処理が追いつきませんでしたが、携帯を強奪された事を理解し、本能的に追いかけました。&lt;a href=&#34;https://ryuichirosuzuki.com/posts/getting-robbed-in-mexico&#34;&gt;以前のブログ&lt;/a&gt;に書いたように、その 2 ヶ月前に、メキシコシティで携帯を盗まれたばかりなので、その際に持っていた携帯は、買って間もない新品同様のデバイスでした。その事が頭をよぎり、絶対に取り返してやるという思いで追いかけました。&lt;/p&gt;
 &lt;p&gt;犯人がトロかったのが幸い？して、数週間前に自転車事故で左足を捻挫している身ながら、50m 程ですぐに追いつきました。彼の腕を掴んで、英語しか出てこなかったので、&amp;ldquo;You fucking give that back to me&amp;quot;と言ったら、彼が振りかぶって僕の顔にサイドフックを一発。そこまで強いパンチではなかったので、痛さはさほどありませんでしたが、小学生の頃、父親に叩かれて以来、本気の暴力を受けたのは初めてだったので、かなり驚きました。驚いてる暇も無く、二発目のフックが顔に着弾。そして、僕が少しよろけたところを、彼が僕の首に腕を回し、チョークホールドを受けました。苦しいと思っていたら、気を失い、地面に倒れ込みました。&lt;/p&gt;
 &lt;p&gt;彼は僕が気を失ったのを見計らって、僕を開放し更に逃走。地面に倒れ込んだ僕は、気を失っていたものの、失ったのはほんの 1,2 秒の話。すぐに意識を取り戻し、一瞬、夢でも観ていたんだっけ？という気分になりましたが、携帯を盗まれていたことをすぐに思い出し、立ち上がって彼の逃げていった方に走り出しました。朝の 4 時の田舎町の裏路地なんで、人っ子一人いませんが、遠目にカップルがいたので、走りながら声をかけるも無視。がむしゃらに犯人を見失わないように追いかけ続けました。そうすると、彼がある分かれ道を右に曲がると、その先は行き止まり。そこで再度追い詰め、今度も彼を掴み、本当に警察には言わないから携帯だけ返してくれと懇願。行き止まりで再度捕まったことからなのか、彼も少し「またやったろか」みたいな構えを見せたものの、まだ盗人の日が浅く、やり切る強さがないのかは知りませんが、手渡しで携帯を返してくれました。&lt;/p&gt;
 &lt;p&gt;携帯は失わずに済みましたが、チョークホールドを食らったことから、首の痛みが一週間ほど残りました。更に痛手だったのが、サイドフックを食らった際に、つけていた完全ワイヤレスのイヤホンを両方落としたようで、ホテルに帰るまでそれに気づかず、徹夜をした＋強盗に遭った直後だったので、取りに戻る気力もなく、€150 程したお気に入りの品ではありましたが、諦めました。&lt;/p&gt;
@@ -497,12 +249,12 @@
         
         <item>
             <title>メキシコ初日からスられた</title>
-            <link>http://localhost:1313/posts/getting-robbed-in-mexico/</link>
+            <link>https://ryuichirosuzuki.com/posts/getting-robbed-in-mexico/</link>
             <pubDate>Sun, 23 Apr 2023 05:14:21 -0600</pubDate>
             
-            <guid>http://localhost:1313/posts/getting-robbed-in-mexico/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/getting-robbed-in-mexico/</guid>
             <description>&lt;p&gt;メキシコに旅行に来た初日から携帯をスられました。今後のためにも、もっとうまく立ち回れたと思えることを綴って、次につなげようと思います。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/posts/getting-robbed-in-mexico/me.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;https://ryuichirosuzuki.com/posts/getting-robbed-in-mexico/me.jpg&#34;
     alt=&#34;スられた直後&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;スられた直後&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -515,7 +267,7 @@
 &lt;p&gt;すぐに近くにいる警察官には言いましたが、僕も、find my device は後述するようにできないし、Fitbit からの呼び出しは遠いのか電源が切れてるのかつながらないし、どこに行ったのかなんて人の多さでは絶対に無理ですね。警察も一応適当にそこら辺に居た人のかばんを探ったりはしてくれましたけど、そんな近場に犯人がいるわけが無く、数分後には、「どんまい」という顔をして去っていきました。&lt;/p&gt;
 &lt;h2 id=&#34;心構えの反省点&#34;&gt;心構えの反省点&lt;/h2&gt;
 &lt;h3 id=&#34;調子に乗っていた&#34;&gt;調子に乗っていた&lt;/h3&gt;
-&lt;p&gt;渡航する前に、メキシコシティの犯罪の多さを世界のランキングなどで見ていました。ですが、メキシコシティがつい一ヶ月ほど前まで居たケープタウンと同列くらいと言うことで、かなり高をくくっていました。実際、ケープタウンでは&lt;a href=&#34;http://localhost:1313/posts/south-africa-trip/#%E6%B2%BB%E5%AE%89-&#34;&gt;同僚二人がガッツリ窃盗に遭うのを横で見ていましたが&lt;/a&gt;、自分は安全に事なきを得たので、余裕こいてました。&lt;/p&gt;
+&lt;p&gt;渡航する前に、メキシコシティの犯罪の多さを世界のランキングなどで見ていました。ですが、メキシコシティがつい一ヶ月ほど前まで居たケープタウンと同列くらいと言うことで、かなり高をくくっていました。実際、ケープタウンでは&lt;a href=&#34;https://ryuichirosuzuki.com/posts/south-africa-trip/#%E6%B2%BB%E5%AE%89-&#34;&gt;同僚二人がガッツリ窃盗に遭うのを横で見ていましたが&lt;/a&gt;、自分は安全に事なきを得たので、余裕こいてました。&lt;/p&gt;
 &lt;h3 id=&#34;浮かれていた&#34;&gt;浮かれていた&lt;/h3&gt;
 &lt;p&gt;初めての国に来たということと、ここ数ヶ月やってきたスペイン語が通じること、など、午前中の時点で少し浮かれているフシがありました。スポーツイベント自体は大好きだし、完全に身の回りのことを忘れていました。こういった油断は禁物ですね。&lt;/p&gt;
 &lt;h3 id=&#34;焦っていた&#34;&gt;焦っていた&lt;/h3&gt;
@@ -566,43 +318,11 @@
         </item>
         
         <item>
-            <title>pinit.js Not Working in Rails 7</title>
-            <link>http://localhost:1313/posts/pinit-js-not-working-in-rails/</link>
-            <pubDate>Wed, 29 Mar 2023 20:16:31 +0200</pubDate>
-            
-            <guid>http://localhost:1313/posts/pinit-js-not-working-in-rails/</guid>
-            <description>&lt;h2 id=&#34;the-problem&#34;&gt;The problem&lt;/h2&gt;
-&lt;p&gt;In the coding boot camp I teach at, one of the students was using a Pinterest&amp;rsquo;s widget for their final project. However, they had an issue where the widget wouldn&amp;rsquo;t show up on their page if the page was reached through clicking on a link within the app. However, it would show up if they reloaded the page.&lt;/p&gt;
-&lt;h2 id=&#34;the-cause&#34;&gt;The cause&lt;/h2&gt;
-&lt;p&gt;Cause is kind of obvious but turbo. If you follow the instruction on Pinterest&amp;rsquo;s installation guide, you would put an &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; tag to the place you want to mount your widget, and put an &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt; tag at the end of the &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt;.&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<h2 id="the-problem">The problem</h2>
-<p>In the coding boot camp I teach at, one of the students was using a Pinterest&rsquo;s widget for their final project. However, they had an issue where the widget wouldn&rsquo;t show up on their page if the page was reached through clicking on a link within the app. However, it would show up if they reloaded the page.</p>
-<h2 id="the-cause">The cause</h2>
-<p>Cause is kind of obvious but turbo. If you follow the instruction on Pinterest&rsquo;s installation guide, you would put an <code>&lt;a&gt;</code> tag to the place you want to mount your widget, and put an <code>&lt;script&gt;</code> tag at the end of the <code>&lt;body&gt;</code>.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">html</span>&gt;
-</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">body</span>&gt;
-</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">...</span>&gt;
-</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">data-pin</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;&#34;</span>&gt;
-</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">...</span>&gt;
-</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;&#34;</span>&gt;
-</span></span><span style="display:flex;"><span>  &lt;/<span style="color:#f92672">body</span>&gt;
-</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">html</span>&gt;
-</span></span></code></pre></div><p>What the script does is as follows.</p>
-<ol>
-<li>Make a script tag within the head</li>
-<li>Set the source of that script tag to be the main javascript file that is responsible for creating the widget.</li>
-<li>That script would run, and mount the widget onto the <code>&lt;a&gt;</code> tag</li>
-</ol>
-<p>However, because of turbo, that steps are not followed. When the user reach to the page with the <code>&lt;script&gt;</code> tag that should create the main <code>&lt;script&gt;</code> tag in the head, that script won&rsquo;t run because there is not <code>turbo-reload=&quot;false&quot;</code> attribute.</p>
-]]></content>
-        </item>
-        
-        <item>
             <title>ケープタウンに行った話🇿🇦</title>
-            <link>http://localhost:1313/posts/south-africa-trip/</link>
+            <link>https://ryuichirosuzuki.com/posts/south-africa-trip/</link>
             <pubDate>Thu, 02 Feb 2023 12:11:10 +0200</pubDate>
             
-            <guid>http://localhost:1313/posts/south-africa-trip/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/south-africa-trip/</guid>
             <description>&lt;img src=&#34;https://res.cloudinary.com/scooter-scooter/image/upload/Portfolio/cape-town/header.jpg&#34;
      class=&#34;rounded center&#34; 
     alt=&#34;ocean and a mountain&#34; &gt;
@@ -782,21 +502,21 @@
         
         <item>
             <title>TIEの申請に2回もしくじった話</title>
-            <link>http://localhost:1313/posts/getting-tie/</link>
+            <link>https://ryuichirosuzuki.com/posts/getting-tie/</link>
             <pubDate>Thu, 05 Jan 2023 18:42:16 +0100</pubDate>
             
-            <guid>http://localhost:1313/posts/getting-tie/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/getting-tie/</guid>
             <description>&lt;h2 id=&#34;アポイントメントの予約&#34;&gt;アポイントメントの予約&lt;/h2&gt;
 &lt;h3 id=&#34;リンク切れ&#34;&gt;リンク切れ&lt;/h3&gt;
 &lt;p&gt;TIE の申込みをするのには、警察に行く必要があります。そのためには、事前に予約を取らなければいけません。その情報はどんな How to サイトにも書いてあるのですが、うざいのが、全てにおいて「ここで申し込むんだよ」っていうリンクが切れているということです。リンクが &lt;a href=&#34;https://sede.administracionespublicas.gob.es/icpplustieb/index.html&#34;&gt;https://sede.administracionespublicas.gob.es/icpplustieb/index.html&lt;/a&gt; から &lt;a href=&#34;https://icp.administracionelectronica.gob.es/icpplus/index.html&#34;&gt;https://icp.administracionelectronica.gob.es/icpplus/index.html&lt;/a&gt; に移動したらしく、役所のページの殆どのハイパーリンクがアップデートされてないようです。リダイレクトくらいできただろと思いますが、そこはお役所仕事なのでしょう 🤷‍♀️&lt;/p&gt;
 &lt;h3 id=&#34;クソ-ui&#34;&gt;クソ UI&lt;/h3&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/posts/getting-tie/shit-ui.png&#34;&gt;&lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ryuichirosuzuki.com/posts/getting-tie/shit-ui.png&#34;&gt;&lt;figcaption&gt;
       &lt;h4&gt;TIEの予約画面&lt;/h4&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;面接の予約サイトが、誰が考えた UI なんだってくらいゴミです。自分が住んでいる県を選んだ後に、どのオフィスで予約をしたいか選ぶのですが、住所のドロップダウンしか無いというなんとも酷い仕様になっています。どのオフィスが近いのか、一々マップで検索しながら選ぶ必要があるので、とても面倒くさいです。近いオフィスを選んでも、色々と入力させた挙げ句、枠がいっぱいだとエラーになり、最初からやり直しになります 🤬&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/posts/getting-tie/spot-full.png&#34;&gt;&lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ryuichirosuzuki.com/posts/getting-tie/spot-full.png&#34;&gt;&lt;figcaption&gt;
       &lt;h4&gt;名前とか一生懸命入力させるくせに、いっぱいだとエラー&lt;/h4&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -884,10 +604,10 @@
         
         <item>
             <title>スペインにワーホリビザで来て、エンジニア就活をした話</title>
-            <link>http://localhost:1313/posts/getting-a-job-in-spain/</link>
+            <link>https://ryuichirosuzuki.com/posts/getting-a-job-in-spain/</link>
             <pubDate>Wed, 28 Dec 2022 15:31:23 +0100</pubDate>
             
-            <guid>http://localhost:1313/posts/getting-a-job-in-spain/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/getting-a-job-in-spain/</guid>
             <description>&lt;h2 id=&#34;はじめに&#34;&gt;はじめに&lt;/h2&gt;
 &lt;p&gt;ワーホリビザで 2022 年の 9 月末にバルセロナに来ました。自分の目標としては、こっちでフルタイムのオファーを貰って、あわよくば就労ビザなりをゲットすること。そんな目標を持って、就活を始めました。この記事では、就活の流れや、何をしたかを書いていきます。ネットを調べても、あまり経験談などを見ないので、自分の備忘録も兼ねて、もし同じことを考えている人の助けになればと思い、書きました。&lt;/p&gt;
 &lt;h2 id=&#34;自己紹介&#34;&gt;自己紹介&lt;/h2&gt;
@@ -947,123 +667,11 @@ I hope we stay in touch though and when we have more possibilities, we can coope
         </item>
         
         <item>
-            <title>Vue Tutorial</title>
-            <link>http://localhost:1313/posts/vue-tutorial/</link>
-            <pubDate>Fri, 09 Dec 2022 15:16:41 +0100</pubDate>
-            
-            <guid>http://localhost:1313/posts/vue-tutorial/</guid>
-            <description>&lt;h1 id=&#34;before-we-begin&#34;&gt;Before we begin&lt;/h1&gt;
-&lt;h2 id=&#34;what-is-this&#34;&gt;What is this?&lt;/h2&gt;
-&lt;p&gt;This is a tutorial to get started with VueJS, a most liked Javascript front-end framework on Github. In this tutorial, we will cover the basic concepts of the framework, which can translate to other front-end frameworks, such as React or Angular. You can start your front-end journey from Vue 👍&lt;/p&gt;
-&lt;h2 id=&#34;what-is-vue&#34;&gt;What is Vue?&lt;/h2&gt;
-&lt;p&gt;VueJS is a Open source Javascript front-end framework which helps you to make interactive single page applications (SPAs). It is one of the most liked JS framework and there are many companies and applications that are powered by Vue. To raise some examples, Glovo, Gitlab and few other big name companies use this framework, according to &lt;a href=&#34;https://stackshare.io/vue-js&#34;&gt;stack share&lt;/a&gt;. Unlike other popular frameworks, such as Angular and React, Vue is not founded by a big corporation. It is truly open source and the amount of community made Vue extensions are limitless. Another notable pros of Vue is the &lt;a href=&#34;https://vuejs.org/&#34;&gt;well written documentation&lt;/a&gt; with full of examples. If you are ever stuck on a concept or a bug, always check the documentation because it really helps. Enough with what Vue is, lets get started with the tutorial. &lt;span  class=&#34;inline-svg mdi insentence&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; xmlns:xlink=&#34;http://www.w3.org/1999/xlink&#34; version=&#34;1.1&#34; id=&#34;mdi-vuejs&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M2,3H5.5L12,15L18.5,3H22L12,21L2,3M6.5,3H9.5L12,7.58L14.5,3H17.5L12,13.08L6.5,3Z&#34; /&gt;&lt;/svg&gt;
-&lt;/span&gt;
-&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<h1 id="before-we-begin">Before we begin</h1>
-<h2 id="what-is-this">What is this?</h2>
-<p>This is a tutorial to get started with VueJS, a most liked Javascript front-end framework on Github. In this tutorial, we will cover the basic concepts of the framework, which can translate to other front-end frameworks, such as React or Angular. You can start your front-end journey from Vue 👍</p>
-<h2 id="what-is-vue">What is Vue?</h2>
-<p>VueJS is a Open source Javascript front-end framework which helps you to make interactive single page applications (SPAs). It is one of the most liked JS framework and there are many companies and applications that are powered by Vue. To raise some examples, Glovo, Gitlab and few other big name companies use this framework, according to <a href="https://stackshare.io/vue-js">stack share</a>. Unlike other popular frameworks, such as Angular and React, Vue is not founded by a big corporation. It is truly open source and the amount of community made Vue extensions are limitless. Another notable pros of Vue is the <a href="https://vuejs.org/">well written documentation</a> with full of examples. If you are ever stuck on a concept or a bug, always check the documentation because it really helps. Enough with what Vue is, lets get started with the tutorial. <span  class="inline-svg mdi insentence"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="mdi-vuejs" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M2,3H5.5L12,15L18.5,3H22L12,21L2,3M6.5,3H9.5L12,7.58L14.5,3H17.5L12,13.08L6.5,3Z" /></svg>
-</span>
-</p>
-<h1 id="lets-start">Let&rsquo;s start</h1>
-<h2 id="setup">Setup</h2>
-<ul>
-<li>Clone / Fork the <a href="https://github.com/SuzukiRyuichiro/vue-tutorial-todo">repo</a> <span  class="inline-svg mdi insentence"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="mdi-github" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M12,2A10,10 0 0,0 2,12C2,16.42 4.87,20.17 8.84,21.5C9.34,21.58 9.5,21.27 9.5,21C9.5,20.77 9.5,20.14 9.5,19.31C6.73,19.91 6.14,17.97 6.14,17.97C5.68,16.81 5.03,16.5 5.03,16.5C4.12,15.88 5.1,15.9 5.1,15.9C6.1,15.97 6.63,16.93 6.63,16.93C7.5,18.45 8.97,18 9.54,17.76C9.63,17.11 9.89,16.67 10.17,16.42C7.95,16.17 5.62,15.31 5.62,11.5C5.62,10.39 6,9.5 6.65,8.79C6.55,8.54 6.2,7.5 6.75,6.15C6.75,6.15 7.59,5.88 9.5,7.17C10.29,6.95 11.15,6.84 12,6.84C12.85,6.84 13.71,6.95 14.5,7.17C16.41,5.88 17.25,6.15 17.25,6.15C17.8,7.5 17.45,8.54 17.35,8.79C18,9.5 18.38,10.39 18.38,11.5C18.38,15.32 16.04,16.16 13.81,16.41C14.17,16.72 14.5,17.33 14.5,18.26C14.5,19.6 14.5,20.68 14.5,21C14.5,21.27 14.66,21.59 15.17,21.5C19.14,20.16 22,16.42 22,12A10,10 0 0,0 12,2Z" /></svg>
-</span>
-</li>
-<li><code>yarn install</code></li>
-<li><code>yarn dev</code></li>
-<li>Should see a server running on <code>http://localhost:5173</code></li>
-</ul>
-
-
-<img src="https://res.cloudinary.com/scooter-scooter/image/upload/h_600/Portfolio/vue-tutorial/setup-complete.png"
-    style="min-width: 50%; height: 400px; object-fit: cover;"  class="rounded center" 
-    alt="me in new york" >
-
-
-
-<p>You should be able to see this screen</p>
-<h2 id="folder-structure">Folder structure</h2>
-<p>First, let&rsquo;s take a look at the folder structure.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>.
-</span></span><span style="display:flex;"><span>├── index.html
-</span></span><span style="display:flex;"><span>├── package.json
-</span></span><span style="display:flex;"><span>├── public
-</span></span><span style="display:flex;"><span>│  └── favicon.ico
-</span></span><span style="display:flex;"><span>├── README.md
-</span></span><span style="display:flex;"><span>├── src
-</span></span><span style="display:flex;"><span>│  ├── App.vue
-</span></span><span style="display:flex;"><span>│  ├── assets
-</span></span><span style="display:flex;"><span>│  │  └── main.css
-</span></span><span style="display:flex;"><span>│  ├── components
-</span></span><span style="display:flex;"><span>│  └── main.js
-</span></span><span style="display:flex;"><span>├── vite.config.js
-</span></span><span style="display:flex;"><span>└── yarn.lock
-</span></span></code></pre></div><p>In Vue, there are three most important files, <code>index.html</code>, <code>main.js</code> and <code>App.vue</code>. Let&rsquo;s see how the app gets rendered.</p>
-<p>First, like any other website, <code>index.html</code> is the starting point. This is the html server will send to the client. Take look at the file</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span><span style="color:#75715e">&lt;!-- index.html --&gt;</span>
-</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">body</span>&gt;
-</span></span><span style="display:flex;"><span>	&lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">id</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;app&#34;</span>&gt;&lt;/<span style="color:#f92672">div</span>&gt;
-</span></span><span style="display:flex;"><span>	&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;module&#34;</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;/src/main.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
-</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">body</span>&gt;
-</span></span></code></pre></div><p>However, as you can see, there is only one <code>div</code> in the body, and the rest is the <code>script</code> tag to load JS.
-This is because we are drawing the entire application using Javascript, inside that <code>div#app</code>.</p>
-<p>Now, let&rsquo;s see how that happens in <code>main.js</code></p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#75715e">// main.js
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">import</span> { <span style="color:#a6e22e">createApp</span> } <span style="color:#a6e22e">from</span> <span style="color:#e6db74">&#34;vue&#34;</span>
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">import</span> <span style="color:#a6e22e">App</span> <span style="color:#a6e22e">from</span> <span style="color:#e6db74">&#34;./App.vue&#34;</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#a6e22e">createApp</span>(<span style="color:#a6e22e">App</span>).<span style="color:#a6e22e">mount</span>(<span style="color:#e6db74">&#34;#app&#34;</span>)
-</span></span></code></pre></div><p>Here is where Vue is started. <code>createApp</code> is function where Vue application gets initiated. It uses the <code>App.vue</code> file, which is the root of the application. Then, it mounts onto the <code>div#app</code> element we saw in <code>index.html</code>. Thanks to this <code>mount</code> action, we can now use Vue (JS) to draw the page, whilst adding interactive features.</p>
-<p>Now, let&rsquo;s look at our first Vue file.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span><span style="color:#75715e">&lt;!-- App.vue --&gt;</span>
-</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">script</span>&gt;
-</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">export</span> <span style="color:#66d9ef">default</span> {
-</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">mounted</span>() {
-</span></span><span style="display:flex;"><span>			<span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;App mounted&#34;</span>)
-</span></span><span style="display:flex;"><span>		},
-</span></span><span style="display:flex;"><span>	}
-</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">script</span>&gt;
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">template</span>&gt;
-</span></span><span style="display:flex;"><span>	&lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;container&#34;</span>&gt;
-</span></span><span style="display:flex;"><span>		&lt;<span style="color:#f92672">p</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;setup-complete&#34;</span>&gt;Setup Complete&lt;/<span style="color:#f92672">p</span>&gt;
-</span></span><span style="display:flex;"><span>	&lt;/<span style="color:#f92672">div</span>&gt;
-</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">template</span>&gt;
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">style</span> <span style="color:#a6e22e">scoped</span> <span style="color:#a6e22e">lang</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;scss&#34;</span>&gt;
-</span></span><span style="display:flex;"><span>	<span style="color:#f92672">div</span>.<span style="color:#a6e22e">container</span> {
-</span></span><span style="display:flex;"><span>		<span style="color:#66d9ef">display</span>: <span style="color:#66d9ef">flex</span>;
-</span></span><span style="display:flex;"><span>		<span style="color:#66d9ef">justify-content</span>: <span style="color:#66d9ef">center</span>;
-</span></span><span style="display:flex;"><span>		<span style="color:#66d9ef">align-items</span>: <span style="color:#66d9ef">center</span>;
-</span></span><span style="display:flex;"><span>		<span style="color:#66d9ef">height</span>: <span style="color:#ae81ff">100</span><span style="color:#66d9ef">%</span>;
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>		<span style="color:#960050;background-color:#1e0010">p.setup-complete</span> <span style="color:#960050;background-color:#1e0010">{</span>
-</span></span><span style="display:flex;"><span>			<span style="color:#66d9ef">color</span>: <span style="color:#66d9ef">green</span>;
-</span></span><span style="display:flex;"><span>			<span style="color:#66d9ef">font-size</span>: <span style="color:#ae81ff">4</span><span style="color:#66d9ef">rem</span>;
-</span></span><span style="display:flex;"><span>			<span style="color:#66d9ef">font-weight</span>: <span style="color:#ae81ff">600</span>;
-</span></span><span style="display:flex;"><span>		}
-</span></span><span style="display:flex;"><span>	<span style="color:#960050;background-color:#1e0010">}</span>
-</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">style</span>&gt;
-</span></span></code></pre></div><p>There are three sections in Vue files. <code>&lt;script&gt;</code>, <code>&lt;template&gt;</code> and <code>&lt;style&gt;</code>. Each sections are pretty self explanatory.</p>
-<p>Let&rsquo;s begin with the easiest one: <code>&lt;style&gt;</code>. In between <code>&lt;style&gt;</code> tags, we can write CSS like we normally do in css files. However, unlike css files, we can choose different types of css, such as scss or less. All you have to do is to specify the language in lang attribute, and install a loader, which for this project, I&rsquo;ve already done for scss so you don&rsquo;t have to worry about it. Also, you can <code>scope</code> your styles, meaning that the styles you define within this file will not apply to other file&rsquo;s elements, even if they have the same class names. For instance, even if you have a <code>div</code> with class <code>container</code> in other Vue file, it will not apply the styling defined in <code>App.vue</code>.</p>
-<p>Now, onto the template. As you can see, template is where you write your html. You can just write html you&rsquo;re used to. However, as we discuss later, something more than just html is possible here. Later, we will learn how we can mix Javascript and html together in the template section.</p>
-<p>Lastly, the script section. This is where you write your Javascript. This is where you define the attributes and behaviors of this Vue component. You can think this like a controller in Stimulus, or a model in Rails, or mix of both.</p>
-<h2 id="components">Components</h2>
-<p>Now, let&rsquo;s talk about the most important concept in Vue: Components. Components are the building blocks of Vue. You can think of it as a partial in Rails. After you define a component, you can reuse it anywhere in the app.</p>
-<p>Let&rsquo;s think about what components we need in this todo list app.</p>
-]]></content>
-        </item>
-        
-        <item>
             <title>日本にいながらスペインの銀行口座と携帯番号をゲットする方法</title>
-            <link>http://localhost:1313/posts/spain-phone-and-bank/</link>
+            <link>https://ryuichirosuzuki.com/posts/spain-phone-and-bank/</link>
             <pubDate>Tue, 27 Sep 2022 07:46:45 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/spain-phone-and-bank/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/spain-phone-and-bank/</guid>
             <description>&lt;h2 id=&#34;条件&#34;&gt;条件&lt;/h2&gt;
 &lt;h3 id=&#34;銀行口座&#34;&gt;銀行口座&lt;/h3&gt;
 &lt;ul&gt;
@@ -1146,10 +754,10 @@ This is because we are drawing the entire application using Javascript, inside t
         
         <item>
             <title>スペインワーホリビザ取得までの話</title>
-            <link>http://localhost:1313/posts/spain-visa/</link>
+            <link>https://ryuichirosuzuki.com/posts/spain-visa/</link>
             <pubDate>Thu, 22 Sep 2022 02:49:30 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/spain-visa/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/spain-visa/</guid>
             <description>&lt;p&gt;ちょうどフリーランスエンジニアとして、東京でも少しずつ自信がついてきたので、いっそのことどこかに移住してトライして見よう。ということで、バルセロナに引っ越すことにしました。&lt;/p&gt;
 &lt;h2 id=&#34;下準備&#34;&gt;下準備&lt;/h2&gt;
 &lt;p&gt;8 月に大学を卒業するので、準備期間なども含めて、9 月の下旬に飛び立つことを決定。大使館 HP にも書いてあるように、ワーホリビザには、事前に航空券を買っておく必要があります。なので、適当に 9 月頃の一番安いチケットをスカイスキャナーで探し、購入。他にも、行動の計画表や、外国人番号の登録申請書など、とりあえず HP に書けと言われているものはすべて書く。&lt;/p&gt;
@@ -1216,10 +824,10 @@ This is because we are drawing the entire application using Javascript, inside t
         
         <item>
             <title>Rails Github Action exits with code 16</title>
-            <link>http://localhost:1313/posts/rails-github-action-exit-with-code-16/</link>
+            <link>https://ryuichirosuzuki.com/posts/rails-github-action-exit-with-code-16/</link>
             <pubDate>Sun, 18 Sep 2022 16:16:33 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/rails-github-action-exit-with-code-16/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/rails-github-action-exit-with-code-16/</guid>
             <description>&lt;h1 id=&#34;the-issue&#34;&gt;The issue&lt;/h1&gt;
 &lt;p&gt;I have a Rails application that runs on Ruby alpine image. When I was running github actions workflow, it threw an error when installing gems.
 The workflow file is basically the copy of the official Ruby on Rails CI template, which you can easily find from Github Actions tab on any repo.
@@ -1326,10 +934,10 @@ The reason being is that the workflow is running on Ubuntu, instead of Alpine li
         
         <item>
             <title>Alpine Ruby: Can&#39;t load nokogiri</title>
-            <link>http://localhost:1313/posts/alpine-ruby-nokogiri-issue/</link>
+            <link>https://ryuichirosuzuki.com/posts/alpine-ruby-nokogiri-issue/</link>
             <pubDate>Sun, 18 Sep 2022 15:41:36 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/alpine-ruby-nokogiri-issue/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/alpine-ruby-nokogiri-issue/</guid>
             <description>&lt;h1 id=&#34;the-issue&#34;&gt;The issue&lt;/h1&gt;
 &lt;p&gt;I was doing practice of Github workflow by making a basic task app using Rails&lt;/p&gt;
 &lt;p&gt;I was using&lt;/p&gt;
@@ -1365,86 +973,6 @@ Which threw an error like</p>
 <p>It seems that it is based off of the <a href="https://stackoverflow.com/questions/50288034/unsatisfiedlinkerror-tmp-snappy-1-1-4-libsnappyjava-so-error-loading-shared-li">stackoverflow article</a> but tbh, I have no idea why it did the fix.</p>
 <p>I&rsquo;m just noting here so that someone who might have a similar problem can fix it. Or, future me might benefit from it once I remake the Dockerfile for another practice run &#x1f605;</p>
 ]]></content>
-        </item>
-        
-        <item>
-            <title>Cloudinary for Hugo</title>
-            <link>http://localhost:1313/posts/cloudinary-for-hugo/</link>
-            <pubDate>Sat, 13 Aug 2022 10:40:49 +0900</pubDate>
-            
-            <guid>http://localhost:1313/posts/cloudinary-for-hugo/</guid>
-            <description>&lt;h1 id=&#34;what-i-wanted-to-achieve&#34;&gt;What I wanted to achieve&lt;/h1&gt;
-&lt;p&gt;I wanted to make it possible to produce Cloudinary image links by just giving the file name to a shortcode.&lt;/p&gt;
-&lt;h1 id=&#34;setup&#34;&gt;Setup&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;make a submodule in your themes folder&lt;/li&gt;
-&lt;li&gt;add the theme in the theme array in your &lt;code&gt;config.toml&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;theme&lt;/span&gt; = [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;some other theme&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;cl-image&amp;#34;&lt;/span&gt;]
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;add the following to your params portion of &lt;code&gt;config.toml&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;params&lt;/span&gt;]
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;baseURL&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://res.cloudinary.com/&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;# This is the same for everyone&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;cloudName&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;your cloud name&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;# You can check your cloud name from cloudinary console page&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;folderName&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Portfolio&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;# if you want to put collection of pictures into a single folder, write the name of the folder (optional)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;usage&#34;&gt;Usage&lt;/h1&gt;
-&lt;p&gt;The theme adds a shortcode called &lt;code&gt;cl-image&lt;/code&gt;. You can give following arguments&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<h1 id="what-i-wanted-to-achieve">What I wanted to achieve</h1>
-<p>I wanted to make it possible to produce Cloudinary image links by just giving the file name to a shortcode.</p>
-<h1 id="setup">Setup</h1>
-<ol>
-<li>make a submodule in your themes folder</li>
-<li>add the theme in the theme array in your <code>config.toml</code></li>
-</ol>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span><span style="color:#a6e22e">theme</span> = [<span style="color:#e6db74">&#34;some other theme&#34;</span>, <span style="color:#e6db74">&#34;cl-image&#34;</span>]
-</span></span></code></pre></div><ol start="3">
-<li>add the following to your params portion of <code>config.toml</code></li>
-</ol>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[<span style="color:#a6e22e">params</span>]
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">baseURL</span> = <span style="color:#e6db74">&#34;https://res.cloudinary.com/&#34;</span> <span style="color:#75715e"># This is the same for everyone</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">cloudName</span> = <span style="color:#e6db74">&#34;your cloud name&#34;</span> <span style="color:#75715e"># You can check your cloud name from cloudinary console page</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">folderName</span> = <span style="color:#e6db74">&#34;Portfolio&#34;</span> <span style="color:#75715e"># if you want to put collection of pictures into a single folder, write the name of the folder (optional)</span>
-</span></span></code></pre></div><h1 id="usage">Usage</h1>
-<p>The theme adds a shortcode called <code>cl-image</code>. You can give following arguments</p>
-<table>
-  <thead>
-      <tr>
-          <th style="text-align: left">argument</th>
-          <th style="text-align: left">description</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td style="text-align: left">src (required)</td>
-          <td style="text-align: left">this is what is your image called on cloudinary. By default, it can be a gibberish so I advice you to change it to something memorable from the Cloudinary console.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">class</td>
-          <td style="text-align: left">give a string of classes you wish to apply to the <code>img</code> element</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">alt</td>
-          <td style="text-align: left">same with the class</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">style</td>
-          <td style="text-align: left">same the class</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">height</td>
-          <td style="text-align: left">This is the pixel height of the image you give to the <a href="https://cloudinary.com/documentation/transformation_reference#h_height">Cloudinary Transformation URL API</a>. If your original image is too large, it is advised to reduce the size matching how large you are displaying on the website.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">width</td>
-          <td style="text-align: left">same with the height</td>
-      </tr>
-  </tbody>
-</table>
-<h2 id="example">Example</h2>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#75715e">// remove &#39;\&#39;
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>{{<span style="color:#960050;background-color:#1e0010">\</span>&lt; <span style="color:#a6e22e">cl</span><span style="color:#f92672">-</span><span style="color:#a6e22e">image</span> <span style="color:#a6e22e">src</span>=<span style="color:#e6db74">&#34;ski.jpg&#34;</span> <span style="color:#a6e22e">class</span>=<span style="color:#e6db74">&#34;rounded center&#34;</span> <span style="color:#a6e22e">alt</span>=<span style="color:#e6db74">&#34;me in skiing&#34;</span> <span style="color:#a6e22e">height</span>=<span style="color:#e6db74">&#34;600&#34;</span> <span style="color:#a6e22e">style</span>=<span style="color:#e6db74">&#34;min-width: 50%; height: 400px; object-fit: cover;&#34;</span> <span style="color:#960050;background-color:#1e0010">\</span>&gt;}}
-</span></span></code></pre></div>]]></content>
         </item>
         
     </channel>
