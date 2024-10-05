@@ -35,10 +35,6 @@ After the diodes are in place, it's time to move on to the micro controllers. Th
 
 This was a scary part for me since I did not have the pins every Youtube videos or internet tutorials had. I only had a single use pins, which cannot be pulled out after soldering. It got me scared that if I mess this up, the whole board will be a waste, but I made up my mind and soldered it. It worked just fine in the end. All I needed was a courage I guess lol
 
-### Check the solder with metallic tweezers
-
-If you want to make sure
-
 ### Solder the switch sockets
 
 Switch sockets allow you to hot-swap your switches without needing to solder again.
@@ -49,7 +45,7 @@ Once all the soldering is done, use a pair of metallic tweezers to check for any
 
 ### Put the key switches
 
-Now for the final step: putting in the key switches. Take your switches and carefully press them into the switch sockets you soldered earlier. Make sure they're firmly seated and level. Once all switches are in place, you can proceed to add your keycaps.
+Now for the final step: putting in the key switches. Take your switches and carefully press them into the switch sockets you soldered earlier. Make sure they're firmly seated and level. Once all switches are in place, you can proceed to add your key caps.
 
 And there you have it, your very own Lily58 mechanical keyboard! With this new setup, not only do you have a more ergonomic layout, but you also get the satisfaction of having built it yourself.
 

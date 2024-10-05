@@ -33,4 +33,4 @@ What the script does is as follows.
 2. Set the source of that script tag to be the main javascript file that is responsible for creating the widget.
 3. That script would run, and mount the widget onto the `<a>` tag
 
-However, because of turbo, that steps are not followed. When the user reach to the page with the `<script>` tag that should create the main `<script>` tag in the head, that script won't be run because there is not `turbo-reload="false"` attribute.
+However, because of turbo, that steps are not followed. When the user reach to the page with the `<script>` tag that should create the main `<script>` tag in the head, that script won't run because there is not `turbo-reload="false"` attribute.
