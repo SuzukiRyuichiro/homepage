@@ -61,7 +61,7 @@ In the Lily58 set I got from Mechboad.co.uk, it came with two Pro Micro controll
 
 Given that, I realized that many build tutorials and website recommended using some other removable pin headers instead. Some retailers sell those pins on top of the default pins that comes with the controllers.
 
-This realization made me very nervous soldering the controllers, because I knew I would be wasting all that money if I make some mistake. In the end, I made up my mind and soldered everything, and turned out to be completely fine. However, now I don't have any upgradability.
+This realization made me very nervous soldering the controllers, because I knew I would be wasting all that money if I make some mistake. In the end, I made up my mind and soldered everything, and turned out to be completely fine. However, now I don't have any upgradeability.
 
 ### Difference in USB cable can make you feel you fucked up
 
