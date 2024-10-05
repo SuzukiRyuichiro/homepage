@@ -5,7 +5,6 @@ theme = ["mdi", "hello-friend-ng", "cl-image", "devicons"]
 enableEmoji = true
 googleAnalytics = "G-8WDFLLSMBT"
 
-
 [params]
 images = ["/coding-me.jpg"]
 description = "Ryuichiro Suzuki is a Web Developer in Tokyo"

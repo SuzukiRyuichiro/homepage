@@ -4,7 +4,7 @@
     <title>Vue on Ryuichiro Suzuki</title>
     <link>http://localhost:1313/tags/vue/</link>
     <description>Recent content in Vue on Ryuichiro Suzuki</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Dec 2022 15:16:41 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/vue/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/vue-tutorial/</link>
       <pubDate>Fri, 09 Dec 2022 15:16:41 +0100</pubDate>
       <guid>http://localhost:1313/posts/vue-tutorial/</guid>
-      <description>Before we begin What is this? This is a tutorial to get started with VueJS, a most liked Javascript front-end framework on Github. In this tutorial, we will cover the basic concepts of the framework, which can translate to other front-end frameworks, such as React or Angular. You can start your front-end journey from Vue 👍&#xA;What is Vue? VueJS is a Open source Javascript front-end framework which helps you to make interactive single page applications (SPAs).</description>
+      <description>&lt;h1 id=&#34;before-we-begin&#34;&gt;Before we begin&lt;/h1&gt;&#xA;&lt;h2 id=&#34;what-is-this&#34;&gt;What is this?&lt;/h2&gt;&#xA;&lt;p&gt;This is a tutorial to get started with VueJS, a most liked Javascript front-end framework on Github. In this tutorial, we will cover the basic concepts of the framework, which can translate to other front-end frameworks, such as React or Angular. You can start your front-end journey from Vue 👍&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-vue&#34;&gt;What is Vue?&lt;/h2&gt;&#xA;&lt;p&gt;VueJS is a Open source Javascript front-end framework which helps you to make interactive single page applications (SPAs). It is one of the most liked JS framework and there are many companies and applications that are powered by Vue. To raise some examples, Glovo, Gitlab and few other big name companies use this framework, according to &lt;a href=&#34;https://stackshare.io/vue-js&#34;&gt;stack share&lt;/a&gt;. Unlike other popular frameworks, such as Angular and React, Vue is not founded by a big corporation. It is truly open source and the amount of community made Vue extensions are limitless. Another notable pros of Vue is the &lt;a href=&#34;https://vuejs.org/&#34;&gt;well written documentation&lt;/a&gt; with full of examples. If you are ever stuck on a concept or a bug, always check the documentation because it really helps. Enough with what Vue is, lets get started with the tutorial. &lt;span  class=&#34;inline-svg mdi insentence&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; xmlns:xlink=&#34;http://www.w3.org/1999/xlink&#34; version=&#34;1.1&#34; id=&#34;mdi-vuejs&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M2,3H5.5L12,15L18.5,3H22L12,21L2,3M6.5,3H9.5L12,7.58L14.5,3H17.5L12,13.08L6.5,3Z&#34; /&gt;&lt;/svg&gt;&#xA;&lt;/span&gt;&#xA;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
