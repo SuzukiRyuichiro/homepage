@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "shrinkem": "^2.1.1"
+  },
+  "scripts": {
+    "resize": "shrinkem static/posts --size 1200"
+  }
+}
