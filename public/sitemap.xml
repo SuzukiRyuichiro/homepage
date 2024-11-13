@@ -2,108 +2,135 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ryuichirosuzuki.com/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-05-09T01:35:24+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-05-09T01:35:24+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/film/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-05-09T01:35:24+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/travel/</loc>
+    <lastmod>2024-05-09T01:35:24+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/cycling-around-taiwan/</loc>
+    <lastmod>2024-05-09T01:35:24+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/film/</loc>
     <lastmod>2023-12-30T12:12:28+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/posts/first-time-developing-black-and-white-film/</loc>
+    <loc>http://localhost:1313/posts/first-time-developing-black-and-white-film/</loc>
     <lastmod>2023-12-30T12:12:28+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/hobby/</loc>
+    <loc>http://localhost:1313/tags/hobby/</loc>
     <lastmod>2023-12-30T12:12:28+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/photography/</loc>
+    <loc>http://localhost:1313/tags/photography/</loc>
     <lastmod>2023-12-30T12:12:28+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/</loc>
-    <lastmod>2023-12-30T12:12:28+09:00</lastmod>
+    <loc>http://localhost:1313/tags/f1/</loc>
+    <lastmod>2023-09-25T14:19:46+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/spain/</loc>
+    <loc>http://localhost:1313/posts/how-to-get-to-suzuka-from-nagoya/</loc>
+    <lastmod>2023-09-25T14:19:46+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/spain/</loc>
+    <lastmod>2023-09-10T19:23:14+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/bike-stolen-in-spain/</loc>
+    <lastmod>2023-09-10T19:23:14+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%AA/</loc>
+    <lastmod>2023-09-10T19:23:14+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/stolen-in-spain/</loc>
     <lastmod>2023-07-10T13:11:01+02:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/travel/</loc>
-    <lastmod>2023-07-10T13:11:01+02:00</lastmod>
-  </url><url>
-    <loc>https://ryuichirosuzuki.com/posts/stolen-in-spain/</loc>
-    <lastmod>2023-07-10T13:11:01+02:00</lastmod>
-  </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%AA/</loc>
-    <lastmod>2023-07-10T13:11:01+02:00</lastmod>
-  </url><url>
-    <loc>https://ryuichirosuzuki.com/projects/building-lily58/</loc>
+    <loc>http://localhost:1313/projects/building-lily58/</loc>
     <lastmod>2023-06-23T18:51:21+02:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/diy/</loc>
+    <loc>http://localhost:1313/tags/diy/</loc>
     <lastmod>2023-06-23T18:51:21+02:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/keyboard/</loc>
+    <loc>http://localhost:1313/tags/keyboard/</loc>
     <lastmod>2023-06-23T18:51:21+02:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2023-06-23T18:51:21+02:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/posts/getting-robbed-in-mexico/</loc>
+    <loc>http://localhost:1313/posts/getting-robbed-in-mexico/</loc>
     <lastmod>2023-04-23T05:14:21-06:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2023-04-09T10:09:32+02:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/projects/hugo-devicon/</loc>
+    <loc>http://localhost:1313/projects/hugo-devicon/</loc>
     <lastmod>2023-04-09T10:09:32+02:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/posts/south-africa-trip/</loc>
+    <loc>http://localhost:1313/posts/pinit-js-not-working-in-rails/</loc>
+    <lastmod>2023-03-29T20:16:31+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rails/</loc>
+    <lastmod>2023-03-29T20:16:31+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/south-africa-trip/</loc>
     <lastmod>2023-02-02T12:11:10+02:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/posts/getting-tie/</loc>
+    <loc>http://localhost:1313/posts/getting-tie/</loc>
     <lastmod>2023-01-05T18:42:16+01:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/posts/getting-a-job-in-spain/</loc>
+    <loc>http://localhost:1313/posts/getting-a-job-in-spain/</loc>
     <lastmod>2022-12-28T15:31:23+01:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/projects/hugo-cl-shortcode/</loc>
+    <loc>http://localhost:1313/tags/tutorial/</loc>
+    <lastmod>2022-12-09T15:16:41+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vue/</loc>
+    <lastmod>2022-12-09T15:16:41+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/vue-tutorial/</loc>
+    <lastmod>2022-12-09T15:16:41+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/hugo-cl-shortcode/</loc>
     <lastmod>2022-10-13T21:40:51+02:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/posts/spain-phone-and-bank/</loc>
+    <loc>http://localhost:1313/posts/spain-phone-and-bank/</loc>
     <lastmod>2022-09-27T07:46:45+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/posts/spain-visa/</loc>
+    <loc>http://localhost:1313/posts/spain-visa/</loc>
     <lastmod>2022-09-22T02:49:30+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/docker/</loc>
+    <loc>http://localhost:1313/tags/docker/</loc>
     <lastmod>2022-09-18T16:16:33+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/github/</loc>
+    <loc>http://localhost:1313/tags/github/</loc>
     <lastmod>2022-09-18T16:16:33+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/github-actions/</loc>
+    <loc>http://localhost:1313/tags/github-actions/</loc>
     <lastmod>2022-09-18T16:16:33+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/rails/</loc>
+    <loc>http://localhost:1313/posts/rails-github-action-exit-with-code-16/</loc>
     <lastmod>2022-09-18T16:16:33+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/posts/rails-github-action-exit-with-code-16/</loc>
-    <lastmod>2022-09-18T16:16:33+09:00</lastmod>
-  </url><url>
-    <loc>https://ryuichirosuzuki.com/posts/alpine-ruby-nokogiri-issue/</loc>
+    <loc>http://localhost:1313/posts/alpine-ruby-nokogiri-issue/</loc>
     <lastmod>2022-09-18T15:41:36+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/nokogiri/</loc>
+    <loc>http://localhost:1313/tags/nokogiri/</loc>
     <lastmod>2022-09-18T15:41:36+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/tags/ruby/</loc>
+    <loc>http://localhost:1313/tags/ruby/</loc>
     <lastmod>2022-09-18T15:41:36+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/resume/</loc>
+    <loc>http://localhost:1313/resume/</loc>
     <lastmod>2022-08-17T15:23:24+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2022-08-17T15:04:21+09:00</lastmod>
   </url><url>
-    <loc>https://ryuichirosuzuki.com/categories/</loc>
+    <loc>http://localhost:1313/posts/cloudinary-for-hugo/</loc>
+    <lastmod>2022-08-13T10:40:49+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

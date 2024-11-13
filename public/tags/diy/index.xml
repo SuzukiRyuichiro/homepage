@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DIY on Ryuichiro Suzuki</title>
-    <link>https://ryuichirosuzuki.com/tags/diy/</link>
+    <link>http://localhost:1313/tags/diy/</link>
     <description>Recent content in DIY on Ryuichiro Suzuki</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Jun 2023 18:51:21 +0200</lastBuildDate>
-    <atom:link href="https://ryuichirosuzuki.com/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/diy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building Lily58</title>
-      <link>https://ryuichirosuzuki.com/projects/building-lily58/</link>
+      <link>http://localhost:1313/projects/building-lily58/</link>
       <pubDate>Fri, 23 Jun 2023 18:51:21 +0200</pubDate>
-      <guid>https://ryuichirosuzuki.com/projects/building-lily58/</guid>
+      <guid>http://localhost:1313/projects/building-lily58/</guid>
       <description>&lt;h2 id=&#34;my-first-diy-keyboard-build&#34;&gt;My first DIY keyboard build&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been looking into ergonomic mechanical keyboards for a while, and I finally made one. I chose Lily58 since it seemed to be not too far from the normal keyboard layout while having a lot of thumb keys, which is what I wanted. I heavily use keyboard shortcuts while working, and this layout looked promising.&lt;/p&gt;&#xA;&lt;p&gt;I got the keyboard set that is not pre-assembled, as I wanted to keep it under budget and also enjoy the challenge of soldering all the switches and diodes. Trust me, it was a lot of fun.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nokogiri on Ryuichiro Suzuki</title>
-    <link>https://ryuichirosuzuki.com/tags/nokogiri/</link>
+    <link>http://localhost:1313/tags/nokogiri/</link>
     <description>Recent content in Nokogiri on Ryuichiro Suzuki</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Sep 2022 15:41:36 +0900</lastBuildDate>
-    <atom:link href="https://ryuichirosuzuki.com/tags/nokogiri/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/nokogiri/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alpine Ruby: Can&#39;t load nokogiri</title>
-      <link>https://ryuichirosuzuki.com/posts/alpine-ruby-nokogiri-issue/</link>
+      <link>http://localhost:1313/posts/alpine-ruby-nokogiri-issue/</link>
       <pubDate>Sun, 18 Sep 2022 15:41:36 +0900</pubDate>
-      <guid>https://ryuichirosuzuki.com/posts/alpine-ruby-nokogiri-issue/</guid>
+      <guid>http://localhost:1313/posts/alpine-ruby-nokogiri-issue/</guid>
       <description>&lt;h1 id=&#34;the-issue&#34;&gt;The issue&lt;/h1&gt;&#xA;&lt;p&gt;I was doing practice of Github workflow by making a basic task app using Rails&lt;/p&gt;&#xA;&lt;p&gt;I was using&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ruby:3.1.2-alpine3.14 (for the base image)&lt;/li&gt;&#xA;&lt;li&gt;Rails 7.0.4&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Initially, everything was going smoothly but once I shut down the computer one day and came to work on it again, I started getting error from Nokogiri every time I try to &lt;code&gt;bundle install&lt;/code&gt; in the container.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Gem::Ext::BuildError: ERROR: Failed to build gem native extension.&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;the-fix&#34;&gt;The fix&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve tried a few things but the one solved the problem was adding&lt;/p&gt;</description>
     </item>
   </channel>
