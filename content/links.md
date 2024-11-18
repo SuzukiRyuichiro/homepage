@@ -1,7 +1,7 @@
 ---
 title: "Links"
 date: 2024-11-19T02:28:47+09:00
-draft: true
+draft: false
 ---
 
 ## Me
