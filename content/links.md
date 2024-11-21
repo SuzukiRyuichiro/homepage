@@ -12,5 +12,5 @@ draft: false
 ## Rent a bike Tokyo
 
 - [Rent a bike Tokyo](https://rent-a-bike.tokyo/)
-- [Instagram]](https://www.instagram.com/rent_a_bike_tokyo/)
+- [Instagram](https://www.instagram.com/rent_a_bike_tokyo/)
 - [Twitter](https://x.com/rentabike_tokyo)
