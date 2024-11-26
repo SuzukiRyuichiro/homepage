@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Ryuichiro Suzuki</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://ryuichirosuzuki.com/posts/</link>
         <description>Recent content in Posts on Ryuichiro Suzuki</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Thu, 09 May 2024 01:35:24 +0900</lastBuildDate>
-        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ryuichirosuzuki.com/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>八日間で台湾一周自転車の旅</title>
-            <link>http://localhost:1313/posts/cycling-around-taiwan/</link>
+            <link>https://ryuichirosuzuki.com/posts/cycling-around-taiwan/</link>
             <pubDate>Thu, 09 May 2024 01:35:24 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/cycling-around-taiwan/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/cycling-around-taiwan/</guid>
             <description>&lt;h2 id=&#34;装備&#34;&gt;装備&lt;/h2&gt;
 &lt;h3 id=&#34;自転車&#34;&gt;自転車&lt;/h3&gt;
 &lt;p&gt;自転車は自分のを持っていこうとも考えましたが、台北の Giant ストアで台湾一周用のレンタル自転車プランが有ると現地の友人が教えてくれたので、煩雑さを考えてもそちらの方が便利かと思いレンタルを選びました。レンタル代は 8 泊 9 日でも日本円で 1,8000 円とかなりレンタル自転車にしては手頃な価格でした。自転車自体は、ジャイアントの XXX というシリーズのクロスバイクで、車体自体は少し使用感がありましたが、さすが旗艦店で整備されているだけあって、シフトチェンジもスムーズにできますし、ブレーキの効きなんかも申し分ないクオリティに仕上がっていました。ペダルはフラットでしたが、その場でシマノのバインディングペダルにを購入して変えてもらいました。&lt;/p&gt;
@@ -141,10 +141,10 @@
         
         <item>
             <title>First Time Developing Black and White Film</title>
-            <link>http://localhost:1313/posts/first-time-developing-black-and-white-film/</link>
+            <link>https://ryuichirosuzuki.com/posts/first-time-developing-black-and-white-film/</link>
             <pubDate>Sat, 30 Dec 2023 12:12:28 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/first-time-developing-black-and-white-film/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/first-time-developing-black-and-white-film/</guid>
             <description>&lt;h2 id=&#34;film-development-in-japan-is-getting-worse-and-more-expensive&#34;&gt;Film development in Japan is getting worse and more expensive&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;ve been developing film with mostly Kitamura, one of the biggest photo printing chain in Japan. Many stores in Tokyo have in-store developer and scanner and they would develop, scan and give you a QR code from which you can download the results. I used to like the quality and how easy it is to use. However, I&amp;rsquo;ve noticed that recently, they increased the price for a higher quality scan, and they made the cheaper scanning option&amp;rsquo;s quality so low. Also, the scans had too much contrast most of the times. On top of that, they usually can do C41 in 2~4 hours but when you ask for B&amp;amp;W, they tell you that they have to send it to a factory and develop it there, hence the time it takes bumps up to 2+ weeks.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<h2 id="film-development-in-japan-is-getting-worse-and-more-expensive">Film development in Japan is getting worse and more expensive</h2>
@@ -283,11 +283,11 @@
         
         <item>
             <title>How to get to Suzuka Circuit from Nagoya on a train</title>
-            <link>http://localhost:1313/posts/how-to-get-to-suzuka-from-nagoya/</link>
+            <link>https://ryuichirosuzuki.com/posts/how-to-get-to-suzuka-from-nagoya/</link>
             <pubDate>Mon, 25 Sep 2023 14:19:46 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/how-to-get-to-suzuka-from-nagoya/</guid>
-            <description>&lt;img src=&#34;http://localhost:1313/posts/how-to-get-to-suzuka-from-nagoya/header.jpg&#34;  alt=&#34;Suzuka Circuit&#34;  class=&#34;center &#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+            <guid>https://ryuichirosuzuki.com/posts/how-to-get-to-suzuka-from-nagoya/</guid>
+            <description>&lt;img src=&#34;https://ryuichirosuzuki.com/posts/how-to-get-to-suzuka-from-nagoya/header.jpg&#34;  alt=&#34;Suzuka Circuit&#34;  class=&#34;center &#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
 
 
 &lt;p&gt;Given the recent increase in the popularity of Formula 1, there are plenty of non-Japanese speakers visiting the Formula 1 Japanese Grand Prix in Suzuka. This year, I went for the first time, but it was hard to figure out how to get to the circuit, and where to get the ticket from online resources. It was confusing even to me, a fluent Japanese speaker, so it must be more confusing for people visiting from abroad. In this blog, I will try my best to list all possible way to get to the circuit from Nagoya, which is one of the closest major cities where many other fans and media personnel stay. Many people choose Nagoya since any hotels closer to the circuit are fully booked even before the tickets goes on sale 🤯 Also, I will list some other possible solutions which I might want to try in the coming years if I ever visit again.&lt;/p&gt;</description>
@@ -365,10 +365,10 @@
         
         <item>
             <title>バルセロナでロードバイクを盗まれた話</title>
-            <link>http://localhost:1313/posts/bike-stolen-in-spain/</link>
+            <link>https://ryuichirosuzuki.com/posts/bike-stolen-in-spain/</link>
             <pubDate>Sun, 10 Sep 2023 19:23:14 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/bike-stolen-in-spain/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/bike-stolen-in-spain/</guid>
             <description>&lt;h2 id=&#34;白昼堂々自転車を盗まれた&#34;&gt;白昼堂々、自転車を盗まれた&lt;/h2&gt;
 &lt;p&gt;またも盗難に遭いました。今度は自転車です。&lt;/p&gt;
 &lt;p&gt;ワーホリで一年間バルセロナに住んでいるのですが、僕の中で一番の大きな転換点はエレベーターのあるピソに引っ越して、自転車をゲットしたことです。メトロやバスで十分足りる街ではありますが、自転車が自分のバルセロナ生活を何倍も楽しいものにしてくれたと思います。バルセロナに引っ越した当初は、エレベーターなしの 4 階のピソだったため、必然的にメトロに頼り切っていましたが、ずっと地下に居るだけで、特に移動を楽しいと思うことはありませんでした。ですが、自転車を手に入れてから、行動範囲や自由度が格段と上がったのは言うまでもなく、太陽の光を浴びながら移動できることが何よりも嬉しく、通勤や友人の家に遊びに行くのが楽しく思えるようになったのを鮮明に記憶しています。毎朝、仕事に向かうために Diagonal を駆け抜けるだけでも、この街に来てよかったと思わせてくれました。&lt;/p&gt;
@@ -376,7 +376,7 @@
 自分は街のカフェなどでいつも仕事をしていたのですが、その日はお気に入りのフォカッチャのチェーン店、Buenas Migas の行ったことの無い店舗に行ってみようと、前々から目につけていた &lt;a href=&#34;https://cafeandcowork.com/barcelona/buenas-migas-diagonal/&#34;&gt;Diagonal 沿いにある大きな店舗&lt;/a&gt;に向かいました。自転車は Diagonal 沿いの歩道にあるバイクラックに、4 桁の暗証番号式の太いチェーンロックをフレームと車輪を通して地球ロックをしたのを覚えています。平日でしたが、いい天気で人通りも多かったです。&lt;/p&gt;
 &lt;p&gt;Buenas Migas の店舗は広く、WiFi も速いので、仕事をするために長居するには最適の場所です。お昼過ぎから 5 時間くらい作業をしていました。作業が終わり外に出て、バイクラックに近寄ると、自分の自転車が見当たらず、「やられた」と思いました。停めていた所に行くと、チェーンロックだけが暗証番号のところで切られて落ちていました。&lt;/p&gt;
 
-    &lt;img src=&#34;http://localhost:1313/posts/bike-stolen-in-spain/chain-cut.jpg&#34;  alt=&#34;Bike chain cut and left there&#34;  class=&#34;center &#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+    &lt;img src=&#34;https://ryuichirosuzuki.com/posts/bike-stolen-in-spain/chain-cut.jpg&#34;  alt=&#34;Bike chain cut and left there&#34;  class=&#34;center &#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
 
 
 &lt;p&gt;少しパニックになり、友人達に電話をしてどうするか助言をもらい、取り敢えず、近くの警察署に行くことにしました。そしたら見事お休みでした。平日にやってない警察署って何なんでしょう。スペインのお役所に再度失望しつつ、サドルの下に Anker のタグをガムテープで着けていたことを思い出しました。iPad で場所を確認すると、Diagonal の一番端の Westfield の近くで止まって居ることを確認できました。急いで Bicing を使って現場近くまで行きました。実際にタグが反応している所であたりを探しまわっても、自分の自転車は見つからず、遠隔で音を鳴らそうとしても繋がらず、音が鳴ることはありませんでした。純正品では無いの上、iPhone ユーザーではないので、U1 チップを使った方向をピンポイントで探し当てる事もできず、もしかしたらこの辺りでタグの存在に気づいてゴミ箱に捨てたか、通り沿いの建物の中に入ったのかと思い、諦めて帰りました。&lt;/p&gt;
@@ -414,10 +414,10 @@
         
         <item>
             <title>スペインで携帯を盗まれて、殺されかけた話</title>
-            <link>http://localhost:1313/posts/stolen-in-spain/</link>
+            <link>https://ryuichirosuzuki.com/posts/stolen-in-spain/</link>
             <pubDate>Mon, 10 Jul 2023 13:11:01 +0200</pubDate>
             
-            <guid>http://localhost:1313/posts/stolen-in-spain/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/stolen-in-spain/</guid>
             <description>&lt;img src=&#34;https://res.cloudinary.com/scooter-scooter/image/upload/Portfolio/malaga/martin.jpg&#34;
      class=&#34;rounded center&#34; 
     alt=&#34;Martin Garrix concert&#34; &gt;
@@ -428,7 +428,7 @@
 &lt;h2 id=&#34;マラガでスマホを強奪された&#34;&gt;マラガでスマホを強奪された&lt;/h2&gt;
 &lt;p&gt;を使って、EDM コンサートを観るためにマラガまで行きました。コンサート会場は、マラガ市内から電車で 40 分ほど離れたリゾートタウンにあり、チケット購入時には一人旅向けの手頃な宿泊施設はすでに満室でした。本当は会場近くに泊まりたかったものの、コンサートは朝 2 時までの予定で、始発も 6 時にはあるので、朝帰りで大丈夫だろうと判断し、マラガ市内のホステルを予約しました。&lt;/p&gt;
 &lt;p&gt;予定通り、2 時にコンサートが終わり、ゆっくり駅まで海岸沿いを歩きながら適当に時間を潰してから、4 時ころに駅前に着きました。そこに行くまでの途中で、喧嘩がヒートアップして、ある男性が女性をビーチに降りるスロープから突き落とす瞬間を目撃し、少し雰囲気は戦々恐々としていました。とりあえず、駅の入口が開くまで何もやることは無いので、通り沿いにあるベンチにポツリと座って携帯で YouTube を観ていました。&lt;/p&gt;
-&lt;p&gt;そうしていたら、突然、横から歩いてきた男が僕の手から携帯をもぎ取り、目の前の裏路地に逃げていきました。一瞬何が起きたか処理が追いつきませんでしたが、携帯を強奪された事を理解し、本能的に追いかけました。&lt;a href=&#34;http://localhost:1313/posts/getting-robbed-in-mexico&#34;&gt;以前のブログ&lt;/a&gt;に書いたように、その 2 ヶ月前に、メキシコシティで携帯を盗まれたばかりなので、その際に持っていた携帯は、買って間もない新品同様のデバイスでした。その事が頭をよぎり、絶対に取り返してやるという思いで追いかけました。&lt;/p&gt;
+&lt;p&gt;そうしていたら、突然、横から歩いてきた男が僕の手から携帯をもぎ取り、目の前の裏路地に逃げていきました。一瞬何が起きたか処理が追いつきませんでしたが、携帯を強奪された事を理解し、本能的に追いかけました。&lt;a href=&#34;https://ryuichirosuzuki.com/posts/getting-robbed-in-mexico&#34;&gt;以前のブログ&lt;/a&gt;に書いたように、その 2 ヶ月前に、メキシコシティで携帯を盗まれたばかりなので、その際に持っていた携帯は、買って間もない新品同様のデバイスでした。その事が頭をよぎり、絶対に取り返してやるという思いで追いかけました。&lt;/p&gt;
 &lt;p&gt;犯人がトロかったのが幸い？して、数週間前に自転車事故で左足を捻挫している身ながら、50m 程ですぐに追いつきました。彼の腕を掴んで、英語しか出てこなかったので、&amp;ldquo;You fucking give that back to me&amp;quot;と言ったら、彼が振りかぶって僕の顔にサイドフックを一発。そこまで強いパンチではなかったので、痛さはさほどありませんでしたが、小学生の頃、父親に叩かれて以来、本気の暴力を受けたのは初めてだったので、かなり驚きました。驚いてる暇も無く、二発目のフックが顔に着弾。そして、僕が少しよろけたところを、彼が僕の首に腕を回し、チョークホールドを受けました。苦しいと思っていたら、気を失い、地面に倒れ込みました。&lt;/p&gt;
 &lt;p&gt;彼は僕が気を失ったのを見計らって、僕を開放し更に逃走。地面に倒れ込んだ僕は、気を失っていたものの、失ったのはほんの 1,2 秒の話。すぐに意識を取り戻し、一瞬、夢でも観ていたんだっけ？という気分になりましたが、携帯を盗まれていたことをすぐに思い出し、立ち上がって彼の逃げていった方に走り出しました。朝の 4 時の田舎町の裏路地なんで、人っ子一人いませんが、遠目にカップルがいたので、走りながら声をかけるも無視。がむしゃらに犯人を見失わないように追いかけ続けました。そうすると、彼がある分かれ道を右に曲がると、その先は行き止まり。そこで再度追い詰め、今度も彼を掴み、本当に警察には言わないから携帯だけ返してくれと懇願。行き止まりで再度捕まったことからなのか、彼も少し「またやったろか」みたいな構えを見せたものの、まだ盗人の日が浅く、やり切る強さがないのかは知りませんが、手渡しで携帯を返してくれました。&lt;/p&gt;
 &lt;p&gt;携帯は失わずに済みましたが、チョークホールドを食らったことから、首の痛みが一週間ほど残りました。更に痛手だったのが、サイドフックを食らった際に、つけていた完全ワイヤレスのイヤホンを両方落としたようで、ホテルに帰るまでそれに気づかず、徹夜をした＋強盗に遭った直後だったので、取りに戻る気力もなく、€150 程したお気に入りの品ではありましたが、諦めました。&lt;/p&gt;
@@ -511,12 +511,12 @@
         
         <item>
             <title>メキシコ初日からスられた</title>
-            <link>http://localhost:1313/posts/getting-robbed-in-mexico/</link>
+            <link>https://ryuichirosuzuki.com/posts/getting-robbed-in-mexico/</link>
             <pubDate>Sun, 23 Apr 2023 05:14:21 -0600</pubDate>
             
-            <guid>http://localhost:1313/posts/getting-robbed-in-mexico/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/getting-robbed-in-mexico/</guid>
             <description>&lt;p&gt;メキシコに旅行に来た初日から携帯をスられました。今後のためにも、もっとうまく立ち回れたと思えることを綴って、次につなげようと思います。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/posts/getting-robbed-in-mexico/me.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;https://ryuichirosuzuki.com/posts/getting-robbed-in-mexico/me.jpg&#34;
     alt=&#34;スられた直後&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;スられた直後&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -529,7 +529,7 @@
 &lt;p&gt;すぐに近くにいる警察官には言いましたが、僕も、find my device は後述するようにできないし、Fitbit からの呼び出しは遠いのか電源が切れてるのかつながらないし、どこに行ったのかなんて人の多さでは絶対に無理ですね。警察も一応適当にそこら辺に居た人のかばんを探ったりはしてくれましたけど、そんな近場に犯人がいるわけが無く、数分後には、「どんまい」という顔をして去っていきました。&lt;/p&gt;
 &lt;h2 id=&#34;心構えの反省点&#34;&gt;心構えの反省点&lt;/h2&gt;
 &lt;h3 id=&#34;調子に乗っていた&#34;&gt;調子に乗っていた&lt;/h3&gt;
-&lt;p&gt;渡航する前に、メキシコシティの犯罪の多さを世界のランキングなどで見ていました。ですが、メキシコシティがつい一ヶ月ほど前まで居たケープタウンと同列くらいと言うことで、かなり高をくくっていました。実際、ケープタウンでは&lt;a href=&#34;http://localhost:1313/posts/south-africa-trip/#%E6%B2%BB%E5%AE%89-&#34;&gt;同僚二人がガッツリ窃盗に遭うのを横で見ていましたが&lt;/a&gt;、自分は安全に事なきを得たので、余裕こいてました。&lt;/p&gt;
+&lt;p&gt;渡航する前に、メキシコシティの犯罪の多さを世界のランキングなどで見ていました。ですが、メキシコシティがつい一ヶ月ほど前まで居たケープタウンと同列くらいと言うことで、かなり高をくくっていました。実際、ケープタウンでは&lt;a href=&#34;https://ryuichirosuzuki.com/posts/south-africa-trip/#%E6%B2%BB%E5%AE%89-&#34;&gt;同僚二人がガッツリ窃盗に遭うのを横で見ていましたが&lt;/a&gt;、自分は安全に事なきを得たので、余裕こいてました。&lt;/p&gt;
 &lt;h3 id=&#34;浮かれていた&#34;&gt;浮かれていた&lt;/h3&gt;
 &lt;p&gt;初めての国に来たということと、ここ数ヶ月やってきたスペイン語が通じること、など、午前中の時点で少し浮かれているフシがありました。スポーツイベント自体は大好きだし、完全に身の回りのことを忘れていました。こういった油断は禁物ですね。&lt;/p&gt;
 &lt;h3 id=&#34;焦っていた&#34;&gt;焦っていた&lt;/h3&gt;
@@ -581,10 +581,10 @@
         
         <item>
             <title>pinit.js Not Working in Rails 7</title>
-            <link>http://localhost:1313/posts/pinit-js-not-working-in-rails/</link>
+            <link>https://ryuichirosuzuki.com/posts/pinit-js-not-working-in-rails/</link>
             <pubDate>Wed, 29 Mar 2023 20:16:31 +0200</pubDate>
             
-            <guid>http://localhost:1313/posts/pinit-js-not-working-in-rails/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/pinit-js-not-working-in-rails/</guid>
             <description>&lt;h2 id=&#34;the-problem&#34;&gt;The problem&lt;/h2&gt;
 &lt;p&gt;In the coding boot camp I teach at, one of the students was using a Pinterest&amp;rsquo;s widget for their final project. However, they had an issue where the widget wouldn&amp;rsquo;t show up on their page if the page was reached through clicking on a link within the app. However, it would show up if they reloaded the page.&lt;/p&gt;
 &lt;h2 id=&#34;the-cause&#34;&gt;The cause&lt;/h2&gt;
@@ -613,10 +613,10 @@
         
         <item>
             <title>ケープタウンに行った話🇿🇦</title>
-            <link>http://localhost:1313/posts/south-africa-trip/</link>
+            <link>https://ryuichirosuzuki.com/posts/south-africa-trip/</link>
             <pubDate>Thu, 02 Feb 2023 12:11:10 +0200</pubDate>
             
-            <guid>http://localhost:1313/posts/south-africa-trip/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/south-africa-trip/</guid>
             <description>&lt;img src=&#34;https://res.cloudinary.com/scooter-scooter/image/upload/Portfolio/cape-town/header.jpg&#34;
      class=&#34;rounded center&#34; 
     alt=&#34;ocean and a mountain&#34; &gt;
@@ -796,21 +796,21 @@
         
         <item>
             <title>TIEの申請に2回もしくじった話</title>
-            <link>http://localhost:1313/posts/getting-tie/</link>
+            <link>https://ryuichirosuzuki.com/posts/getting-tie/</link>
             <pubDate>Thu, 05 Jan 2023 18:42:16 +0100</pubDate>
             
-            <guid>http://localhost:1313/posts/getting-tie/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/getting-tie/</guid>
             <description>&lt;h2 id=&#34;アポイントメントの予約&#34;&gt;アポイントメントの予約&lt;/h2&gt;
 &lt;h3 id=&#34;リンク切れ&#34;&gt;リンク切れ&lt;/h3&gt;
 &lt;p&gt;TIE の申込みをするのには、警察に行く必要があります。そのためには、事前に予約を取らなければいけません。その情報はどんな How to サイトにも書いてあるのですが、うざいのが、全てにおいて「ここで申し込むんだよ」っていうリンクが切れているということです。リンクが &lt;a href=&#34;https://sede.administracionespublicas.gob.es/icpplustieb/index.html&#34;&gt;https://sede.administracionespublicas.gob.es/icpplustieb/index.html&lt;/a&gt; から &lt;a href=&#34;https://icp.administracionelectronica.gob.es/icpplus/index.html&#34;&gt;https://icp.administracionelectronica.gob.es/icpplus/index.html&lt;/a&gt; に移動したらしく、役所のページの殆どのハイパーリンクがアップデートされてないようです。リダイレクトくらいできただろと思いますが、そこはお役所仕事なのでしょう 🤷‍♀️&lt;/p&gt;
 &lt;h3 id=&#34;クソ-ui&#34;&gt;クソ UI&lt;/h3&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/posts/getting-tie/shit-ui.png&#34;&gt;&lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ryuichirosuzuki.com/posts/getting-tie/shit-ui.png&#34;&gt;&lt;figcaption&gt;
       &lt;h4&gt;TIEの予約画面&lt;/h4&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;面接の予約サイトが、誰が考えた UI なんだってくらいゴミです。自分が住んでいる県を選んだ後に、どのオフィスで予約をしたいか選ぶのですが、住所のドロップダウンしか無いというなんとも酷い仕様になっています。どのオフィスが近いのか、一々マップで検索しながら選ぶ必要があるので、とても面倒くさいです。近いオフィスを選んでも、色々と入力させた挙げ句、枠がいっぱいだとエラーになり、最初からやり直しになります 🤬&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/posts/getting-tie/spot-full.png&#34;&gt;&lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ryuichirosuzuki.com/posts/getting-tie/spot-full.png&#34;&gt;&lt;figcaption&gt;
       &lt;h4&gt;名前とか一生懸命入力させるくせに、いっぱいだとエラー&lt;/h4&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -898,10 +898,10 @@
         
         <item>
             <title>スペインにワーホリビザで来て、エンジニア就活をした話</title>
-            <link>http://localhost:1313/posts/getting-a-job-in-spain/</link>
+            <link>https://ryuichirosuzuki.com/posts/getting-a-job-in-spain/</link>
             <pubDate>Wed, 28 Dec 2022 15:31:23 +0100</pubDate>
             
-            <guid>http://localhost:1313/posts/getting-a-job-in-spain/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/getting-a-job-in-spain/</guid>
             <description>&lt;h2 id=&#34;はじめに&#34;&gt;はじめに&lt;/h2&gt;
 &lt;p&gt;ワーホリビザで 2022 年の 9 月末にバルセロナに来ました。自分の目標としては、こっちでフルタイムのオファーを貰って、あわよくば就労ビザなりをゲットすること。そんな目標を持って、就活を始めました。この記事では、就活の流れや、何をしたかを書いていきます。ネットを調べても、あまり経験談などを見ないので、自分の備忘録も兼ねて、もし同じことを考えている人の助けになればと思い、書きました。&lt;/p&gt;
 &lt;h2 id=&#34;自己紹介&#34;&gt;自己紹介&lt;/h2&gt;
@@ -962,10 +962,10 @@ I hope we stay in touch though and when we have more possibilities, we can coope
         
         <item>
             <title>Vue Tutorial</title>
-            <link>http://localhost:1313/posts/vue-tutorial/</link>
+            <link>https://ryuichirosuzuki.com/posts/vue-tutorial/</link>
             <pubDate>Fri, 09 Dec 2022 15:16:41 +0100</pubDate>
             
-            <guid>http://localhost:1313/posts/vue-tutorial/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/vue-tutorial/</guid>
             <description>&lt;h1 id=&#34;before-we-begin&#34;&gt;Before we begin&lt;/h1&gt;
 &lt;h2 id=&#34;what-is-this&#34;&gt;What is this?&lt;/h2&gt;
 &lt;p&gt;This is a tutorial to get started with VueJS, a most liked Javascript front-end framework on Github. In this tutorial, we will cover the basic concepts of the framework, which can translate to other front-end frameworks, such as React or Angular. You can start your front-end journey from Vue 👍&lt;/p&gt;
@@ -1074,10 +1074,10 @@ This is because we are drawing the entire application using Javascript, inside t
         
         <item>
             <title>日本にいながらスペインの銀行口座と携帯番号をゲットする方法</title>
-            <link>http://localhost:1313/posts/spain-phone-and-bank/</link>
+            <link>https://ryuichirosuzuki.com/posts/spain-phone-and-bank/</link>
             <pubDate>Tue, 27 Sep 2022 07:46:45 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/spain-phone-and-bank/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/spain-phone-and-bank/</guid>
             <description>&lt;h2 id=&#34;契約に必要だったもの&#34;&gt;契約に必要だったもの&lt;/h2&gt;
 &lt;h3 id=&#34;銀行口座&#34;&gt;銀行口座&lt;/h3&gt;
 &lt;ul&gt;
@@ -1167,10 +1167,10 @@ This is because we are drawing the entire application using Javascript, inside t
         
         <item>
             <title>スペインワーホリビザ取得までの話</title>
-            <link>http://localhost:1313/posts/spain-visa/</link>
+            <link>https://ryuichirosuzuki.com/posts/spain-visa/</link>
             <pubDate>Thu, 22 Sep 2022 02:49:30 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/spain-visa/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/spain-visa/</guid>
             <description>&lt;p&gt;ちょうどフリーランスエンジニアとして、東京でも少しずつ自信がついてきたので、いっそのことどこかに移住してトライして見よう。ということで、バルセロナに引っ越すことにしました。&lt;/p&gt;
 &lt;h2 id=&#34;下準備&#34;&gt;下準備&lt;/h2&gt;
 &lt;p&gt;8 月に大学を卒業するので、準備期間なども含めて、9 月の下旬に飛び立つことを決定。大使館 HP にも書いてあるように、ワーホリビザには、事前に航空券を買っておく必要があります。なので、適当に 9 月頃の一番安いチケットをスカイスキャナーで探し、購入。他にも、行動の計画表や、外国人番号の登録申請書など、とりあえず HP に書けと言われているものはすべて書く。&lt;/p&gt;
@@ -1237,10 +1237,10 @@ This is because we are drawing the entire application using Javascript, inside t
         
         <item>
             <title>Rails Github Action exits with code 16</title>
-            <link>http://localhost:1313/posts/rails-github-action-exit-with-code-16/</link>
+            <link>https://ryuichirosuzuki.com/posts/rails-github-action-exit-with-code-16/</link>
             <pubDate>Sun, 18 Sep 2022 16:16:33 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/rails-github-action-exit-with-code-16/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/rails-github-action-exit-with-code-16/</guid>
             <description>&lt;h1 id=&#34;the-issue&#34;&gt;The issue&lt;/h1&gt;
 &lt;p&gt;I have a Rails application that runs on Ruby alpine image. When I was running github actions workflow, it threw an error when installing gems.
 The workflow file is basically the copy of the official Ruby on Rails CI template, which you can easily find from Github Actions tab on any repo.
@@ -1347,10 +1347,10 @@ The reason being is that the workflow is running on Ubuntu, instead of Alpine li
         
         <item>
             <title>Alpine Ruby: Can&#39;t load nokogiri</title>
-            <link>http://localhost:1313/posts/alpine-ruby-nokogiri-issue/</link>
+            <link>https://ryuichirosuzuki.com/posts/alpine-ruby-nokogiri-issue/</link>
             <pubDate>Sun, 18 Sep 2022 15:41:36 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/alpine-ruby-nokogiri-issue/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/alpine-ruby-nokogiri-issue/</guid>
             <description>&lt;h1 id=&#34;the-issue&#34;&gt;The issue&lt;/h1&gt;
 &lt;p&gt;I was doing practice of Github workflow by making a basic task app using Rails&lt;/p&gt;
 &lt;p&gt;I was using&lt;/p&gt;
@@ -1390,10 +1390,10 @@ Which threw an error like</p>
         
         <item>
             <title>Cloudinary for Hugo</title>
-            <link>http://localhost:1313/posts/cloudinary-for-hugo/</link>
+            <link>https://ryuichirosuzuki.com/posts/cloudinary-for-hugo/</link>
             <pubDate>Sat, 13 Aug 2022 10:40:49 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/cloudinary-for-hugo/</guid>
+            <guid>https://ryuichirosuzuki.com/posts/cloudinary-for-hugo/</guid>
             <description>&lt;h1 id=&#34;what-i-wanted-to-achieve&#34;&gt;What I wanted to achieve&lt;/h1&gt;
 &lt;p&gt;I wanted to make it possible to produce Cloudinary image links by just giving the file name to a shortcode.&lt;/p&gt;
 &lt;h1 id=&#34;setup&#34;&gt;Setup&lt;/h1&gt;
