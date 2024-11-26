@@ -6,6 +6,16 @@ draft: false
 
 ## Work Experience {{< mdi alias="briefcase" >}}
 
+### [Section L](https://section-l.co/)
+
+##### Full time Oct 2023 - Oct 2024, Part time Oct 2024 - Present
+
+##### Full stack software engineer {{< mdi alias="vuejs" >}} {{< mdi alias="language-javascript" >}} {{< mdi alias="language-ruby" >}} {{< mdi alias="language-ruby-on-rails" >}} {{<mdi alias="aws" >}}{{< mdi alias="lambda" >}}{{< devicon alias="dynamodb-plain" colored="true" >}}
+
+I came back to Japan and started working at Section L again as a full time employee. I helped the team with maintaining and upgrading the existing app, as well as adding a brand new service reservation system for the new hotel we opened, which is built on AWS lambda functions and DynamoDB.
+
+---
+
 ### [OpenSalary](https://opensalary.jp/) / [WorkCircle](https://workcircle.app)
 
 ##### June 2022 - Present
