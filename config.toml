@@ -41,8 +41,8 @@ name = "Projects"
 url = "/projects"
 
 [[params.social]]
-name = "twitter"
-url = "https://www.twitter.com/RyuichiroSuzuki"
+name = "bluesky"
+url = "https://bsky.app/profile/ryuichirosuzuki.com"
 
 [[params.social]]
 name = "linkedin"
