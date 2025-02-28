@@ -22,7 +22,7 @@ undefined local variable or method `current_user' for an instance of PostsContro
 I usually use the paring of pundit and devise for authentication and authorization of my Rails apps. Also, many gems that provide authentication to Rails apps seems to use `current_user` helper method as a de-facto standard.
 However, since the introduction of Rails 8, you now have the option to use the Rails' built in authentication generator by simply running
 
-```sh
+```bash
 rails g authentication
 ```
 
