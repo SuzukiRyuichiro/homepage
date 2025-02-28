@@ -1,5 +1,5 @@
 ---
-title: "Pundit in Rails 8 throwing undefined error for `current_user`"
+title: "Pundit in Rails 8 throwing undefined error for current_user"
 date: 2025-02-28T14:53:33+09:00
 draft: false
 toc: false
