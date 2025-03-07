@@ -7,8 +7,8 @@ googleAnalytics = "G-8WDFLLSMBT"
 
 [params]
 images = ["/coding-me.jpg"]
-description = "Ryuichiro Suzuki is a Web Developer in Tokyo"
-homeSubtitle = "Web Developer in Tokyo"
+description = "Ryuichiro Suzuki is a Web Developer and a cycling enthusiast in Tokyo"
+homeSubtitle = "Web Developer and a bicycle enthusiast in Tokyo"
 enableThemeToggle = true
 customCSS = [
   "/css/home.css",
@@ -53,15 +53,15 @@ name = "github"
 url = "https://github.com/SuzukiRyuichiro"
 
 [[params.social]]
-name = "fitbit"
-url = "https://www.fitbit.com/user/944WLQ"
+name = "strava"
+url = "https://www.strava.com/athletes/53586567"
 
 [[params.social]]
 name = "spotify"
 url = "https://open.spotify.com/user/22ndwarmwin74uwyftti4zvla"
 
 [params.portrait]
-path = "https://res.cloudinary.com/scooter-scooter/image/upload/w_300/v1662897240/Portfolio/coding-me.jpg"
+path = "https://res.cloudinary.com/scooter-scooter/image/upload/v1741310924/cagobike-me.jpg"
 alt = "coding-me"
 maxWidth = "350px"
 
