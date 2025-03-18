@@ -8,7 +8,7 @@ googleAnalytics = "G-8WDFLLSMBT"
 [params]
 images = ["/coding-me.jpg"]
 description = "Ryuichiro Suzuki is a Web Developer and a cycling enthusiast in Tokyo"
-homeSubtitle = "Web Developer and a bicycle enthusiast in Tokyo"
+homeSubtitle = "Mainly Web Developer, but does many other stuff..."
 enableThemeToggle = true
 customCSS = [
   "/css/home.css",
