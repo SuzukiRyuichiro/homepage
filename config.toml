@@ -36,10 +36,6 @@ url = "/about"
 identifier = "resume"
 name = "Resume"
 url = "/resume"
-[[menu.main]]
-identifier = "projects"
-name = "Projects"
-url = "/projects"
 
 [[params.social]]
 name = "bluesky"
