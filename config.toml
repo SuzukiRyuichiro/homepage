@@ -67,3 +67,8 @@ maxWidth = "350px"
 
 [params.logo]
 logoText = "Hi. I'm scooter"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
