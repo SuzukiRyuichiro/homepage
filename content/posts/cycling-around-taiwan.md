@@ -4,6 +4,7 @@ date: 2024-05-09T01:35:24+09:00
 draft: false
 toc: true
 images:
+  - /posts/cycling-around-taiwan/goal.jpg
 tags:
   - travel
   - cycling
