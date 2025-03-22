@@ -11,10 +11,11 @@ description = "Ryuichiro Suzuki is a Web Developer and a cycling enthusiast in T
 homeSubtitle = "Mainly Web Developer, but does many other stuff..."
 enableThemeToggle = true
 customCSS = [
-  "/css/home.css",
-  "/css/mdi.css",
-  "/css/image.css",
-  "/css/video.css",
+    "/css/home.css",
+    "/css/mdi.css",
+    "/css/image.css",
+    "/css/video.css",
+    "/css/iframe.css",
 ]
 enableSharingButtons = true
 baseURL = "https://res.cloudinary.com/"
@@ -69,6 +70,6 @@ maxWidth = "350px"
 logoText = "Hi. I'm scooter"
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true

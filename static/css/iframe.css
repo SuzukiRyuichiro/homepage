@@ -1,0 +1,5 @@
+/* For embedded iframes in posts */
+
+div.post-content > iframe {
+    margin: auto;
+}
