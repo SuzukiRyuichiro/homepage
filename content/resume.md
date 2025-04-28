@@ -20,7 +20,7 @@ I came back to Japan and started working at Section L again as a full time emplo
 
 ##### June 2022 - Present
 
-##### Full stack software engineer {{< mdi alias="docker" >}} {{< mdi alias="vuejs" >}} {{< mdi alias="language-javascript" >}} {{< mdi alias="language-ruby" >}} {{< mdi alias="language-ruby-on-rails" >}}
+##### Full stack software engineer {{< mdi alias="docker" >}} {{< mdi alias="react" >}} {{< mdi alias="vuejs" >}} {{< mdi alias="language-javascript" >}} {{< mdi alias="language-ruby" >}} {{< mdi alias="language-ruby-on-rails" >}}
 
 OpenSalary is a web site that provides free and open information about salaries of those who work in the Japanese tech industry. OpenSalary is a community driven platform made by developers, for the benefit of developers. We aim to empower software engineers with the data they need to make informed career decisions.
 
