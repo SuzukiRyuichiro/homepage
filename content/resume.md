@@ -8,7 +8,7 @@ draft: false
 
 ### [Section L](https://section-l.co/)
 
-##### Full time Oct 2023 - Oct 2024, Part time Oct 2024 - Present
+##### Full time Oct 2023 - Oct 2024, Part time Oct 2024 - June 2025
 
 ##### Full stack software engineer {{< mdi alias="vuejs" >}} {{< mdi alias="language-javascript" >}} {{< mdi alias="language-ruby" >}} {{< mdi alias="language-ruby-on-rails" >}} {{<mdi alias="aws" >}}{{< mdi alias="lambda" >}}{{< devicon alias="dynamodb-plain" colored="true" >}}
 
@@ -18,7 +18,7 @@ I came back to Japan and started working at Section L again as a full time emplo
 
 ### [OpenSalary](https://opensalary.jp/) / [WorkCircle](https://workcircle.app)
 
-##### June 2022 - Present
+##### June 2022 - August 2023
 
 ##### Full stack software engineer {{< mdi alias="docker" >}} {{< mdi alias="react" >}} {{< mdi alias="vuejs" >}} {{< mdi alias="language-javascript" >}} {{< mdi alias="language-ruby" >}} {{< mdi alias="language-ruby-on-rails" >}}
 

@@ -22,8 +22,6 @@ baseURL = "https://res.cloudinary.com/"
 cloudName = "scooter-scooter"
 folderName = "Portfolio"
 
-[params.Intercom]
-appId = "ayhkrqtb"
 
 [menu]
 [[menu.main]]
