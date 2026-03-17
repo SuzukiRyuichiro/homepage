@@ -10,9 +10,11 @@ draft: false
 
 ##### Full time Oct 2023 - Oct 2024, Part time Oct 2024 - June 2025
 
-##### Full stack software engineer {{< mdi alias="vuejs" >}} {{< mdi alias="language-javascript" >}} {{< mdi alias="language-ruby" >}} {{< mdi alias="language-ruby-on-rails" >}} {{<mdi alias="aws" >}}{{< mdi alias="lambda" >}}{{< devicon alias="dynamodb-plain" colored="true" >}}
+##### Project Manager & Full-stack Engineer {{< mdi alias="vuejs" >}} {{< mdi alias="language-javascript" >}} {{< mdi alias="language-ruby" >}} {{< mdi alias="language-ruby-on-rails" >}} {{<mdi alias="aws" >}}{{< mdi alias="lambda" >}}{{< devicon alias="dynamodb-plain" colored="true" >}}
 
-I came back to Japan and started working at Section L again as a full time employee. I helped the team with maintaining and upgrading the existing app, as well as adding a brand new service reservation system for the new hotel we opened, which is built on AWS lambda functions and DynamoDB.
+During my second tenure at Section L, I transitioned into a dual role as a Project Manager and Full-stack Engineer, leading multiple high-impact initiatives from requirements definition to final delivery. One of my key achievements was the end-to-end development of a facility reservation system for the "Section L Shimbashi West" sauna, which I successfully integrated into the existing InterSection application. By designing a modern serverless architecture on AWS (utilizing Lambda and DynamoDB) separate from the legacy Ruby on Rails backend, I ensured high scalability and performance. This system dramatically improved operational efficiency, with approximately 70% of reservations being made directly through the app, significantly reducing the manual workload for the hospitality staff.
+
+In addition to product development, I spearheaded a major architectural update during the company’s migration to a new Property Management System (PMS). I designed and implemented a robust adapter layer using AWS Lambda and SQS to manage complex API integrations between our application suite and the new system. Throughout this process, I collaborated closely with senior engineers to refine the system architecture, ensuring a clear separation of concerns and maintaining data consistency across all services.
 
 ---
 
@@ -22,16 +24,9 @@ I came back to Japan and started working at Section L again as a full time emplo
 
 ##### Full stack software engineer {{< mdi alias="docker" >}} {{< mdi alias="react" >}} {{< mdi alias="vuejs" >}} {{< mdi alias="language-javascript" >}} {{< mdi alias="language-ruby" >}} {{< mdi alias="language-ruby-on-rails" >}}
 
-OpenSalary is a web site that provides free and open information about salaries of those who work in the Japanese tech industry. OpenSalary is a community driven platform made by developers, for the benefit of developers. We aim to empower software engineers with the data they need to make informed career decisions.
+Joining the startup team at WorkCircle/OpenSalary, I focused on accelerating product development and optimizing performance for their anonymous career networking platforms. I was responsible for the initial release of the WorkCircle native application (built with Ruby on Rails and React Native), where I implemented core social features such as real-time notification systems, interactive voting, and comment threading. A major technical milestone during this period was my optimization of the main feed's query performance, which reduced page load times by nearly 70%, directly enhancing the user experience.
 
-I joined the team to speed up the development of the website and make the product more valuable. Since joining the team, I've introduced new features such as searching for a company from anywhere on the web site.
-
-On top of the OpenSalary website, we've been building WorkCircle, a platform that aims to bridge communication among tech workers in Japan. I've been involved in building the app, as well as building the landing page for the application from scratch.
-
-In WorkCircle development, notable achievements are
-
-- Sped up the load time of the main page by 80%
-- Introduces numerous features for the official release
+On the OpenSalary platform, I led an initiative to broaden the service's utility by redesigning the data visualization and upload flows to support non-engineering roles, such as Product Managers and Designers. I also introduced several user-engagement features, including a social sharing tool for salary data and prompts for new users to contribute their information. My redesign of the global search functionality proved particularly successful, becoming the most frequently used feature on the website and significantly improving discoverability.
 
 ---
 
@@ -39,13 +34,11 @@ In WorkCircle development, notable achievements are
 
 ##### April 2021 - Present
 
-##### Teacher {{< mdi alias="language-ruby" >}} {{< mdi alias="language-ruby-on-rails" >}} {{< mdi alias="language-javascript" >}} {{< mdi alias="database-search" >}}
+##### Course Manager & Lead Teacher {{< mdi alias="language-ruby" >}} {{< mdi alias="language-ruby-on-rails" >}} {{< mdi alias="language-javascript" >}} {{< mdi alias="database-search" >}}
 
-Le Wagon is an industry leading coding bootcamp founded in France and now has more than 35 campuses across the world. I participated as a student in the web development course, and graduated in March 2021. Then, I was invited by the CEO of the Tokyo campus to join the team as a teaching assistant. Since then, I have helped more than 150 students to learn how to build web applications and work on projects as a team.
+Since joining the Le Wagon team, I have progressed from a Teaching Assistant to a Lead Teacher and Course Manager, contributing to the education of over 150 aspiring developers. Since April 2024, I have managed the part-time web development course at the Tokyo campus, where I am responsible for curriculum quality, mentoring teaching assistants, and coordinating student progress. My commitment to student success is reflected in my consistent Net Promoter Score (NPS) of over 70 and the fact that many of my graduates have successfully transitioned into engineering roles within three months of finishing the program.
 
-After a year of assisting the main teachers, I had opportunities to stand in front of the class to give lectures as a main teacher as well.
-
-I have been working as a teacher / teaching assistant at Tokyo campus for over a year. Recently, after relocating to Spain, I taught the web development course of the Madrid campus, as well as the Cape Town campus in South Africa.
+My teaching career also took me across the globe, where I delivered the web development curriculum in English at various campuses including Madrid (Spain), Amsterdam (Netherlands), Cape Town (South Africa), and Porto (Portugal). This international experience allowed me to adapt my teaching style to diverse cultural contexts while maintaining the high educational standards Le Wagon is known for.
 
 ##### {{< mdi alias="link" class="link" >}} [Linkedin article about me](https://www.linkedin.com/posts/le-wagon-tokyo_webdevelopment-developer-freelance-activity-6920247551661137920-JTs1?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
@@ -59,14 +52,7 @@ I have been working as a teacher / teaching assistant at Tokyo campus for over a
 
 ##### Full stack software engineer {{< mdi alias="vuejs" >}} {{< mdi alias="language-javascript" >}} {{< mdi alias="language-ruby" >}} {{< mdi alias="language-ruby-on-rails" >}}
 
-Section L is a hospitality company based in Tokyo. The company runs several hotels and a pop-up store in central Tokyo. We developed an in-house application that enables guests and hotel employees to manage check-in, request amenities, send requests to receptionists, and many other aspects of the hotel operation easily and smoothly.
-
-I joined in the very early stage of the application development and participated in developing three different projects.
-
-- Check-in app that handles the check-in process at every property of Section L.
-- Admin app, where hotel employees can manage guests across the properties and answer requests and questions.
-- InterSection, which is an app that enables inter-guests communication and interactions. A unique point about Section L is that the guests are encouraged to interact with each other through multiple events. We built an app that serves as a platform for those events to be organized. Also, guests can use the app to communicate with reception.
-- And the API that serves the backend of all three applications.
+In the early stages of Section L’s growth, I was a foundational member of the engineering team, contributing to the initial development and launch of their entire application suite. I worked as a full-stack engineer on three distinct projects: a guest-facing self-check-in application, an administrative dashboard for staff management, and "InterSection"—a social platform designed to facilitate guest communication and community events. I was responsible for implementing full-stack features and establishing automated testing patterns across all three applications and their shared backend API, ensuring a stable and reliable release during the company's critical startup phase.
 
 ##### {{< mdi alias="link" class="link" >}} [Linkedin article about the beta release](https://www.linkedin.com/posts/section-l_community-team-tokyo-activity-6874648735641694208-UanI?utm_source=share)
 
