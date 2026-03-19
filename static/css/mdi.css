@@ -3,6 +3,11 @@ span.inline-svg.mdi {
   place-items: center;
 }
 
+span.inline-svg.mdi svg {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
 span.insentence {
   display: inline !important;
 }

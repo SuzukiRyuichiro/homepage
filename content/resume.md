@@ -10,7 +10,7 @@ draft: false
 
 ##### Full time Oct 2023 - Oct 2024, Part time Oct 2024 - June 2025
 
-##### Project Manager & Full-stack Engineer {{< mdi alias="vuejs" >}} {{< mdi alias="language-javascript" >}} {{< mdi alias="language-ruby" >}} {{< mdi alias="language-ruby-on-rails" >}} {{<mdi alias="aws" >}}{{< mdi alias="lambda" >}}{{< devicon alias="dynamodb-plain" colored="true" >}}
+##### Project Manager & Full-stack Engineer {{< mdi alias="vuejs" >}} {{< mdi alias="language-javascript" >}} {{< mdi alias="language-ruby" >}} {{< mdi alias="language-ruby-on-rails" >}} {{<mdi alias="aws" >}}{{< mdi alias="lambda" >}}{{< devicon alias="dynamodb-plain" >}}
 
 During my second tenure at Section L, I transitioned into a dual role as a Project Manager and Full-stack Engineer, leading multiple high-impact initiatives from requirements definition to final delivery. One of my key achievements was the end-to-end development of a facility reservation system for the "Section L Shimbashi West" sauna, which I successfully integrated into the existing InterSection application. By designing a modern serverless architecture on AWS (utilizing Lambda and DynamoDB) separate from the legacy Ruby on Rails backend, I ensured high scalability and performance. This system dramatically improved operational efficiency, with approximately 70% of reservations being made directly through the app, significantly reducing the manual workload for the hospitality staff.
 
