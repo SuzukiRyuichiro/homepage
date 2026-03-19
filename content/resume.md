@@ -16,6 +16,8 @@ During my second tenure at Section L, I transitioned into a dual role as a Proje
 
 In addition to product development, I spearheaded a major architectural update during the company’s migration to a new Property Management System (PMS). I designed and implemented a robust adapter layer using AWS Lambda and SQS to manage complex API integrations between our application suite and the new system. Throughout this process, I collaborated closely with senior engineers to refine the system architecture, ensuring a clear separation of concerns and maintaining data consistency across all services.
 
+{{< figure caption="Me at work" src="/posts/resume/me-and-narayan.jpg" >}}
+
 ---
 
 ### [OpenSalary](https://opensalary.jp/) / [WorkCircle](https://workcircle.app)
