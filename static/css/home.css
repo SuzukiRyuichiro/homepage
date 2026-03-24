@@ -3,3 +3,20 @@ img.circle {
   height: 240px;
   object-fit: cover;
 }
+
+.language-selector {
+  margin-left: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.language-selector a {
+  text-decoration: none;
+  font-weight: normal;
+  margin: 0 5px;
+}
+
+.language-selector a.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
