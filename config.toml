@@ -80,7 +80,7 @@ url = "/about"
 weight = 2
 [[languages.ja.menu.main]]
 identifier = "resume"
-name = "履歴書"
+name = "経歴"
 url = "/resume"
 weight = 3
 
