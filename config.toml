@@ -30,7 +30,7 @@ description = "Ryuichiro Suzuki is a Web Developer and a cycling enthusiast in T
 [languages.en.params]
 homeSubtitle = "Mainly Web Developer, but does many other stuff..."
 [languages.en.params.logo]
-x = "Hi. I'm scooter"
+logoText = "Hi. I'm scooter"
 [languages.en.params.portrait]
 path = "https://res.cloudinary.com/scooter-scooter/image/upload/v1741310924/cagobike-me.jpg"
 alt = "coding-me"
