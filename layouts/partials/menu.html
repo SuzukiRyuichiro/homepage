@@ -1,0 +1,24 @@
+<nav class="menu">
+    <ul class="menu__inner">
+        {{- $currentPage := . -}}
+        {{ range sort .Site.Menus.main ".Weight" -}}
+            <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+        {{- end }}
+
+        {{- if .Site.Params.EnableGlobalLanguageMenu }}
+            {{- if hugo.IsMultilingual }}
+                <li class="language-selector">
+                    {{- $allTranslations := .AllTranslations -}}
+                    {{- range $index, $translation := $allTranslations }}
+                        <a href="{{ .Permalink }}" class="{{ if eq .Language $.Language }}active{{ end }}">
+                            {{ .Language.LanguageName }}
+                        </a>
+                        {{- if ne (add $index 1) (len $allTranslations) -}}
+                            |
+                        {{- end -}}
+                    {{- end }}
+                </li>
+            {{- end }}
+        {{- end }}
+    </ul>
+</nav>

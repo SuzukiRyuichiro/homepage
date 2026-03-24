@@ -1,7 +1,7 @@
 [build]
-  command = "yarn --cwd \"themes/mdi\" && hugo"
-  publish = "public"
+command = "yarn --cwd \"themes/mdi\" && hugo"
+publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.101.0"
-  NODE_VERSION = "18"
+HUGO_VERSION = "0.154.1"
+NODE_VERSION = "20"

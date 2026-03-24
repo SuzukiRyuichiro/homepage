@@ -1,41 +1,88 @@
 baseURL = 'https://ryuichirosuzuki.com'
-languageCode = 'en-us'
-title = 'Ryuichiro Suzuki'
+defaultContentLanguage = 'en'
+# defaultContentLanguageInSubdir = false # This makes / the English home page. /ja/ is Japanese.
 theme = ["mdi", "hello-friend-ng", "cl-image", "devicons"]
 enableEmoji = true
 googleAnalytics = "G-8WDFLLSMBT"
 
 [params]
 images = ["/coding-me.jpg"]
-description = "Ryuichiro Suzuki is a Web Developer and a cycling enthusiast in Tokyo"
-homeSubtitle = "Mainly Web Developer, but does many other stuff..."
 enableThemeToggle = true
 customCSS = [
-    "/css/home.css",
-    "/css/mdi.css",
-    "/css/image.css",
-    "/css/video.css",
-    "/css/iframe.css",
+  "/css/home.css",
+  "/css/mdi.css",
+  "/css/image.css",
+  "/css/video.css",
+  "/css/iframe.css",
 ]
 enableSharingButtons = true
 baseURL = "https://res.cloudinary.com/"
 cloudName = "scooter-scooter"
 folderName = "Portfolio"
+enableGlobalLanguageMenu = true
 
+[languages]
+[languages.en]
+languageName = "EN"
+title = 'Ryuichiro Suzuki'
+weight = 1
+description = "Ryuichiro Suzuki is a Web Developer and a cycling enthusiast in Tokyo"
+[languages.en.params]
+homeSubtitle = "Mainly Web Developer, but does many other stuff..."
+[languages.en.params.logo]
+logoText = "Hi. I'm scooter"
+[languages.en.params.portrait]
+path = "https://res.cloudinary.com/scooter-scooter/image/upload/v1741310924/cagobike-me.jpg"
+alt = "coding-me"
+maxWidth = "350px"
 
-[menu]
-[[menu.main]]
+[languages.en.menu]
+[[languages.en.menu.main]]
 identifier = "posts"
 name = "Blogs"
 url = "/posts"
-[[menu.main]]
+weight = 1
+[[languages.en.menu.main]]
 identifier = "about"
 name = "About me"
 url = "/about"
-[[menu.main]]
+weight = 2
+[[languages.en.menu.main]]
 identifier = "resume"
 name = "Resume"
 url = "/resume"
+weight = 3
+
+[languages.ja]
+languageName = "日本語"
+title = '鈴木 龍一郎'
+weight = 2
+description = "鈴木 龍一郎は、東京を拠点に活動するウェブ開発者兼サイクリング愛好家です。"
+[languages.ja.params]
+homeSubtitle = "主にウェブ開発をしていますが、他にも色々やってます..."
+[languages.ja.params.logo]
+logoText = "Hi. I'm scooter"
+[languages.ja.params.portrait]
+path = "https://res.cloudinary.com/scooter-scooter/image/upload/v1741310924/cagobike-me.jpg"
+alt = "coding-me"
+maxWidth = "350px"
+
+[languages.ja.menu]
+[[languages.ja.menu.main]]
+identifier = "posts"
+name = "ブログ"
+url = "/posts"
+weight = 1
+[[languages.ja.menu.main]]
+identifier = "about"
+name = "自己紹介"
+url = "/about"
+weight = 2
+[[languages.ja.menu.main]]
+identifier = "resume"
+name = "履歴書"
+url = "/resume"
+weight = 3
 
 [[params.social]]
 name = "bluesky"
@@ -56,14 +103,6 @@ url = "https://www.strava.com/athletes/53586567"
 [[params.social]]
 name = "spotify"
 url = "https://open.spotify.com/user/22ndwarmwin74uwyftti4zvla"
-
-[params.portrait]
-path = "https://res.cloudinary.com/scooter-scooter/image/upload/v1741310924/cagobike-me.jpg"
-alt = "coding-me"
-maxWidth = "350px"
-
-[params.logo]
-logoText = "Hi. I'm scooter"
 
 [markup]
 [markup.goldmark]
