@@ -1,5 +1,5 @@
 ---
-title: "Pundit in Rails 8 throwing undefined error for current_user"
+title: "Rails 8の認証でPunditを使うと発生するcurrent_user undefinedエラーへの対処"
 date: 2025-02-28T14:53:33+09:00
 draft: false
 toc: false
@@ -10,34 +10,37 @@ tags:
   - pundit
 ---
 
-## What's the issue?
+## 発生している問題
+
+Rails 8で追加された認証モジュールを使用していると、Punditで以下のようなエラーが発生することがあります。
 
 ```ruby
 NameError in PostsController#show
 undefined local variable or method `current_user' for an instance of PostsController
 ```
 
-## How it used to be
+## 背景
 
-I usually use the paring of pundit and devise for authentication and authorization of my Rails apps. Also, many gems that provide authentication to Rails apps seems to use `current_user` helper method as a de-facto standard.
-However, since the introduction of Rails 8, you now have the option to use the Rails' built in authentication generator by simply running
+これまでRailsアプリの認証と認可には、deviseとpunditを組み合わせて使うのが一般的でした。deviseをはじめとする多くの認証系gemでは、ログイン中のユーザーを返すヘルパーメソッドとして `current_user` が提供されており、これがスタンダードでした。
+
+しかし、Rails 8からは標準で認証モジュールが追加されました。
 
 ```bash
 rails g authentication
 ```
 
-There is a very simple introduction video on Rails youtube channel so you can check how it works
+使い方の詳細は、Rails公式のYouTubeで紹介されています。
 
 {{< youtube WbvJ1dIO9Ts >}}
 
-If you opt to use the Rails 8 authentication, there is a issue because
+このRails 8標準の認証機能を使用する場合、punditでエラーが発生します。主な理由は以下の通りです。
 
-1. Pundit expects to have access to a helper method `current_user` that should return the authenticated user instance to authorize actions
-2. Rails 8 authentication works based on the Current class, and to access the authenticated user, you have to run `Current.user`
+1. punditは認可の判定を行うために、認証済みユーザーを返す `current_user` メソッドが存在すると思ってる。
+2. Rails 8の認証は `Current` クラスを利用しており、今ログイン中のユーザーインスタンスは `Current.user` でアクセスする。
 
-This is the root for the error.
+つまり、punditが期待している `current_user` メソッドが存在しないことが原因です。
 
-The solution I thought of first is simple, just define a method somewhere that does
+最初に考えられる解決策は、以下のようにメソッドを定義することです。
 
 ```ruby
 def current_user
@@ -45,12 +48,13 @@ def current_user
 end
 ```
 
-which is [suggested by a user on github](https://github.com/rails/rails/pull/54202), and to include that helper method in the authentication module itself with Rails, but it seems to have been turned down by a maintainer which I get the point of.
+実際、[GitHubのプルリクエスト](https://github.com/rails/rails/pull/54202)でも、このヘルパーメソッドを認証モジュール自体に含める提案がされていました。しかし、メンテナによって却下されたようです。
 
-## My final solution
+## 解決策
 
-Looking at the README for pundit, it suggests that if we want the `current_user` to be , we should define our own method `pundit_user` within the controller.
-That means, in your `application_controller.rb` or somewhere that is suitable, define a method like below
+punditのREADMEによると、 `current_user` 以外のメソッドを使ってユーザー情報を取得したい場合のカスタマイズ方法が記載されています。コントローラー内で `pundit_user` というメソッドを定義すれば、それが優先して使われるようになります。
+
+具体的には、 `application_controller.rb` などに以下の定義を追加します。
 
 ```ruby
 def pundit_user
@@ -58,4 +62,4 @@ def pundit_user
 end
 ```
 
-and you should be all set!
+これで、Rails 8の新しい認証でもpunditが正常に動作するようになります。
