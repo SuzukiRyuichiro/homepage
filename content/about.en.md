@@ -27,7 +27,6 @@ I like...
 - Traveling :backpack: but mostly on a bicycle
 - Any sports :ski: :tennis: :hockey: but running and cycling the most 🏃🚴
 - Watching Formula 1 :race_car:
-- Go out and drink craft beers :beer: but currently abstaining (as of March 2025)
 - Cooking :cooking: My signature dish is Gyoza :dumpling: and sourdough :bread:
 - Film photography :camera:
 - Crochet :yarn:
