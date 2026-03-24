@@ -11,40 +11,40 @@ tags:
 
 ## FOD高くね？
 
-DAZNが放映権を失い、今年からFODでF1を見なくてはいけないそうですが、DAZNと違って、F1だけプランが有るとか、少しだけ安いとか期待した自分が馬鹿でした。どうせ4000円くらいして、お願いもしてないのにFODコンテンツを抱っこで売ってくるという始末。どうせ予選とレースを見たいだけなのに、4月のレースは全部なくなるし、到底入る気になりません。
+DAZNが放映権を失い、今年からFODでF1を見なくてはいけないそうですが、DAZNと違って「F1専用プランがある」とか「少しだけ安い」とか期待した自分が甘かったです。どうせ4000円くらいして、お願いもしていないのにFODコンテンツを抱き合わせで売ってくるという始末。どうせ予選とレースを見たいだけなのに、4月のレースが全部キャンセルになるし、夏休みも有るし、毎月なんてとても払ってられません。
 
 ## VPNを使ってもF1 TV Proは難しい
 
-一昨年まで、DAZNがまだ許容できる値段だったのでDAZNで見てましたが、値上げをされてからF1 TV ProをVPN経由で見られないかと試行錯誤してみました。ですがこれもトリッキーで、どれだけ居住地をアメリカにしてみても、クレジットカードがUSじゃないからと契約させてもらえなかったり、個人的にヨーロッパのバーチャル銀行のカードを持ってるのでその国で試してみましたがどうしてか弾かれてしまいます。最終的に上手く行ったのが、Google Play経由でF1TV Proのサブスクリプションを売ってるヨーロッパの国に接続してGoogle経由でお金を払えばカードを理由に弾かれませんでした。そこからレースを見たいときはアメリカのVPNに接続し、F1TV Proのサイトから見たり、[Multi Viewer](https://multiviewer.app/)という神アプリを使って、全ドライバーのミニセクターのタイムや、トラックでの位置などを逐一見ていました。
+一昨年まで、DAZNがまだ許容できる値段だったのでDAZNで見ていましたが、値上げされてからF1 TV ProをVPN経由で見られないかと試行錯誤してみました。ですがこれもトリッキーで、どれだけ居住地をアメリカにしてみても、クレジットカードがUSのものではないからと契約させてもらえなかったり、個人的にヨーロッパのバーチャル銀行のカードを持っているのでその国で試してみましたが、どうしてか弾かれてしまいます。最終的に上手くいったのが、Google Play経由でF1 TV Proのサブスクリプションを販売しているヨーロッパの国に接続して、Google経由でお金を払う方法でした。これならカードを理由に弾かれません。そこからレースを見たいときはアメリカのVPNに接続し、F1 TV Proのサイトから見たり、[Multi Viewer](https://multiviewer.app/)という神アプリを使って、全ドライバーのミニセクターのタイムや、トラックでの位置などを逐一見ていました。
 
-ですが、そのGoogle Play経由の契約も、去年で打ち切りになり、八方塞がりになってしまいました。アメリカでF1 TVがApple TVと統合されたのでそれがVPN経由で出来るかと試みてみましたが、さすが天下のAppleで利用国をアメリカに設定しようとしても、VPNだからと弾かれます。
+ですが、そのGoogle Play経由の契約も、去年で打ち切りになり、八方塞がりになってしまいました。アメリカでF1 TVがApple TVと統合されたので、それがVPN経由でできるかと試みてみましたが、さすが天下のAppleで、利用国をアメリカに設定しようとしても、VPNだと判定されて弾かれます。
 
 ## 無料で見る方法を発見した（VPN代を除く）
 
-結局FODに屈さなくてはいけないのかと諦めかけてましたが、Redditの[このスレッド](https://www.reddit.com/r/F1TV/comments/1fvghf4/streaming_f1_races_in_austria_where_do_i_subscribe/)を見つけました。
+結局FODに屈さなくてはいけないのかと諦めかけていましたが、Redditの[このスレッド](https://www.reddit.com/r/F1TV/comments/1fvghf4/streaming_f1_races_in_austria_where_do_i_subscribe/)を見つけました。
 
-よくよく調べると、オーストリア🇦🇹では、ServusTVとORFというテレビ局がほぼ交互にレースを放映しているようです。例えば、初戦のオーストラリアGPはServusで、中国GPはORFでという感じです。都合の良いことに両方ともオーストリアのVPNに接続していれば公式ウェブサイトの方から無料で中継を見ることができます。ORFは複数チャンネルが有って、本当のテレビみたいにザッピングするシステムのですが、ORF1という一番メインのチャンネルでやってます。個人的には[NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=142706&source=https://www.ryuichirosuzuki.com/ja/posts/how-to-watch-f1-for-free-2026/)を使ってますが、申し分ない画質で見ることができます。
+よくよく調べると、オーストリア🇦🇹では、ServusTVとORFというテレビ局がほぼ交互にレースを放映しているようです。例えば、初戦のオーストラリアGPはServusで、中国GPはORFで、という感じです。都合の良いことに、両方ともオーストリアのVPNに接続していれば公式ウェブサイトの方から無料で中継を見ることができます。ORFは複数チャンネルがあって、本当のテレビみたいにザッピングするシステムなのですが、ORF1というメインチャンネルで放送しています。個人的には[NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=142706&source=https://www.ryuichirosuzuki.com/ja/posts/how-to-watch-f1-for-free-2026/)を使っていますが、申し分ない画質で見ることができました。
 
-それ以外にも無料でストリーミングしてる国は無いかと調べて見たら、ベルギーのVPNに接続すればRTBFという放送局のauvioというストリーミングプラットフォームで無料で見ることができました。この放送局はMoto GPとかもやってるので他のモータースポーツも好きなら一石二鳥かもしれません。
+それ以外にも無料でストリーミングしている国はないかと調べてみたら、ベルギーのVPNに接続すればRTBFという放送局のAuvioというストリーミングプラットフォームで無料で見ることができました。この放送局はMoto GPなども放送しているので、他のモータースポーツも好きなら一石二鳥かもしれません。
 
 ### 注意点
 
-もちろん画面の映像はF1 TVやFODで見る物とほぼ変わりはありませんが、実況と解説だけオーストリアの2つはドイツ語で、Auvioの方はフランス語です。ですが、個人的に、サッシャさんと中野さんの日本語の実況と解説も、時々ドライバーやエンジニアが言っている事の翻訳間違えてたり、少し情熱にかけるのであまり好きではなかったので、良いかなと思いました。私はだいたいいつも同時視聴ライブをやってるイギリスのF1 Youtuber達の放送を同時にかけてそこから解説＋情熱を吸収してます。後は同時にBlueSkyでF1ジャーナリストたちのつぶやきをリアルタイムで見てると、放送には出てこない情報なんかもゲットできます。
+もちろん画面の映像はF1 TVやFODで見るものとほぼ変わりはありませんが、実況と解説だけ、オーストリアの2つはドイツ語で、Auvioの方はフランス語です。ですが、個人的にサッシャさんと中野さんの日本語実況・解説も、時々ドライバーやエンジニアが言っていることの翻訳を間違えていたり、少し情熱に欠けるのであまり好きではありませんでした。なので、言語が分からなくてもこれでも良いかなと思いました。私はだいたいいつも同時視聴ライブをやっているイギリスのF1 YouTuberたちの放送を同時に流して、そこから解説と熱量を吸収しています。あとは同時にBlueskyでF1ジャーナリストたちのつぶやきをリアルタイムで見ていると、放送には出てこない情報などもゲットできます。日本語の実況と解説が必要な方にはおすすめできない方法かもしれません。
 
-また、これらのサイトはブラウザからアクセスする分にはVPNでも問題はなかったですが、公式スマホアプリからはVPNを理由に弾かれてしまいました。
+また、これらのサイトはブラウザからアクセスする分にはVPNでも問題なかったですが、公式スマホアプリからはVPNを理由に弾かれてしまいました。
 
 ## 最終的なセットアップ
 
-今年の私の最安（VPNを入れなければ完全無料）なF1の楽しみ方は
+今年の私の最も安上がりな（VPN代を除けば完全無料）F1の楽しみ方は：
 
 - [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=142706&source=https://www.ryuichirosuzuki.com/ja/posts/how-to-watch-f1-for-free-2026/)
-- [Servus TV](https://www.servustv.com/sport/b/fia-formula-one-world-championship/aa-25hkbv8c52111/) / [ORF](https://on.orf.at/live?channel=orf1) 🇦🇹 か [RTBF auvio](https://auvio.rtbf.be/categorie/sport-9) 🇧🇪
+- [Servus TV](https://www.servustv.com/sport/b/fia-formula-one-world-championship/aa-25hkbv8c52111/) / [ORF](https://on.orf.at/live?channel=orf1) 🇦🇹 または [RTBF auvio](https://auvio.rtbf.be/categorie/sport-9) 🇧🇪
 - [ライブテレメトリーを公開してるf1-dashというサイト](https://f1-dash.com/dashboard)
-- [一番コンスタントに同時視聴ライブをやってて面白いYoutuber: Matt and Tommy F1](https://www.youtube.com/@mattp1tommy/streams)
+- [一番コンスタントに同時視聴ライブをやってて面白いYouTuber: Matt and Tommy F1](https://www.youtube.com/@mattp1tommy/streams)
 - [BlueskyのF1関連フィード](https://bsky.app/profile/did:plc:gkvpokm7ec5j5yxls6xk4e3z/feed/formula-one)
 
 ## VPNおすすめ
 
-VPNと言ってもいくつかありますが、私は[NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=142706&source=https://www.ryuichirosuzuki.com/ja/posts/how-to-watch-f1-for-free-2026/)を長らく使っています。UIも分かり易いし、何と言ってもこういった際にとても役に立ちます。私は2年契約で、どこかのYoutuberのプロモを使って1万ちょい位なので、月額にして税込み474円で使ってます。この前上海行ったときとかも便利でしたし、旅行行ったときにYahoo系のサイトとか使うときにも便利でした。汎用性が高い上で月額500円以下となると、FODに月5000円近く払うなんて考えられないです。
+VPNと言ってもいくつかありますが、私は[NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=142706&source=https://www.ryuichirosuzuki.com/ja/posts/how-to-watch-f1-for-free-2026/)を長らく使っています。UIも分かりやすいし、何と言ってもこういった際にとても役に立ちます。私は2年契約で、どこかのYouTuberのプロモを使って1万ちょいくらいだったので、月額にして税込み474円で使っています。この前上海に行ったときなど便利でしたし、海外旅行中にYahoo系のサイトなどを使うときにも重宝します。汎用性が高い上で月額500円以下となると、FODに月5000円近く払うなんて考えられないです。
 
 <img src="https://go.nordvpn.net/aff_i?offer_id=612&aff_id=142706&source=https://www.ryuichirosuzuki.com/ja/posts/how-to-watch-f1-for-free-2026/" width="0" height="0" style="position:absolute;visibility:hidden;" border="0" />
