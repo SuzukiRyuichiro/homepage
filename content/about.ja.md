@@ -1,5 +1,5 @@
 ---
-title: "こんにちは、Scooterです"
+title: "こんにちは、鈴木龍一郎です"
 date: 2022-08-17T15:04:21+09:00
 draft: false
 layout: "about"
@@ -23,21 +23,21 @@ layout: "about"
 
 #### 好きなことは？
 
-- 旅行 :backpack: （主に自転車旅）
-- スポーツ全般 :ski: :tennis: :hockey: （特にランニングとサイクリング 🏃🚴）
-- F1観戦 :race_car:
-- 料理 :cooking: （得意料理は餃子 :dumpling: とサワードウ・ブレッド :bread:）
-- フィルムカメラ :camera:
-- かぎ針編み :yarn:
+- 旅行（主に自転車旅）🎒
+- スポーツ全般 🎿🎾 （特にランニングとサイクリング 🏃🚴）
+- F1観戦 🏎️
+- 料理 🧑‍🍳 （得意料理は餃子 🥟 とサワードウ・ブレッド 🍞）
+- フィルムカメラ 📷
+- かぎ針編み 🧶
 
 {{< cl-image src="ski.jpg" class="rounded center" alt="me in skiing" height="600" style="min-width: 50%; height: 400px; object-fit: cover;" >}}
 
 #### 苦手なことは？
 
 - 汚いトイレ 😒
-- 片付いていない寝室 :bed:
+- 片付いていない寝室 🛌
 - 食べ残し（残さず食え 🍲）
-- 誰かと一緒に料理すること (一人じゃないと無理):chef:
+- 誰かと一緒に料理すること (一人じゃないと無理) 👨‍🍳
 
 ### 備考
 
