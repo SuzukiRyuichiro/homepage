@@ -3,7 +3,7 @@ title: "How to Watch Every F1 Race for Free in 2026"
 date: 2026-03-25T06:54:18+09:00
 draft: false
 toc: true
-images:
+images: ["/posts/how-to-watch-f1-for-free-2026/old_setup.jpg"]
 tags:
   - tips
   - lifehack

@@ -3,7 +3,7 @@ title: "F1を無料で全レース見る方法"
 date: 2026-03-25T06:54:18+09:00
 draft: false
 toc: true
-images:
+images: ["/posts/how-to-watch-f1-for-free-2026/old_setup.jpg"]
 tags:
   - tips
   - lifehack
