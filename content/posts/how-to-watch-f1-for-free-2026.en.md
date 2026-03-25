@@ -48,3 +48,5 @@ Here is the toolkit I’m using this year for the most cost-effective F1 experie
 ## VPN Recommendation
 
 I’ve used [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=142706&source=https://www.ryuichirosuzuki.com/posts/how-to-watch-f1-for-free-2026/) for a long time. It’s reliable, has great speeds for HD streaming, and is essential for accessing local sites when traveling. It was a godsend when I was in Shanghai last year. If you get a 2-year plan with a promo code from some Youtuber like I did (there are tons out there), it usually ends up being less than $3-4 a month—significantly cheaper than any local sports subscription.
+
+<img src="https://go.nordvpn.net/aff_i?offer_id=612&aff_id=142706&source=https://www.ryuichirosuzuki.com/ja/posts/how-to-watch-f1-for-free-2026/" width="0" height="0" style="position:absolute;visibility:hidden;" border="0" />
