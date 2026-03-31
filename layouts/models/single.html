@@ -1,0 +1,83 @@
+{{ define "main" }}
+<div class="content">
+  <article class="post">
+    <h1 class="post-title">{{ .Title }}</h1>
+    <div class="post-meta">
+      {{ if .Date }}
+      <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+      {{ end }}
+    </div>
+
+    {{ if .Params.model_url }}
+    <div class="model-viewer-wrapper">
+      <script
+        type="module"
+        src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"
+      ></script>
+      <model-viewer
+        src="{{ .Params.model_url }}"
+        ar
+        camera-controls
+        touch-action="pan-y"
+        autoplay
+        shadow-intensity="1"
+        alt="A 3D model of {{ .Title }}"
+      >
+      </model-viewer>
+    </div>
+    {{ end }}
+
+    <div class="post-content">{{ .Content }}</div>
+
+    {{ if .Params.images }}
+    <div class="model-gallery">
+      <h2>Gallery</h2>
+      <div class="gallery-grid">
+        {{ range .Params.images }}
+        <div class="gallery-item">
+          <img src="{{ . }}" alt="Gallery image for {{ $.Title }}" />
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </article>
+</div>
+
+<style>
+  .model-viewer-wrapper {
+    width: 100%;
+    height: 500px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    margin: 2rem 0;
+    overflow: hidden;
+  }
+
+  model-viewer {
+    width: 100%;
+    height: 100%;
+    outline: none;
+  }
+
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+
+  .gallery-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  @media (max-width: 768px) {
+    .model-viewer-wrapper {
+      height: 350px;
+    }
+  }
+</style>
+{{ end }}

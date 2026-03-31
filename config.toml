@@ -52,6 +52,11 @@ identifier = "resume"
 name = "Resume"
 url = "/resume"
 weight = 3
+[[languages.en.menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects"
+weight = 4
 
 [languages.ja]
 languageName = "日本語"
@@ -83,6 +88,11 @@ identifier = "resume"
 name = "経歴"
 url = "/resume"
 weight = 3
+[[languages.ja.menu.main]]
+identifier = "projects"
+name = "プロジェクト"
+url = "/projects"
+weight = 4
 
 [[params.social]]
 name = "bluesky"
