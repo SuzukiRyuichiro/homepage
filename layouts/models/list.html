@@ -1,0 +1,83 @@
+{{ define "main" }}
+    <div class="content">
+        <main class="posts">
+            <h1>{{ .Title }}</h1>
+
+            {{ if .Content }}
+                <div class="content">{{ .Content }}</div>
+            {{ end }}
+
+            <div class="models-grid">
+                {{ range .Pages }}
+                    <div class="model-item">
+                        <a href="{{ .Permalink }}">
+                            <div class="model-thumbnail">
+                                {{ if .Params.thumbnail }}
+                                    <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
+                                {{ else }}
+                                    <div class="placeholder">3D</div>
+                                {{ end }}
+                            </div>
+                            <h3 class="model-title">{{ .Title }}</h3>
+                        </a>
+                    </div>
+                {{ end }}
+            </div>
+        </main>
+    </div>
+
+    <style>
+        .models-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .model-item {
+            border: 1px solid var(--border-color, #eee);
+            border-radius: 8px;
+            overflow: hidden;
+            transition: transform 0.2s;
+            background: var(--background-secondary, transparent);
+        }
+
+        .model-item:hover {
+            transform: translateY(-5px);
+        }
+
+        .model-item a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .model-thumbnail {
+            width: 100%;
+            height: 200px;
+            overflow: hidden;
+            background: #222;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .model-thumbnail img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .model-thumbnail .placeholder {
+            font-size: 3rem;
+            color: #555;
+            font-weight: bold;
+        }
+
+        .model-title {
+            padding: 1rem;
+            margin: 0;
+            font-size: 1.1rem;
+            text-align: center;
+        }
+    </style>
+{{ end }}
