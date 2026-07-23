@@ -5,6 +5,7 @@ theme = ["mdi", "hello-friend-ng", "cl-image", "devicons"]
 enableEmoji = true
 googleAnalytics = "G-8WDFLLSMBT"
 
+
 [params]
 images = ["/coding-me.jpg"]
 enableThemeToggle = true
@@ -20,6 +21,9 @@ baseURL = "https://res.cloudinary.com/"
 cloudName = "scooter-scooter"
 folderName = "Portfolio"
 enableGlobalLanguageMenu = true
+
+[params.author]
+name = "Ryuichiro Suzuki"
 
 [languages]
 [languages.en]
