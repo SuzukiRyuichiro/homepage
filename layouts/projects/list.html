@@ -1,0 +1,110 @@
+{{ define "main" }}
+    <div class="content">
+        <main class="posts">
+            <h1>{{ .Title }}</h1>
+
+            {{ if .Content }}
+                <div class="content">{{ .Content }}</div>
+            {{ end }}
+
+            {{ $projects := .Pages }}
+            
+            {{/* 3D Models Section */}}
+            {{ $threeD := where $projects "Params.project_type" "3d" }}
+            {{ if $threeD }}
+                <h2 class="section-title">3D Models</h2>
+                <div class="projects-grid">
+                    {{ range $threeD }}
+                        {{ partial "project-card.html" . }}
+                    {{ end }}
+                </div>
+            {{ end }}
+
+            {{/* Apps Section */}}
+            {{ $apps := where $projects "Params.project_type" "app" }}
+            {{ if $apps }}
+                <h2 class="section-title">Apps</h2>
+                <div class="projects-grid">
+                    {{ range $apps }}
+                        {{ partial "project-card.html" . }}
+                    {{ end }}
+                </div>
+            {{ end }}
+        </main>
+    </div>
+
+    <style>
+        .section-title {
+            margin-top: 3rem;
+            border-bottom: 2px solid var(--border-color, #eee);
+            padding-bottom: 0.5rem;
+        }
+
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .project-item {
+            border: 1px solid var(--border-color, #eee);
+            border-radius: 8px;
+            overflow: hidden;
+            transition: transform 0.2s;
+            background: var(--background-secondary, transparent);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .project-item:hover {
+            transform: translateY(-5px);
+        }
+
+        .project-item a {
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        .project-thumbnail {
+            width: 100%;
+            height: 200px;
+            overflow: hidden;
+            background: #222;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .project-thumbnail img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .project-thumbnail .placeholder {
+            font-size: 3rem;
+            color: #555;
+            font-weight: bold;
+        }
+
+        .project-info {
+            padding: 1.5rem;
+            flex-grow: 1;
+        }
+
+        .project-title {
+            margin: 0 0 0.5rem 0;
+            font-size: 1.25rem;
+        }
+
+        .project-description {
+            font-size: 0.9rem;
+            opacity: 0.8;
+            margin: 0;
+        }
+    </style>
+{{ end }}

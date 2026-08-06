@@ -1,0 +1,19 @@
+<div class="project-item">
+    <a href="{{ .Permalink }}">
+        <div class="project-thumbnail">
+            {{ if .Params.thumbnail }}
+                <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
+            {{ else }}
+                <div class="placeholder">
+                    {{ if eq .Params.project_type "3d" }}3D{{ else }}APP{{ end }}
+                </div>
+            {{ end }}
+        </div>
+        <div class="project-info">
+            <h3 class="project-title">{{ .Title }}</h3>
+            {{ if .Description }}
+                <p class="project-description">{{ .Description }}</p>
+            {{ end }}
+        </div>
+    </a>
+</div>
