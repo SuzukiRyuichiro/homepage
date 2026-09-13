@@ -26,4 +26,4 @@ I contacted Garmin support via chat and explained the whole situation, and they 
 
 I doubt many people run into this exact edge case, but I'm leaving this here as a record, just in case it helps someone who hits the same wall.
 
-Here's to more running :run:
+Here's to more running 🏃
